@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Versículo do Dia</title>
+</head>
+<body>
+  <h1>Versículo do Dia</h1>
+  <div id="verse-container">Carregando...</div>
+
+  <script>
+    async function loadVerse() {
+      const resp = await fetch('/data/verses.json');
+      const verses = await resp.json();
+      const today = new Date();
+      const m = String(today.getMonth() + 1).padStart(2, '0');
+      const d = String(today.getDate()).padStart(2, '0');
+      const found = verses.find(v => v.month === m && v.day === d);
+      if (found) {
+        document.getElementById('verse-container').innerHTML =
+          `<p style="font-size:1.5rem">${found.text}</p><p><strong>${found.reference}</strong></p><p>Categorias: ${found.categories.map(c => `<a href='/categorias/${c.toLowerCase()}.html'>${c}</a>`).join(' · ')}</p>`;
+      } else {
+        document.getElementById('verse-container').innerText = 'Versículo não encontrado.';
+      }
+    }
+    loadVerse();
+  </script>
+</body>
+</html>
