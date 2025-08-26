@@ -101,7 +101,7 @@
 
   <!-- Depois o banner -->
   <section class="banner-full">
-    <img src="img\ceu.png" alt="Céu Celestial">
+    <img src="img/ceu.png" alt="Céu Celestial">
   </section>
 
   <!-- E por fim o CTA -->
@@ -128,7 +128,15 @@ async function loadVerse() {
       document.getElementById('verse-container').innerHTML = `
         <h2 style="color:#0d47a1;">“${found.text}”</h2>
         <p><strong>${found.reference}</strong></p>
-        <p>Categorias: ${found.categories.map(c => `<a href='/categorias/${c.toLowerCase()}.html'>${c}</a>`).join(' · ')}</p>`;
+        <p>Categorias: ${found.categories.map(c => `<a href='/categorias/${c.toLowerCase()}.html'>${c}</a>`).join(' · ')}</p>
+        <button class="btn btn-primary mt-3" type="button" data-bs-toggle="collapse" data-bs-target="#explicacaoBox" aria-expanded="false" aria-controls="explicacaoBox">
+          Explicação
+        </button>
+        <div class="collapse mt-3" id="explicacaoBox">
+          <div class="card card-body text-start" style="color:#0d47a1;">
+            ${found.explanation || 'Breve explicação do versículo em construção.'}
+          </div>
+        </div>`;
     } else {
       document.getElementById('verse-container').innerText = 'Versículo não encontrado.';
     }
