@@ -7,7 +7,10 @@
     "categories": [
       "Fé"
     ],
-    "explanation": "Este versículo reforça a fé e a confiança em Deus como base da caminhada espiritual. (Gênesis 1:1)"
+    "categorySlugs": [
+      "fe"
+    ],
+    "explanation": "<strong>Gênesis 1:1</strong>"
   },
   {
     "month": "01",
@@ -17,7 +20,10 @@
     "categories": [
       "Confiança"
     ],
-    "explanation": "Este versículo ensina a confiar em Deus em todas as situações. (Salmos 23:1)"
+    "categorySlugs": [
+      "confianca"
+    ],
+    "explanation": "<strong>Salmos 23:1</strong>"
   },
   {
     "month": "01",
@@ -27,7 +33,10 @@
     "categories": [
       "Amor"
     ],
-    "explanation": "Este versículo fala do amor divino que transforma a vida e ensina a amar ao próximo. (João 3:16)"
+    "categorySlugs": [
+      "amor"
+    ],
+    "explanation": "<strong>João 3:16</strong>"
   },
   {
     "month": "01",
@@ -37,7 +46,10 @@
     "categories": [
       "Coragem"
     ],
-    "explanation": "Este versículo convida a ter coragem e firmeza diante das provações. (Filipenses 4:13)"
+    "categorySlugs": [
+      "coragem"
+    ],
+    "explanation": "<strong>Filipenses 4:13</strong>"
   },
   {
     "month": "01",
@@ -47,7 +59,10 @@
     "categories": [
       "Esperança"
     ],
-    "explanation": "Este versículo mostra que a esperança em Deus renova forças mesmo em tempos difíceis. (Jeremias 29:11)"
+    "categorySlugs": [
+      "esperanca"
+    ],
+    "explanation": "<strong>Jeremias 29:11</strong>"
   },
   {
     "month": "01",
@@ -57,7 +72,10 @@
     "categories": [
       "Paz"
     ],
-    "explanation": "Este versículo aponta para a paz que só Deus pode oferecer em meio às tribulações. (Salmos 46:1)"
+    "categorySlugs": [
+      "paz"
+    ],
+    "explanation": "<strong>Salmos 46:1</strong>"
   },
   {
     "month": "01",
@@ -67,7 +85,10 @@
     "categories": [
       "Confiança"
     ],
-    "explanation": "Este versículo ensina a confiar em Deus em todas as situações. (Romanos 8:28)"
+    "categorySlugs": [
+      "confianca"
+    ],
+    "explanation": "<strong>Romanos 8:28</strong>"
   },
   {
     "month": "01",
@@ -77,7 +98,10 @@
     "categories": [
       "Sabedoria"
     ],
-    "explanation": "Este versículo traz o convite à sabedoria que vem da Palavra de Deus. (Provérbios 3:5)"
+    "categorySlugs": [
+      "sabedoria"
+    ],
+    "explanation": "<strong>Provérbios 3:5</strong>"
   },
   {
     "month": "01",
@@ -87,7 +111,10 @@
     "categories": [
       "Consolação"
     ],
-    "explanation": "Este versículo traz consolo e alívio vindos do Senhor nos momentos de dor. (Mateus 11:28)"
+    "categorySlugs": [
+      "consolacao"
+    ],
+    "explanation": "<strong>Mateus 11:28</strong>"
   },
   {
     "month": "01",
@@ -97,7 +124,10 @@
     "categories": [
       "Coragem"
     ],
-    "explanation": "Este versículo convida a ter coragem e firmeza diante das provações. (Isaías 41:10)"
+    "categorySlugs": [
+      "coragem"
+    ],
+    "explanation": "<strong>Isaías 41:10</strong>"
   },
   {
     "month": "01",
@@ -107,7 +137,10 @@
     "categories": [
       "Sabedoria"
     ],
-    "explanation": "Este versículo traz o convite à sabedoria que vem da Palavra de Deus. (Salmos 119:105)"
+    "categorySlugs": [
+      "sabedoria"
+    ],
+    "explanation": "<strong>Salmos 119:105</strong>"
   },
   {
     "month": "01",
@@ -117,967 +150,1258 @@
     "categories": [
       "Obediência"
     ],
-    "explanation": "Este versículo convida a viver em obediência à vontade do Senhor. (Mateus 6:33)"
+    "categorySlugs": [
+      "obediencia"
+    ],
+    "explanation": "<strong>Mateus 6:33</strong>"
   },
   {
     "month": "01",
     "day": "13",
-    "text": "No princípio, Deus criou os céus e a terra.",
-    "reference": "Gênesis 1:1",
+    "text": "Provai e vede que o Senhor é bom; bem-aventurado o que nele se refugia.",
+    "reference": "Salmos 34:8",
     "categories": [
-      "Fé"
+      "Gratidao"
     ],
-    "explanation": "Este versículo reforça a fé e a confiança em Deus como base da caminhada espiritual. (Gênesis 1:1)"
+    "categorySlugs": [
+      "gratidao"
+    ],
+    "explanation": "<strong>Salmos 34:8</strong>"
   },
   {
     "month": "01",
     "day": "14",
-    "text": "O Senhor é meu pastor; nada me faltará.",
-    "reference": "Salmos 23:1",
+    "text": "Não vos conformeis com este mundo, mas transformai-vos pela renovação da mente.",
+    "reference": "Romanos 12:2",
     "categories": [
-      "Confiança"
+      "Santidade"
     ],
-    "explanation": "Este versículo ensina a confiar em Deus em todas as situações. (Salmos 23:1)"
+    "categorySlugs": [
+      "santidade"
+    ],
+    "explanation": "<strong>Romanos 12:2</strong>"
   },
   {
     "month": "01",
     "day": "15",
-    "text": "Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito.",
-    "reference": "João 3:16",
+    "text": "O amor é paciente, é benigno; o amor tudo sofre, tudo crê, tudo espera, tudo suporta.",
+    "reference": "1 Coríntios 13:4-7",
     "categories": [
       "Amor"
     ],
-    "explanation": "Este versículo fala do amor divino que transforma a vida e ensina a amar ao próximo. (João 3:16)"
+    "categorySlugs": [
+      "amor"
+    ],
+    "explanation": "<strong>1 Coríntios 13:4-7</strong>"
   },
   {
     "month": "01",
     "day": "16",
-    "text": "Posso todas as coisas naquele que me fortalece.",
-    "reference": "Filipenses 4:13",
+    "text": "Aquele que habita no esconderijo do Altíssimo, à sombra do Onipotente descansará.",
+    "reference": "Salmos 91:1",
     "categories": [
-      "Coragem"
+      "Paz"
     ],
-    "explanation": "Este versículo convida a ter coragem e firmeza diante das provações. (Filipenses 4:13)"
+    "categorySlugs": [
+      "paz"
+    ],
+    "explanation": "<strong>Salmos 91:1</strong>"
   },
   {
     "month": "01",
     "day": "17",
-    "text": "Eu é que sei os planos que tenho para vocês, diz o Senhor: planos de paz e não de mal.",
-    "reference": "Jeremias 29:11",
+    "text": "Não te mandei eu? Sê forte e corajoso; não temas nem te espantes.",
+    "reference": "Josué 1:9",
     "categories": [
-      "Esperança"
+      "Coragem"
     ],
-    "explanation": "Este versículo mostra que a esperança em Deus renova forças mesmo em tempos difíceis. (Jeremias 29:11)"
+    "categorySlugs": [
+      "coragem"
+    ],
+    "explanation": "<strong>Josué 1:9</strong>"
   },
   {
     "month": "01",
     "day": "18",
-    "text": "Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia.",
-    "reference": "Salmos 46:1",
+    "text": "Disse-lhe Jesus: Eu sou o caminho, a verdade e a vida.",
+    "reference": "João 14:6",
     "categories": [
-      "Paz"
+      "Fé"
     ],
-    "explanation": "Este versículo aponta para a paz que só Deus pode oferecer em meio às tribulações. (Salmos 46:1)"
+    "categorySlugs": [
+      "fe"
+    ],
+    "explanation": "<strong>João 14:6</strong>"
   },
   {
     "month": "01",
     "day": "19",
-    "text": "Sabemos que todas as coisas cooperam para o bem dos que amam a Deus.",
-    "reference": "Romanos 8:28",
+    "text": "No princípio era o Verbo, e o Verbo estava com Deus, e o Verbo era Deus.",
+    "reference": "João 1:1",
     "categories": [
-      "Confiança"
+      "Fé"
     ],
-    "explanation": "Este versículo ensina a confiar em Deus em todas as situações. (Romanos 8:28)"
+    "categorySlugs": [
+      "fe"
+    ],
+    "explanation": "<strong>João 1:1</strong>"
   },
   {
     "month": "01",
     "day": "20",
-    "text": "Confia no Senhor de todo o teu coração e não te apoies em teu próprio entendimento.",
-    "reference": "Provérbios 3:5",
+    "text": "O Senhor é a minha luz e a minha salvação; a quem temerei?",
+    "reference": "Salmos 27:1",
     "categories": [
-      "Sabedoria"
+      "Coragem"
     ],
-    "explanation": "Este versículo traz o convite à sabedoria que vem da Palavra de Deus. (Provérbios 3:5)"
+    "categorySlugs": [
+      "coragem"
+    ],
+    "explanation": "<strong>Salmos 27:1</strong>"
   },
   {
     "month": "01",
     "day": "21",
-    "text": "Vinde a mim todos os que estais cansados e sobrecarregados, e eu vos aliviarei.",
-    "reference": "Mateus 11:28",
+    "text": "Entrega o teu caminho ao Senhor; confia nele, e o mais ele fará.",
+    "reference": "Salmos 37:5",
     "categories": [
-      "Consolação"
+      "Confiança"
     ],
-    "explanation": "Este versículo traz consolo e alívio vindos do Senhor nos momentos de dor. (Mateus 11:28)"
+    "categorySlugs": [
+      "confianca"
+    ],
+    "explanation": "<strong>Salmos 37:5</strong>"
   },
   {
     "month": "01",
     "day": "22",
-    "text": "Não temas, porque eu sou contigo; não te assombres, porque eu sou teu Deus.",
-    "reference": "Isaías 41:10",
+    "text": "Bem-aventurados os que choram, porque serão consolados.",
+    "reference": "Mateus 5:4",
     "categories": [
-      "Coragem"
+      "Consolação"
     ],
-    "explanation": "Este versículo convida a ter coragem e firmeza diante das provações. (Isaías 41:10)"
+    "categorySlugs": [
+      "consolacao"
+    ],
+    "explanation": "<strong>Mateus 5:4</strong>"
   },
   {
     "month": "01",
     "day": "23",
-    "text": "Lâmpada para os meus pés é a tua palavra e luz para o meu caminho.",
-    "reference": "Salmos 119:105",
+    "text": "Clama a mim, e responder-te-ei; anunciar-te-ei coisas grandes e ocultas.",
+    "reference": "Jeremias 33:3",
     "categories": [
       "Sabedoria"
     ],
-    "explanation": "Este versículo traz o convite à sabedoria que vem da Palavra de Deus. (Salmos 119:105)"
+    "categorySlugs": [
+      "sabedoria"
+    ],
+    "explanation": "<strong>Jeremias 33:3</strong>"
   },
   {
     "month": "01",
     "day": "24",
-    "text": "Buscai primeiro o Reino de Deus e a sua justiça, e todas essas coisas serão acrescentadas.",
-    "reference": "Mateus 6:33",
+    "text": "Se Deus é por nós, quem será contra nós?",
+    "reference": "Romanos 8:31",
     "categories": [
-      "Obediência"
+      "Confiança"
     ],
-    "explanation": "Este versículo convida a viver em obediência à vontade do Senhor. (Mateus 6:33)"
+    "categorySlugs": [
+      "confianca"
+    ],
+    "explanation": "<strong>Romanos 8:31</strong>"
   },
   {
     "month": "01",
     "day": "25",
-    "text": "No princípio, Deus criou os céus e a terra.",
-    "reference": "Gênesis 1:1",
+    "text": "Crê no Senhor Jesus e serás salvo, tu e tua casa.",
+    "reference": "Atos 16:31",
     "categories": [
       "Fé"
     ],
-    "explanation": "Este versículo reforça a fé e a confiança em Deus como base da caminhada espiritual. (Gênesis 1:1)"
+    "categorySlugs": [
+      "fe"
+    ],
+    "explanation": "<strong>Atos 16:31</strong>"
   },
   {
     "month": "01",
     "day": "26",
-    "text": "O Senhor é meu pastor; nada me faltará.",
-    "reference": "Salmos 23:1",
+    "text": "Sede fortes e corajosos; o Senhor vai convosco.",
+    "reference": "Deuteronômio 31:6",
     "categories": [
-      "Confiança"
+      "Coragem"
     ],
-    "explanation": "Este versículo ensina a confiar em Deus em todas as situações. (Salmos 23:1)"
+    "categorySlugs": [
+      "coragem"
+    ],
+    "explanation": "<strong>Deuteronômio 31:6</strong>"
   },
   {
     "month": "01",
     "day": "27",
-    "text": "Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito.",
-    "reference": "João 3:16",
+    "text": "O Senhor pelejará por vós, e vós vos calareis.",
+    "reference": "Êxodo 14:14",
     "categories": [
-      "Amor"
+      "Confiança"
     ],
-    "explanation": "Este versículo fala do amor divino que transforma a vida e ensina a amar ao próximo. (João 3:16)"
+    "categorySlugs": [
+      "confianca"
+    ],
+    "explanation": "<strong>Êxodo 14:14</strong>"
   },
   {
     "month": "01",
     "day": "28",
-    "text": "Posso todas as coisas naquele que me fortalece.",
-    "reference": "Filipenses 4:13",
+    "text": "Alegrai-vos sempre no Senhor; outra vez digo: alegrai-vos.",
+    "reference": "Filipenses 4:4",
     "categories": [
-      "Coragem"
+      "Louvor"
     ],
-    "explanation": "Este versículo convida a ter coragem e firmeza diante das provações. (Filipenses 4:13)"
+    "categorySlugs": [
+      "louvor"
+    ],
+    "explanation": "<strong>Filipenses 4:4</strong>"
   },
   {
     "month": "01",
     "day": "29",
-    "text": "Eu é que sei os planos que tenho para vocês, diz o Senhor: planos de paz e não de mal.",
-    "reference": "Jeremias 29:11",
+    "text": "A fé é a certeza das coisas que se esperam e a convicção de fatos que não se veem.",
+    "reference": "Hebreus 11:1",
     "categories": [
-      "Esperança"
+      "Fé"
     ],
-    "explanation": "Este versículo mostra que a esperança em Deus renova forças mesmo em tempos difíceis. (Jeremias 29:11)"
+    "categorySlugs": [
+      "fe"
+    ],
+    "explanation": "<strong>Hebreus 11:1</strong>"
   },
   {
     "month": "01",
     "day": "30",
-    "text": "Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia.",
-    "reference": "Salmos 46:1",
+    "text": "Cria em mim, ó Deus, um coração puro e renova em mim um espírito reto.",
+    "reference": "Salmos 51:10",
     "categories": [
-      "Paz"
+      "Santidade"
     ],
-    "explanation": "Este versículo aponta para a paz que só Deus pode oferecer em meio às tribulações. (Salmos 46:1)"
+    "categorySlugs": [
+      "santidade"
+    ],
+    "explanation": "<strong>Salmos 51:10</strong>"
   },
   {
     "month": "01",
     "day": "31",
-    "text": "Sabemos que todas as coisas cooperam para o bem dos que amam a Deus.",
-    "reference": "Romanos 8:28",
+    "text": "A resposta branda desvia o furor.",
+    "reference": "Provérbios 15:1",
     "categories": [
-      "Confiança"
+      "Sabedoria"
     ],
-    "explanation": "Este versículo ensina a confiar em Deus em todas as situações. (Romanos 8:28)"
+    "categorySlugs": [
+      "sabedoria"
+    ],
+    "explanation": "<strong>Provérbios 15:1</strong>"
   },
   {
     "month": "02",
     "day": "01",
-    "text": "Confia no Senhor de todo o teu coração e não te apoies em teu próprio entendimento.",
-    "reference": "Provérbios 3:5",
+    "text": "O Senhor dos Exércitos está conosco; o Deus de Jacó é o nosso refúgio.",
+    "reference": "Salmos 46:7",
     "categories": [
-      "Sabedoria"
+      "Paz"
     ],
-    "explanation": "Este versículo traz o convite à sabedoria que vem da Palavra de Deus. (Provérbios 3:5)"
+    "categorySlugs": [
+      "paz"
+    ],
+    "explanation": "<strong>Salmos 46:7</strong>"
   },
   {
     "month": "02",
     "day": "02",
-    "text": "Vinde a mim todos os que estais cansados e sobrecarregados, e eu vos aliviarei.",
-    "reference": "Mateus 11:28",
+    "text": "O Senhor é bom, e a sua misericórdia dura para sempre.",
+    "reference": "Salmos 100:5",
     "categories": [
-      "Consolação"
+      "Gratidao"
     ],
-    "explanation": "Este versículo traz consolo e alívio vindos do Senhor nos momentos de dor. (Mateus 11:28)"
+    "categorySlugs": [
+      "gratidao"
+    ],
+    "explanation": "<strong>Salmos 100:5</strong>"
   },
   {
     "month": "02",
     "day": "03",
-    "text": "Não temas, porque eu sou contigo; não te assombres, porque eu sou teu Deus.",
-    "reference": "Isaías 41:10",
+    "text": "Perdoai, e sereis perdoados.",
+    "reference": "Lucas 6:37",
     "categories": [
-      "Coragem"
+      "Perdão"
     ],
-    "explanation": "Este versículo convida a ter coragem e firmeza diante das provações. (Isaías 41:10)"
+    "categorySlugs": [
+      "perdao"
+    ],
+    "explanation": "<strong>Lucas 6:37</strong>"
   },
   {
     "month": "02",
     "day": "04",
-    "text": "Lâmpada para os meus pés é a tua palavra e luz para o meu caminho.",
-    "reference": "Salmos 119:105",
+    "text": "Aquietai-vos e sabei que eu sou Deus.",
+    "reference": "Salmos 46:10",
     "categories": [
-      "Sabedoria"
+      "Paz"
     ],
-    "explanation": "Este versículo traz o convite à sabedoria que vem da Palavra de Deus. (Salmos 119:105)"
+    "categorySlugs": [
+      "paz"
+    ],
+    "explanation": "<strong>Salmos 46:10</strong>"
   },
   {
     "month": "02",
     "day": "05",
-    "text": "Buscai primeiro o Reino de Deus e a sua justiça, e todas essas coisas serão acrescentadas.",
-    "reference": "Mateus 6:33",
+    "text": "Ensina-nos a contar os nossos dias, para que alcancemos coração sábio.",
+    "reference": "Salmos 90:12",
     "categories": [
-      "Obediência"
+      "Sabedoria"
     ],
-    "explanation": "Este versículo convida a viver em obediência à vontade do Senhor. (Mateus 6:33)"
+    "categorySlugs": [
+      "sabedoria"
+    ],
+    "explanation": "<strong>Salmos 90:12</strong>"
   },
   {
     "month": "02",
     "day": "06",
-    "text": "No princípio, Deus criou os céus e a terra.",
-    "reference": "Gênesis 1:1",
+    "text": "O temor do Senhor é o princípio da sabedoria.",
+    "reference": "Provérbios 9:10",
     "categories": [
-      "Fé"
+      "Sabedoria"
     ],
-    "explanation": "Este versículo reforça a fé e a confiança em Deus como base da caminhada espiritual. (Gênesis 1:1)"
+    "categorySlugs": [
+      "sabedoria"
+    ],
+    "explanation": "<strong>Provérbios 9:10</strong>"
   },
   {
     "month": "02",
     "day": "07",
-    "text": "O Senhor é meu pastor; nada me faltará.",
-    "reference": "Salmos 23:1",
+    "text": "Sede prontos para ouvir, tardios para falar e tardios para se irar.",
+    "reference": "Tiago 1:19",
     "categories": [
-      "Confiança"
+      "Sabedoria"
     ],
-    "explanation": "Este versículo ensina a confiar em Deus em todas as situações. (Salmos 23:1)"
+    "categorySlugs": [
+      "sabedoria"
+    ],
+    "explanation": "<strong>Tiago 1:19</strong>"
   },
   {
     "month": "02",
     "day": "08",
-    "text": "Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito.",
-    "reference": "João 3:16",
+    "text": "Sobre tudo o que se deve guardar, guarda o coração.",
+    "reference": "Provérbios 4:23",
     "categories": [
-      "Amor"
+      "Sabedoria"
     ],
-    "explanation": "Este versículo fala do amor divino que transforma a vida e ensina a amar ao próximo. (João 3:16)"
+    "categorySlugs": [
+      "sabedoria"
+    ],
+    "explanation": "<strong>Provérbios 4:23</strong>"
   },
   {
     "month": "02",
     "day": "09",
-    "text": "Posso todas as coisas naquele que me fortalece.",
-    "reference": "Filipenses 4:13",
+    "text": "Bem-aventurados os pacificadores, porque serão chamados filhos de Deus.",
+    "reference": "Mateus 5:9",
     "categories": [
-      "Coragem"
+      "Paz"
     ],
-    "explanation": "Este versículo convida a ter coragem e firmeza diante das provações. (Filipenses 4:13)"
+    "categorySlugs": [
+      "paz"
+    ],
+    "explanation": "<strong>Mateus 5:9</strong>"
   },
   {
     "month": "02",
     "day": "10",
-    "text": "Eu é que sei os planos que tenho para vocês, diz o Senhor: planos de paz e não de mal.",
-    "reference": "Jeremias 29:11",
+    "text": "Lançai sobre ele toda a vossa ansiedade, porque ele tem cuidado de vós.",
+    "reference": "1 Pedro 5:7",
     "categories": [
-      "Esperança"
+      "Confiança"
     ],
-    "explanation": "Este versículo mostra que a esperança em Deus renova forças mesmo em tempos difíceis. (Jeremias 29:11)"
+    "categorySlugs": [
+      "confianca"
+    ],
+    "explanation": "<strong>1 Pedro 5:7</strong>"
   },
   {
     "month": "02",
     "day": "11",
-    "text": "Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia.",
-    "reference": "Salmos 46:1",
+    "text": "Se confessarmos os nossos pecados, ele é fiel e justo para nos perdoar.",
+    "reference": "1 João 1:9",
     "categories": [
-      "Paz"
+      "Perdão"
     ],
-    "explanation": "Este versículo aponta para a paz que só Deus pode oferecer em meio às tribulações. (Salmos 46:1)"
+    "categorySlugs": [
+      "perdao"
+    ],
+    "explanation": "<strong>1 João 1:9</strong>"
   },
   {
     "month": "02",
     "day": "12",
-    "text": "Sabemos que todas as coisas cooperam para o bem dos que amam a Deus.",
-    "reference": "Romanos 8:28",
+    "text": "A graça do Senhor Jesus seja com todos.",
+    "reference": "Apocalipse 22:21",
     "categories": [
-      "Confiança"
+      "Graça"
     ],
-    "explanation": "Este versículo ensina a confiar em Deus em todas as situações. (Romanos 8:28)"
+    "categorySlugs": [
+      "graça"
+    ],
+    "explanation": "<strong>Apocalipse 22:21</strong>"
   },
   {
     "month": "02",
     "day": "13",
-    "text": "Confia no Senhor de todo o teu coração e não te apoies em teu próprio entendimento.",
-    "reference": "Provérbios 3:5",
+    "text": "Sede fortes no Senhor e na força do seu poder.",
+    "reference": "Efésios 6:10",
     "categories": [
-      "Sabedoria"
+      "Coragem"
     ],
-    "explanation": "Este versículo traz o convite à sabedoria que vem da Palavra de Deus. (Provérbios 3:5)"
+    "categorySlugs": [
+      "coragem"
+    ],
+    "explanation": "<strong>Efésios 6:10</strong>"
   },
   {
     "month": "02",
     "day": "14",
-    "text": "Vinde a mim todos os que estais cansados e sobrecarregados, e eu vos aliviarei.",
-    "reference": "Mateus 11:28",
+    "text": "Deus é amor, e quem permanece no amor permanece em Deus.",
+    "reference": "1 João 4:16",
     "categories": [
-      "Consolação"
+      "Amor"
     ],
-    "explanation": "Este versículo traz consolo e alívio vindos do Senhor nos momentos de dor. (Mateus 11:28)"
+    "categorySlugs": [
+      "amor"
+    ],
+    "explanation": "<strong>1 João 4:16</strong>"
   },
   {
     "month": "02",
     "day": "15",
-    "text": "Não temas, porque eu sou contigo; não te assombres, porque eu sou teu Deus.",
-    "reference": "Isaías 41:10",
+    "text": "O justo viverá pela fé.",
+    "reference": "Habacuque 2:4",
     "categories": [
-      "Coragem"
+      "Fé"
     ],
-    "explanation": "Este versículo convida a ter coragem e firmeza diante das provações. (Isaías 41:10)"
+    "categorySlugs": [
+      "fe"
+    ],
+    "explanation": "<strong>Habacuque 2:4</strong>"
   },
   {
     "month": "02",
     "day": "16",
-    "text": "Lâmpada para os meus pés é a tua palavra e luz para o meu caminho.",
-    "reference": "Salmos 119:105",
+    "text": "O Senhor te abençoe e te guarde; o Senhor faça resplandecer o rosto sobre ti.",
+    "reference": "Números 6:24-26",
     "categories": [
-      "Sabedoria"
+      "Bênção"
     ],
-    "explanation": "Este versículo traz o convite à sabedoria que vem da Palavra de Deus. (Salmos 119:105)"
+    "categorySlugs": [
+      "bencao"
+    ],
+    "explanation": "<strong>Números 6:24-26</strong>"
   },
   {
     "month": "02",
     "day": "17",
-    "text": "Buscai primeiro o Reino de Deus e a sua justiça, e todas essas coisas serão acrescentadas.",
-    "reference": "Mateus 6:33",
+    "text": "Tudo o que fizerdes, fazei-o de coração, como para o Senhor.",
+    "reference": "Colossenses 3:23",
     "categories": [
       "Obediência"
     ],
-    "explanation": "Este versículo convida a viver em obediência à vontade do Senhor. (Mateus 6:33)"
+    "categorySlugs": [
+      "obediencia"
+    ],
+    "explanation": "<strong>Colossenses 3:23</strong>"
   },
   {
     "month": "02",
     "day": "18",
+    "text": "Sede bondosos e compassivos, perdoando-vos uns aos outros.",
+    "reference": "Efésios 4:32",
+    "categories": [
+      "Perdão"
+    ],
+    "categorySlugs": [
+      "perdao"
+    ],
+    "explanation": "<strong>Efésios 4:32</strong>"
+  },
+  {
+    "month": "02",
+    "day": "19",
+    "text": "A tua graça me basta, porque o poder se aperfeiçoa na fraqueza.",
+    "reference": "2 Coríntios 12:9",
+    "categories": [
+      "Consolação"
+    ],
+    "categorySlugs": [
+      "consolacao"
+    ],
+    "explanation": "<strong>2 Coríntios 12:9</strong>"
+  },
+  {
+    "month": "02",
+    "day": "20",
+    "text": "Bem-aventurado o homem que confia no Senhor.",
+    "reference": "Provérbios 16:20",
+    "categories": [
+      "Confiança"
+    ],
+    "categorySlugs": [
+      "confianca"
+    ],
+    "explanation": "<strong>Provérbios 16:20</strong>"
+  },
+  {
+    "month": "02",
+    "day": "21",
+    "text": "Jesus Cristo é o mesmo ontem, hoje e eternamente.",
+    "reference": "Hebreus 13:8",
+    "categories": [
+      "Fé"
+    ],
+    "categorySlugs": [
+      "fe"
+    ],
+    "explanation": "<strong>Hebreus 13:8</strong>"
+  },
+  {
+    "month": "02",
+    "day": "22",
+    "text": "Fé sem obras é morta.",
+    "reference": "Tiago 2:17",
+    "categories": [
+      "Obediência"
+    ],
+    "categorySlugs": [
+      "obediencia"
+    ],
+    "explanation": "<strong>Tiago 2:17</strong>"
+  },
+  {
+    "month": "02",
+    "day": "23",
+    "text": "Onde está o teu tesouro, aí estará também o teu coração.",
+    "reference": "Mateus 6:21",
+    "categories": [
+      "Sabedoria"
+    ],
+    "categorySlugs": [
+      "sabedoria"
+    ],
+    "explanation": "<strong>Mateus 6:21</strong>"
+  },
+  {
+    "month": "02",
+    "day": "24",
     "text": "No princípio, Deus criou os céus e a terra.",
     "reference": "Gênesis 1:1",
     "categories": [
       "Fé"
     ],
-    "explanation": "Este versículo reforça a fé e a confiança em Deus como base da caminhada espiritual. (Gênesis 1:1)"
+    "categorySlugs": [
+      "fe"
+    ],
+    "explanation": "<strong>Gênesis 1:1</strong>"
   },
   {
     "month": "02",
-    "day": "19",
+    "day": "25",
     "text": "O Senhor é meu pastor; nada me faltará.",
     "reference": "Salmos 23:1",
     "categories": [
       "Confiança"
     ],
-    "explanation": "Este versículo ensina a confiar em Deus em todas as situações. (Salmos 23:1)"
+    "categorySlugs": [
+      "confianca"
+    ],
+    "explanation": "<strong>Salmos 23:1</strong>"
   },
   {
     "month": "02",
-    "day": "20",
+    "day": "26",
     "text": "Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito.",
     "reference": "João 3:16",
     "categories": [
       "Amor"
     ],
-    "explanation": "Este versículo fala do amor divino que transforma a vida e ensina a amar ao próximo. (João 3:16)"
+    "categorySlugs": [
+      "amor"
+    ],
+    "explanation": "<strong>João 3:16</strong>"
   },
   {
     "month": "02",
-    "day": "21",
+    "day": "27",
     "text": "Posso todas as coisas naquele que me fortalece.",
     "reference": "Filipenses 4:13",
     "categories": [
       "Coragem"
     ],
-    "explanation": "Este versículo convida a ter coragem e firmeza diante das provações. (Filipenses 4:13)"
+    "categorySlugs": [
+      "coragem"
+    ],
+    "explanation": "<strong>Filipenses 4:13</strong>"
   },
   {
     "month": "02",
-    "day": "22",
+    "day": "28",
     "text": "Eu é que sei os planos que tenho para vocês, diz o Senhor: planos de paz e não de mal.",
     "reference": "Jeremias 29:11",
     "categories": [
       "Esperança"
     ],
-    "explanation": "Este versículo mostra que a esperança em Deus renova forças mesmo em tempos difíceis. (Jeremias 29:11)"
-  },
-  {
-    "month": "02",
-    "day": "23",
-    "text": "Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia.",
-    "reference": "Salmos 46:1",
-    "categories": [
-      "Paz"
+    "categorySlugs": [
+      "esperanca"
     ],
-    "explanation": "Este versículo aponta para a paz que só Deus pode oferecer em meio às tribulações. (Salmos 46:1)"
-  },
-  {
-    "month": "02",
-    "day": "24",
-    "text": "Sabemos que todas as coisas cooperam para o bem dos que amam a Deus.",
-    "reference": "Romanos 8:28",
-    "categories": [
-      "Confiança"
-    ],
-    "explanation": "Este versículo ensina a confiar em Deus em todas as situações. (Romanos 8:28)"
-  },
-  {
-    "month": "02",
-    "day": "25",
-    "text": "Confia no Senhor de todo o teu coração e não te apoies em teu próprio entendimento.",
-    "reference": "Provérbios 3:5",
-    "categories": [
-      "Sabedoria"
-    ],
-    "explanation": "Este versículo traz o convite à sabedoria que vem da Palavra de Deus. (Provérbios 3:5)"
-  },
-  {
-    "month": "02",
-    "day": "26",
-    "text": "Vinde a mim todos os que estais cansados e sobrecarregados, e eu vos aliviarei.",
-    "reference": "Mateus 11:28",
-    "categories": [
-      "Consolação"
-    ],
-    "explanation": "Este versículo traz consolo e alívio vindos do Senhor nos momentos de dor. (Mateus 11:28)"
-  },
-  {
-    "month": "02",
-    "day": "27",
-    "text": "Não temas, porque eu sou contigo; não te assombres, porque eu sou teu Deus.",
-    "reference": "Isaías 41:10",
-    "categories": [
-      "Coragem"
-    ],
-    "explanation": "Este versículo convida a ter coragem e firmeza diante das provações. (Isaías 41:10)"
-  },
-  {
-    "month": "02",
-    "day": "28",
-    "text": "Lâmpada para os meus pés é a tua palavra e luz para o meu caminho.",
-    "reference": "Salmos 119:105",
-    "categories": [
-      "Sabedoria"
-    ],
-    "explanation": "Este versículo traz o convite à sabedoria que vem da Palavra de Deus. (Salmos 119:105)"
+    "explanation": "<strong>Jeremias 29:11</strong>"
   },
   {
     "month": "03",
     "day": "01",
-    "text": "Buscai primeiro o Reino de Deus e a sua justiça, e todas essas coisas serão acrescentadas.",
-    "reference": "Mateus 6:33",
+    "text": "Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia.",
+    "reference": "Salmos 46:1",
     "categories": [
-      "Obediência"
+      "Paz"
     ],
-    "explanation": "Este versículo convida a viver em obediência à vontade do Senhor. (Mateus 6:33)"
+    "categorySlugs": [
+      "paz"
+    ],
+    "explanation": "<strong>Salmos 46:1</strong>"
   },
   {
     "month": "03",
     "day": "02",
-    "text": "No princípio, Deus criou os céus e a terra.",
-    "reference": "Gênesis 1:1",
+    "text": "Sabemos que todas as coisas cooperam para o bem dos que amam a Deus.",
+    "reference": "Romanos 8:28",
     "categories": [
-      "Fé"
+      "Confiança"
     ],
-    "explanation": "Este versículo reforça a fé e a confiança em Deus como base da caminhada espiritual. (Gênesis 1:1)"
+    "categorySlugs": [
+      "confianca"
+    ],
+    "explanation": "<strong>Romanos 8:28</strong>"
   },
   {
     "month": "03",
     "day": "03",
-    "text": "O Senhor é meu pastor; nada me faltará.",
-    "reference": "Salmos 23:1",
+    "text": "Confia no Senhor de todo o teu coração e não te apoies em teu próprio entendimento.",
+    "reference": "Provérbios 3:5",
     "categories": [
-      "Confiança"
+      "Sabedoria"
     ],
-    "explanation": "Este versículo ensina a confiar em Deus em todas as situações. (Salmos 23:1)"
+    "categorySlugs": [
+      "sabedoria"
+    ],
+    "explanation": "<strong>Provérbios 3:5</strong>"
   },
   {
     "month": "03",
     "day": "04",
-    "text": "Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito.",
-    "reference": "João 3:16",
+    "text": "Vinde a mim todos os que estais cansados e sobrecarregados, e eu vos aliviarei.",
+    "reference": "Mateus 11:28",
     "categories": [
-      "Amor"
+      "Consolação"
     ],
-    "explanation": "Este versículo fala do amor divino que transforma a vida e ensina a amar ao próximo. (João 3:16)"
+    "categorySlugs": [
+      "consolacao"
+    ],
+    "explanation": "<strong>Mateus 11:28</strong>"
   },
   {
     "month": "03",
     "day": "05",
-    "text": "Posso todas as coisas naquele que me fortalece.",
-    "reference": "Filipenses 4:13",
+    "text": "Não temas, porque eu sou contigo; não te assombres, porque eu sou teu Deus.",
+    "reference": "Isaías 41:10",
     "categories": [
       "Coragem"
     ],
-    "explanation": "Este versículo convida a ter coragem e firmeza diante das provações. (Filipenses 4:13)"
+    "categorySlugs": [
+      "coragem"
+    ],
+    "explanation": "<strong>Isaías 41:10</strong>"
   },
   {
     "month": "03",
     "day": "06",
-    "text": "Eu é que sei os planos que tenho para vocês, diz o Senhor: planos de paz e não de mal.",
-    "reference": "Jeremias 29:11",
+    "text": "Lâmpada para os meus pés é a tua palavra e luz para o meu caminho.",
+    "reference": "Salmos 119:105",
     "categories": [
-      "Esperança"
+      "Sabedoria"
     ],
-    "explanation": "Este versículo mostra que a esperança em Deus renova forças mesmo em tempos difíceis. (Jeremias 29:11)"
+    "categorySlugs": [
+      "sabedoria"
+    ],
+    "explanation": "<strong>Salmos 119:105</strong>"
   },
   {
     "month": "03",
     "day": "07",
-    "text": "Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia.",
-    "reference": "Salmos 46:1",
+    "text": "Buscai primeiro o Reino de Deus e a sua justiça, e todas essas coisas serão acrescentadas.",
+    "reference": "Mateus 6:33",
     "categories": [
-      "Paz"
+      "Obediência"
     ],
-    "explanation": "Este versículo aponta para a paz que só Deus pode oferecer em meio às tribulações. (Salmos 46:1)"
+    "categorySlugs": [
+      "obediencia"
+    ],
+    "explanation": "<strong>Mateus 6:33</strong>"
   },
   {
     "month": "03",
     "day": "08",
-    "text": "Sabemos que todas as coisas cooperam para o bem dos que amam a Deus.",
-    "reference": "Romanos 8:28",
+    "text": "Provai e vede que o Senhor é bom; bem-aventurado o que nele se refugia.",
+    "reference": "Salmos 34:8",
     "categories": [
-      "Confiança"
+      "Gratidao"
     ],
-    "explanation": "Este versículo ensina a confiar em Deus em todas as situações. (Romanos 8:28)"
+    "categorySlugs": [
+      "gratidao"
+    ],
+    "explanation": "<strong>Salmos 34:8</strong>"
   },
   {
     "month": "03",
     "day": "09",
-    "text": "Confia no Senhor de todo o teu coração e não te apoies em teu próprio entendimento.",
-    "reference": "Provérbios 3:5",
+    "text": "Não vos conformeis com este mundo, mas transformai-vos pela renovação da mente.",
+    "reference": "Romanos 12:2",
     "categories": [
-      "Sabedoria"
+      "Santidade"
     ],
-    "explanation": "Este versículo traz o convite à sabedoria que vem da Palavra de Deus. (Provérbios 3:5)"
+    "categorySlugs": [
+      "santidade"
+    ],
+    "explanation": "<strong>Romanos 12:2</strong>"
   },
   {
     "month": "03",
     "day": "10",
-    "text": "Vinde a mim todos os que estais cansados e sobrecarregados, e eu vos aliviarei.",
-    "reference": "Mateus 11:28",
+    "text": "O amor é paciente, é benigno; o amor tudo sofre, tudo crê, tudo espera, tudo suporta.",
+    "reference": "1 Coríntios 13:4-7",
     "categories": [
-      "Consolação"
+      "Amor"
     ],
-    "explanation": "Este versículo traz consolo e alívio vindos do Senhor nos momentos de dor. (Mateus 11:28)"
+    "categorySlugs": [
+      "amor"
+    ],
+    "explanation": "<strong>1 Coríntios 13:4-7</strong>"
   },
   {
     "month": "03",
     "day": "11",
-    "text": "Não temas, porque eu sou contigo; não te assombres, porque eu sou teu Deus.",
-    "reference": "Isaías 41:10",
+    "text": "Aquele que habita no esconderijo do Altíssimo, à sombra do Onipotente descansará.",
+    "reference": "Salmos 91:1",
     "categories": [
-      "Coragem"
+      "Paz"
     ],
-    "explanation": "Este versículo convida a ter coragem e firmeza diante das provações. (Isaías 41:10)"
+    "categorySlugs": [
+      "paz"
+    ],
+    "explanation": "<strong>Salmos 91:1</strong>"
   },
   {
     "month": "03",
     "day": "12",
-    "text": "Lâmpada para os meus pés é a tua palavra e luz para o meu caminho.",
-    "reference": "Salmos 119:105",
+    "text": "Não te mandei eu? Sê forte e corajoso; não temas nem te espantes.",
+    "reference": "Josué 1:9",
     "categories": [
-      "Sabedoria"
+      "Coragem"
     ],
-    "explanation": "Este versículo traz o convite à sabedoria que vem da Palavra de Deus. (Salmos 119:105)"
+    "categorySlugs": [
+      "coragem"
+    ],
+    "explanation": "<strong>Josué 1:9</strong>"
   },
   {
     "month": "03",
     "day": "13",
-    "text": "Buscai primeiro o Reino de Deus e a sua justiça, e todas essas coisas serão acrescentadas.",
-    "reference": "Mateus 6:33",
+    "text": "Disse-lhe Jesus: Eu sou o caminho, a verdade e a vida.",
+    "reference": "João 14:6",
     "categories": [
-      "Obediência"
+      "Fé"
     ],
-    "explanation": "Este versículo convida a viver em obediência à vontade do Senhor. (Mateus 6:33)"
+    "categorySlugs": [
+      "fe"
+    ],
+    "explanation": "<strong>João 14:6</strong>"
   },
   {
     "month": "03",
     "day": "14",
-    "text": "No princípio, Deus criou os céus e a terra.",
-    "reference": "Gênesis 1:1",
+    "text": "No princípio era o Verbo, e o Verbo estava com Deus, e o Verbo era Deus.",
+    "reference": "João 1:1",
     "categories": [
       "Fé"
     ],
-    "explanation": "Este versículo reforça a fé e a confiança em Deus como base da caminhada espiritual. (Gênesis 1:1)"
+    "categorySlugs": [
+      "fe"
+    ],
+    "explanation": "<strong>João 1:1</strong>"
   },
   {
     "month": "03",
     "day": "15",
-    "text": "O Senhor é meu pastor; nada me faltará.",
-    "reference": "Salmos 23:1",
+    "text": "O Senhor é a minha luz e a minha salvação; a quem temerei?",
+    "reference": "Salmos 27:1",
     "categories": [
-      "Confiança"
+      "Coragem"
     ],
-    "explanation": "Este versículo ensina a confiar em Deus em todas as situações. (Salmos 23:1)"
+    "categorySlugs": [
+      "coragem"
+    ],
+    "explanation": "<strong>Salmos 27:1</strong>"
   },
   {
     "month": "03",
     "day": "16",
-    "text": "Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito.",
-    "reference": "João 3:16",
+    "text": "Entrega o teu caminho ao Senhor; confia nele, e o mais ele fará.",
+    "reference": "Salmos 37:5",
     "categories": [
-      "Amor"
+      "Confiança"
     ],
-    "explanation": "Este versículo fala do amor divino que transforma a vida e ensina a amar ao próximo. (João 3:16)"
+    "categorySlugs": [
+      "confianca"
+    ],
+    "explanation": "<strong>Salmos 37:5</strong>"
   },
   {
     "month": "03",
     "day": "17",
-    "text": "Posso todas as coisas naquele que me fortalece.",
-    "reference": "Filipenses 4:13",
+    "text": "Bem-aventurados os que choram, porque serão consolados.",
+    "reference": "Mateus 5:4",
     "categories": [
-      "Coragem"
+      "Consolação"
     ],
-    "explanation": "Este versículo convida a ter coragem e firmeza diante das provações. (Filipenses 4:13)"
+    "categorySlugs": [
+      "consolacao"
+    ],
+    "explanation": "<strong>Mateus 5:4</strong>"
   },
   {
     "month": "03",
     "day": "18",
-    "text": "Eu é que sei os planos que tenho para vocês, diz o Senhor: planos de paz e não de mal.",
-    "reference": "Jeremias 29:11",
+    "text": "Clama a mim, e responder-te-ei; anunciar-te-ei coisas grandes e ocultas.",
+    "reference": "Jeremias 33:3",
     "categories": [
-      "Esperança"
+      "Sabedoria"
     ],
-    "explanation": "Este versículo mostra que a esperança em Deus renova forças mesmo em tempos difíceis. (Jeremias 29:11)"
+    "categorySlugs": [
+      "sabedoria"
+    ],
+    "explanation": "<strong>Jeremias 33:3</strong>"
   },
   {
     "month": "03",
     "day": "19",
-    "text": "Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia.",
-    "reference": "Salmos 46:1",
+    "text": "Se Deus é por nós, quem será contra nós?",
+    "reference": "Romanos 8:31",
     "categories": [
-      "Paz"
+      "Confiança"
     ],
-    "explanation": "Este versículo aponta para a paz que só Deus pode oferecer em meio às tribulações. (Salmos 46:1)"
+    "categorySlugs": [
+      "confianca"
+    ],
+    "explanation": "<strong>Romanos 8:31</strong>"
   },
   {
     "month": "03",
     "day": "20",
-    "text": "Sabemos que todas as coisas cooperam para o bem dos que amam a Deus.",
-    "reference": "Romanos 8:28",
+    "text": "Crê no Senhor Jesus e serás salvo, tu e tua casa.",
+    "reference": "Atos 16:31",
     "categories": [
-      "Confiança"
+      "Fé"
     ],
-    "explanation": "Este versículo ensina a confiar em Deus em todas as situações. (Romanos 8:28)"
+    "categorySlugs": [
+      "fe"
+    ],
+    "explanation": "<strong>Atos 16:31</strong>"
   },
   {
     "month": "03",
     "day": "21",
-    "text": "Confia no Senhor de todo o teu coração e não te apoies em teu próprio entendimento.",
-    "reference": "Provérbios 3:5",
+    "text": "Sede fortes e corajosos; o Senhor vai convosco.",
+    "reference": "Deuteronômio 31:6",
     "categories": [
-      "Sabedoria"
+      "Coragem"
     ],
-    "explanation": "Este versículo traz o convite à sabedoria que vem da Palavra de Deus. (Provérbios 3:5)"
+    "categorySlugs": [
+      "coragem"
+    ],
+    "explanation": "<strong>Deuteronômio 31:6</strong>"
   },
   {
     "month": "03",
     "day": "22",
-    "text": "Vinde a mim todos os que estais cansados e sobrecarregados, e eu vos aliviarei.",
-    "reference": "Mateus 11:28",
+    "text": "O Senhor pelejará por vós, e vós vos calareis.",
+    "reference": "Êxodo 14:14",
     "categories": [
-      "Consolação"
+      "Confiança"
     ],
-    "explanation": "Este versículo traz consolo e alívio vindos do Senhor nos momentos de dor. (Mateus 11:28)"
+    "categorySlugs": [
+      "confianca"
+    ],
+    "explanation": "<strong>Êxodo 14:14</strong>"
   },
   {
     "month": "03",
     "day": "23",
-    "text": "Não temas, porque eu sou contigo; não te assombres, porque eu sou teu Deus.",
-    "reference": "Isaías 41:10",
+    "text": "Alegrai-vos sempre no Senhor; outra vez digo: alegrai-vos.",
+    "reference": "Filipenses 4:4",
     "categories": [
-      "Coragem"
+      "Louvor"
     ],
-    "explanation": "Este versículo convida a ter coragem e firmeza diante das provações. (Isaías 41:10)"
+    "categorySlugs": [
+      "louvor"
+    ],
+    "explanation": "<strong>Filipenses 4:4</strong>"
   },
   {
     "month": "03",
     "day": "24",
-    "text": "Lâmpada para os meus pés é a tua palavra e luz para o meu caminho.",
-    "reference": "Salmos 119:105",
+    "text": "A fé é a certeza das coisas que se esperam e a convicção de fatos que não se veem.",
+    "reference": "Hebreus 11:1",
     "categories": [
-      "Sabedoria"
+      "Fé"
     ],
-    "explanation": "Este versículo traz o convite à sabedoria que vem da Palavra de Deus. (Salmos 119:105)"
+    "categorySlugs": [
+      "fe"
+    ],
+    "explanation": "<strong>Hebreus 11:1</strong>"
   },
   {
     "month": "03",
     "day": "25",
-    "text": "Buscai primeiro o Reino de Deus e a sua justiça, e todas essas coisas serão acrescentadas.",
-    "reference": "Mateus 6:33",
+    "text": "Cria em mim, ó Deus, um coração puro e renova em mim um espírito reto.",
+    "reference": "Salmos 51:10",
     "categories": [
-      "Obediência"
+      "Santidade"
     ],
-    "explanation": "Este versículo convida a viver em obediência à vontade do Senhor. (Mateus 6:33)"
+    "categorySlugs": [
+      "santidade"
+    ],
+    "explanation": "<strong>Salmos 51:10</strong>"
   },
   {
     "month": "03",
     "day": "26",
-    "text": "No princípio, Deus criou os céus e a terra.",
-    "reference": "Gênesis 1:1",
+    "text": "A resposta branda desvia o furor.",
+    "reference": "Provérbios 15:1",
     "categories": [
-      "Fé"
+      "Sabedoria"
     ],
-    "explanation": "Este versículo reforça a fé e a confiança em Deus como base da caminhada espiritual. (Gênesis 1:1)"
+    "categorySlugs": [
+      "sabedoria"
+    ],
+    "explanation": "<strong>Provérbios 15:1</strong>"
   },
   {
     "month": "03",
     "day": "27",
-    "text": "O Senhor é meu pastor; nada me faltará.",
-    "reference": "Salmos 23:1",
+    "text": "O Senhor dos Exércitos está conosco; o Deus de Jacó é o nosso refúgio.",
+    "reference": "Salmos 46:7",
     "categories": [
-      "Confiança"
+      "Paz"
     ],
-    "explanation": "Este versículo ensina a confiar em Deus em todas as situações. (Salmos 23:1)"
+    "categorySlugs": [
+      "paz"
+    ],
+    "explanation": "<strong>Salmos 46:7</strong>"
   },
   {
     "month": "03",
     "day": "28",
-    "text": "Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito.",
-    "reference": "João 3:16",
+    "text": "O Senhor é bom, e a sua misericórdia dura para sempre.",
+    "reference": "Salmos 100:5",
     "categories": [
-      "Amor"
+      "Gratidao"
     ],
-    "explanation": "Este versículo fala do amor divino que transforma a vida e ensina a amar ao próximo. (João 3:16)"
+    "categorySlugs": [
+      "gratidao"
+    ],
+    "explanation": "<strong>Salmos 100:5</strong>"
   },
   {
     "month": "03",
     "day": "29",
-    "text": "Posso todas as coisas naquele que me fortalece.",
-    "reference": "Filipenses 4:13",
+    "text": "Perdoai, e sereis perdoados.",
+    "reference": "Lucas 6:37",
     "categories": [
-      "Coragem"
+      "Perdão"
     ],
-    "explanation": "Este versículo convida a ter coragem e firmeza diante das provações. (Filipenses 4:13)"
+    "categorySlugs": [
+      "perdao"
+    ],
+    "explanation": "<strong>Lucas 6:37</strong>"
   },
   {
     "month": "03",
     "day": "30",
-    "text": "Eu é que sei os planos que tenho para vocês, diz o Senhor: planos de paz e não de mal.",
-    "reference": "Jeremias 29:11",
+    "text": "Aquietai-vos e sabei que eu sou Deus.",
+    "reference": "Salmos 46:10",
     "categories": [
-      "Esperança"
+      "Paz"
     ],
-    "explanation": "Este versículo mostra que a esperança em Deus renova forças mesmo em tempos difíceis. (Jeremias 29:11)"
+    "categorySlugs": [
+      "paz"
+    ],
+    "explanation": "<strong>Salmos 46:10</strong>"
   },
   {
     "month": "03",
     "day": "31",
-    "text": "Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia.",
-    "reference": "Salmos 46:1",
+    "text": "Ensina-nos a contar os nossos dias, para que alcancemos coração sábio.",
+    "reference": "Salmos 90:12",
     "categories": [
-      "Paz"
+      "Sabedoria"
     ],
-    "explanation": "Este versículo aponta para a paz que só Deus pode oferecer em meio às tribulações. (Salmos 46:1)"
+    "categorySlugs": [
+      "sabedoria"
+    ],
+    "explanation": "<strong>Salmos 90:12</strong>"
   },
   {
     "month": "04",
     "day": "01",
-    "text": "Sabemos que todas as coisas cooperam para o bem dos que amam a Deus.",
-    "reference": "Romanos 8:28",
+    "text": "O temor do Senhor é o princípio da sabedoria.",
+    "reference": "Provérbios 9:10",
     "categories": [
-      "Confiança"
+      "Sabedoria"
     ],
-    "explanation": "Este versículo ensina a confiar em Deus em todas as situações. (Romanos 8:28)"
+    "categorySlugs": [
+      "sabedoria"
+    ],
+    "explanation": "<strong>Provérbios 9:10</strong>"
   },
   {
     "month": "04",
     "day": "02",
-    "text": "Confia no Senhor de todo o teu coração e não te apoies em teu próprio entendimento.",
-    "reference": "Provérbios 3:5",
+    "text": "Sede prontos para ouvir, tardios para falar e tardios para se irar.",
+    "reference": "Tiago 1:19",
     "categories": [
       "Sabedoria"
     ],
-    "explanation": "Este versículo traz o convite à sabedoria que vem da Palavra de Deus. (Provérbios 3:5)"
+    "categorySlugs": [
+      "sabedoria"
+    ],
+    "explanation": "<strong>Tiago 1:19</strong>"
   },
   {
     "month": "04",
     "day": "03",
-    "text": "Vinde a mim todos os que estais cansados e sobrecarregados, e eu vos aliviarei.",
-    "reference": "Mateus 11:28",
+    "text": "Sobre tudo o que se deve guardar, guarda o coração.",
+    "reference": "Provérbios 4:23",
     "categories": [
-      "Consolação"
+      "Sabedoria"
     ],
-    "explanation": "Este versículo traz consolo e alívio vindos do Senhor nos momentos de dor. (Mateus 11:28)"
+    "categorySlugs": [
+      "sabedoria"
+    ],
+    "explanation": "<strong>Provérbios 4:23</strong>"
   },
   {
     "month": "04",
     "day": "04",
-    "text": "Não temas, porque eu sou contigo; não te assombres, porque eu sou teu Deus.",
-    "reference": "Isaías 41:10",
+    "text": "Bem-aventurados os pacificadores, porque serão chamados filhos de Deus.",
+    "reference": "Mateus 5:9",
     "categories": [
-      "Coragem"
+      "Paz"
     ],
-    "explanation": "Este versículo convida a ter coragem e firmeza diante das provações. (Isaías 41:10)"
+    "categorySlugs": [
+      "paz"
+    ],
+    "explanation": "<strong>Mateus 5:9</strong>"
   },
   {
     "month": "04",
     "day": "05",
-    "text": "Lâmpada para os meus pés é a tua palavra e luz para o meu caminho.",
-    "reference": "Salmos 119:105",
+    "text": "Lançai sobre ele toda a vossa ansiedade, porque ele tem cuidado de vós.",
+    "reference": "1 Pedro 5:7",
     "categories": [
-      "Sabedoria"
+      "Confiança"
     ],
-    "explanation": "Este versículo traz o convite à sabedoria que vem da Palavra de Deus. (Salmos 119:105)"
+    "categorySlugs": [
+      "confianca"
+    ],
+    "explanation": "<strong>1 Pedro 5:7</strong>"
   },
   {
     "month": "04",
     "day": "06",
-    "text": "Buscai primeiro o Reino de Deus e a sua justiça, e todas essas coisas serão acrescentadas.",
-    "reference": "Mateus 6:33",
+    "text": "Se confessarmos os nossos pecados, ele é fiel e justo para nos perdoar.",
+    "reference": "1 João 1:9",
     "categories": [
-      "Obediência"
+      "Perdão"
     ],
-    "explanation": "Este versículo convida a viver em obediência à vontade do Senhor. (Mateus 6:33)"
+    "categorySlugs": [
+      "perdao"
+    ],
+    "explanation": "<strong>1 João 1:9</strong>"
   },
   {
     "month": "04",
     "day": "07",
-    "text": "No princípio, Deus criou os céus e a terra.",
-    "reference": "Gênesis 1:1",
+    "text": "A graça do Senhor Jesus seja com todos.",
+    "reference": "Apocalipse 22:21",
     "categories": [
-      "Fé"
+      "Graça"
     ],
-    "explanation": "Este versículo reforça a fé e a confiança em Deus como base da caminhada espiritual. (Gênesis 1:1)"
+    "categorySlugs": [
+      "graça"
+    ],
+    "explanation": "<strong>Apocalipse 22:21</strong>"
   },
   {
     "month": "04",
     "day": "08",
-    "text": "O Senhor é meu pastor; nada me faltará.",
-    "reference": "Salmos 23:1",
+    "text": "Sede fortes no Senhor e na força do seu poder.",
+    "reference": "Efésios 6:10",
     "categories": [
-      "Confiança"
+      "Coragem"
     ],
-    "explanation": "Este versículo ensina a confiar em Deus em todas as situações. (Salmos 23:1)"
+    "categorySlugs": [
+      "coragem"
+    ],
+    "explanation": "<strong>Efésios 6:10</strong>"
   },
   {
     "month": "04",
     "day": "09",
-    "text": "Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito.",
-    "reference": "João 3:16",
+    "text": "Deus é amor, e quem permanece no amor permanece em Deus.",
+    "reference": "1 João 4:16",
     "categories": [
       "Amor"
     ],
-    "explanation": "Este versículo fala do amor divino que transforma a vida e ensina a amar ao próximo. (João 3:16)"
+    "categorySlugs": [
+      "amor"
+    ],
+    "explanation": "<strong>1 João 4:16</strong>"
   },
   {
     "month": "04",
     "day": "10",
-    "text": "Posso todas as coisas naquele que me fortalece.",
-    "reference": "Filipenses 4:13",
+    "text": "O justo viverá pela fé.",
+    "reference": "Habacuque 2:4",
     "categories": [
-      "Coragem"
+      "Fé"
     ],
-    "explanation": "Este versículo convida a ter coragem e firmeza diante das provações. (Filipenses 4:13)"
+    "categorySlugs": [
+      "fe"
+    ],
+    "explanation": "<strong>Habacuque 2:4</strong>"
   },
   {
     "month": "04",
     "day": "11",
-    "text": "Eu é que sei os planos que tenho para vocês, diz o Senhor: planos de paz e não de mal.",
-    "reference": "Jeremias 29:11",
+    "text": "O Senhor te abençoe e te guarde; o Senhor faça resplandecer o rosto sobre ti.",
+    "reference": "Números 6:24-26",
     "categories": [
-      "Esperança"
+      "Bênção"
     ],
-    "explanation": "Este versículo mostra que a esperança em Deus renova forças mesmo em tempos difíceis. (Jeremias 29:11)"
+    "categorySlugs": [
+      "bencao"
+    ],
+    "explanation": "<strong>Números 6:24-26</strong>"
   },
   {
     "month": "04",
     "day": "12",
-    "text": "Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia.",
-    "reference": "Salmos 46:1",
+    "text": "Tudo o que fizerdes, fazei-o de coração, como para o Senhor.",
+    "reference": "Colossenses 3:23",
     "categories": [
-      "Paz"
+      "Obediência"
     ],
-    "explanation": "Este versículo aponta para a paz que só Deus pode oferecer em meio às tribulações. (Salmos 46:1)"
+    "categorySlugs": [
+      "obediencia"
+    ],
+    "explanation": "<strong>Colossenses 3:23</strong>"
   },
   {
     "month": "04",
     "day": "13",
-    "text": "Sabemos que todas as coisas cooperam para o bem dos que amam a Deus.",
-    "reference": "Romanos 8:28",
+    "text": "Sede bondosos e compassivos, perdoando-vos uns aos outros.",
+    "reference": "Efésios 4:32",
     "categories": [
-      "Confiança"
+      "Perdão"
     ],
-    "explanation": "Este versículo ensina a confiar em Deus em todas as situações. (Romanos 8:28)"
+    "categorySlugs": [
+      "perdao"
+    ],
+    "explanation": "<strong>Efésios 4:32</strong>"
   },
   {
     "month": "04",
     "day": "14",
-    "text": "Confia no Senhor de todo o teu coração e não te apoies em teu próprio entendimento.",
-    "reference": "Provérbios 3:5",
+    "text": "A tua graça me basta, porque o poder se aperfeiçoa na fraqueza.",
+    "reference": "2 Coríntios 12:9",
     "categories": [
-      "Sabedoria"
+      "Consolação"
     ],
-    "explanation": "Este versículo traz o convite à sabedoria que vem da Palavra de Deus. (Provérbios 3:5)"
+    "categorySlugs": [
+      "consolacao"
+    ],
+    "explanation": "<strong>2 Coríntios 12:9</strong>"
   },
   {
     "month": "04",
     "day": "15",
-    "text": "Vinde a mim todos os que estais cansados e sobrecarregados, e eu vos aliviarei.",
-    "reference": "Mateus 11:28",
+    "text": "Bem-aventurado o homem que confia no Senhor.",
+    "reference": "Provérbios 16:20",
     "categories": [
-      "Consolação"
+      "Confiança"
     ],
-    "explanation": "Este versículo traz consolo e alívio vindos do Senhor nos momentos de dor. (Mateus 11:28)"
+    "categorySlugs": [
+      "confianca"
+    ],
+    "explanation": "<strong>Provérbios 16:20</strong>"
   },
   {
     "month": "04",
     "day": "16",
-    "text": "Não temas, porque eu sou contigo; não te assombres, porque eu sou teu Deus.",
-    "reference": "Isaías 41:10",
+    "text": "Jesus Cristo é o mesmo ontem, hoje e eternamente.",
+    "reference": "Hebreus 13:8",
     "categories": [
-      "Coragem"
+      "Fé"
     ],
-    "explanation": "Este versículo convida a ter coragem e firmeza diante das provações. (Isaías 41:10)"
+    "categorySlugs": [
+      "fe"
+    ],
+    "explanation": "<strong>Hebreus 13:8</strong>"
   },
   {
     "month": "04",
     "day": "17",
-    "text": "Lâmpada para os meus pés é a tua palavra e luz para o meu caminho.",
-    "reference": "Salmos 119:105",
+    "text": "Fé sem obras é morta.",
+    "reference": "Tiago 2:17",
     "categories": [
-      "Sabedoria"
+      "Obediência"
     ],
-    "explanation": "Este versículo traz o convite à sabedoria que vem da Palavra de Deus. (Salmos 119:105)"
+    "categorySlugs": [
+      "obediencia"
+    ],
+    "explanation": "<strong>Tiago 2:17</strong>"
   },
   {
     "month": "04",
     "day": "18",
-    "text": "Buscai primeiro o Reino de Deus e a sua justiça, e todas essas coisas serão acrescentadas.",
-    "reference": "Mateus 6:33",
+    "text": "Onde está o teu tesouro, aí estará também o teu coração.",
+    "reference": "Mateus 6:21",
     "categories": [
-      "Obediência"
+      "Sabedoria"
     ],
-    "explanation": "Este versículo convida a viver em obediência à vontade do Senhor. (Mateus 6:33)"
+    "categorySlugs": [
+      "sabedoria"
+    ],
+    "explanation": "<strong>Mateus 6:21</strong>"
   },
   {
     "month": "04",
@@ -1087,7 +1411,10 @@
     "categories": [
       "Fé"
     ],
-    "explanation": "Este versículo reforça a fé e a confiança em Deus como base da caminhada espiritual. (Gênesis 1:1)"
+    "categorySlugs": [
+      "fe"
+    ],
+    "explanation": "<strong>Gênesis 1:1</strong>"
   },
   {
     "month": "04",
@@ -1097,7 +1424,10 @@
     "categories": [
       "Confiança"
     ],
-    "explanation": "Este versículo ensina a confiar em Deus em todas as situações. (Salmos 23:1)"
+    "categorySlugs": [
+      "confianca"
+    ],
+    "explanation": "<strong>Salmos 23:1</strong>"
   },
   {
     "month": "04",
@@ -1107,7 +1437,10 @@
     "categories": [
       "Amor"
     ],
-    "explanation": "Este versículo fala do amor divino que transforma a vida e ensina a amar ao próximo. (João 3:16)"
+    "categorySlugs": [
+      "amor"
+    ],
+    "explanation": "<strong>João 3:16</strong>"
   },
   {
     "month": "04",
@@ -1117,7 +1450,10 @@
     "categories": [
       "Coragem"
     ],
-    "explanation": "Este versículo convida a ter coragem e firmeza diante das provações. (Filipenses 4:13)"
+    "categorySlugs": [
+      "coragem"
+    ],
+    "explanation": "<strong>Filipenses 4:13</strong>"
   },
   {
     "month": "04",
@@ -1127,7 +1463,10 @@
     "categories": [
       "Esperança"
     ],
-    "explanation": "Este versículo mostra que a esperança em Deus renova forças mesmo em tempos difíceis. (Jeremias 29:11)"
+    "categorySlugs": [
+      "esperanca"
+    ],
+    "explanation": "<strong>Jeremias 29:11</strong>"
   },
   {
     "month": "04",
@@ -1137,7 +1476,10 @@
     "categories": [
       "Paz"
     ],
-    "explanation": "Este versículo aponta para a paz que só Deus pode oferecer em meio às tribulações. (Salmos 46:1)"
+    "categorySlugs": [
+      "paz"
+    ],
+    "explanation": "<strong>Salmos 46:1</strong>"
   },
   {
     "month": "04",
@@ -1147,7 +1489,10 @@
     "categories": [
       "Confiança"
     ],
-    "explanation": "Este versículo ensina a confiar em Deus em todas as situações. (Romanos 8:28)"
+    "categorySlugs": [
+      "confianca"
+    ],
+    "explanation": "<strong>Romanos 8:28</strong>"
   },
   {
     "month": "04",
@@ -1157,7 +1502,10 @@
     "categories": [
       "Sabedoria"
     ],
-    "explanation": "Este versículo traz o convite à sabedoria que vem da Palavra de Deus. (Provérbios 3:5)"
+    "categorySlugs": [
+      "sabedoria"
+    ],
+    "explanation": "<strong>Provérbios 3:5</strong>"
   },
   {
     "month": "04",
@@ -1167,7 +1515,10 @@
     "categories": [
       "Consolação"
     ],
-    "explanation": "Este versículo traz consolo e alívio vindos do Senhor nos momentos de dor. (Mateus 11:28)"
+    "categorySlugs": [
+      "consolacao"
+    ],
+    "explanation": "<strong>Mateus 11:28</strong>"
   },
   {
     "month": "04",
@@ -1177,7 +1528,10 @@
     "categories": [
       "Coragem"
     ],
-    "explanation": "Este versículo convida a ter coragem e firmeza diante das provações. (Isaías 41:10)"
+    "categorySlugs": [
+      "coragem"
+    ],
+    "explanation": "<strong>Isaías 41:10</strong>"
   },
   {
     "month": "04",
@@ -1187,7 +1541,10 @@
     "categories": [
       "Sabedoria"
     ],
-    "explanation": "Este versículo traz o convite à sabedoria que vem da Palavra de Deus. (Salmos 119:105)"
+    "categorySlugs": [
+      "sabedoria"
+    ],
+    "explanation": "<strong>Salmos 119:105</strong>"
   },
   {
     "month": "04",
@@ -1197,967 +1554,1258 @@
     "categories": [
       "Obediência"
     ],
-    "explanation": "Este versículo convida a viver em obediência à vontade do Senhor. (Mateus 6:33)"
+    "categorySlugs": [
+      "obediencia"
+    ],
+    "explanation": "<strong>Mateus 6:33</strong>"
   },
   {
     "month": "05",
     "day": "01",
-    "text": "No princípio, Deus criou os céus e a terra.",
-    "reference": "Gênesis 1:1",
+    "text": "Provai e vede que o Senhor é bom; bem-aventurado o que nele se refugia.",
+    "reference": "Salmos 34:8",
     "categories": [
-      "Fé"
+      "Gratidao"
     ],
-    "explanation": "Este versículo reforça a fé e a confiança em Deus como base da caminhada espiritual. (Gênesis 1:1)"
+    "categorySlugs": [
+      "gratidao"
+    ],
+    "explanation": "<strong>Salmos 34:8</strong>"
   },
   {
     "month": "05",
     "day": "02",
-    "text": "O Senhor é meu pastor; nada me faltará.",
-    "reference": "Salmos 23:1",
+    "text": "Não vos conformeis com este mundo, mas transformai-vos pela renovação da mente.",
+    "reference": "Romanos 12:2",
     "categories": [
-      "Confiança"
+      "Santidade"
     ],
-    "explanation": "Este versículo ensina a confiar em Deus em todas as situações. (Salmos 23:1)"
+    "categorySlugs": [
+      "santidade"
+    ],
+    "explanation": "<strong>Romanos 12:2</strong>"
   },
   {
     "month": "05",
     "day": "03",
-    "text": "Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito.",
-    "reference": "João 3:16",
+    "text": "O amor é paciente, é benigno; o amor tudo sofre, tudo crê, tudo espera, tudo suporta.",
+    "reference": "1 Coríntios 13:4-7",
     "categories": [
       "Amor"
     ],
-    "explanation": "Este versículo fala do amor divino que transforma a vida e ensina a amar ao próximo. (João 3:16)"
+    "categorySlugs": [
+      "amor"
+    ],
+    "explanation": "<strong>1 Coríntios 13:4-7</strong>"
   },
   {
     "month": "05",
     "day": "04",
-    "text": "Posso todas as coisas naquele que me fortalece.",
-    "reference": "Filipenses 4:13",
+    "text": "Aquele que habita no esconderijo do Altíssimo, à sombra do Onipotente descansará.",
+    "reference": "Salmos 91:1",
     "categories": [
-      "Coragem"
+      "Paz"
     ],
-    "explanation": "Este versículo convida a ter coragem e firmeza diante das provações. (Filipenses 4:13)"
+    "categorySlugs": [
+      "paz"
+    ],
+    "explanation": "<strong>Salmos 91:1</strong>"
   },
   {
     "month": "05",
     "day": "05",
-    "text": "Eu é que sei os planos que tenho para vocês, diz o Senhor: planos de paz e não de mal.",
-    "reference": "Jeremias 29:11",
+    "text": "Não te mandei eu? Sê forte e corajoso; não temas nem te espantes.",
+    "reference": "Josué 1:9",
     "categories": [
-      "Esperança"
+      "Coragem"
     ],
-    "explanation": "Este versículo mostra que a esperança em Deus renova forças mesmo em tempos difíceis. (Jeremias 29:11)"
+    "categorySlugs": [
+      "coragem"
+    ],
+    "explanation": "<strong>Josué 1:9</strong>"
   },
   {
     "month": "05",
     "day": "06",
-    "text": "Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia.",
-    "reference": "Salmos 46:1",
+    "text": "Disse-lhe Jesus: Eu sou o caminho, a verdade e a vida.",
+    "reference": "João 14:6",
     "categories": [
-      "Paz"
+      "Fé"
     ],
-    "explanation": "Este versículo aponta para a paz que só Deus pode oferecer em meio às tribulações. (Salmos 46:1)"
+    "categorySlugs": [
+      "fe"
+    ],
+    "explanation": "<strong>João 14:6</strong>"
   },
   {
     "month": "05",
     "day": "07",
-    "text": "Sabemos que todas as coisas cooperam para o bem dos que amam a Deus.",
-    "reference": "Romanos 8:28",
+    "text": "No princípio era o Verbo, e o Verbo estava com Deus, e o Verbo era Deus.",
+    "reference": "João 1:1",
     "categories": [
-      "Confiança"
+      "Fé"
     ],
-    "explanation": "Este versículo ensina a confiar em Deus em todas as situações. (Romanos 8:28)"
+    "categorySlugs": [
+      "fe"
+    ],
+    "explanation": "<strong>João 1:1</strong>"
   },
   {
     "month": "05",
     "day": "08",
-    "text": "Confia no Senhor de todo o teu coração e não te apoies em teu próprio entendimento.",
-    "reference": "Provérbios 3:5",
+    "text": "O Senhor é a minha luz e a minha salvação; a quem temerei?",
+    "reference": "Salmos 27:1",
     "categories": [
-      "Sabedoria"
+      "Coragem"
     ],
-    "explanation": "Este versículo traz o convite à sabedoria que vem da Palavra de Deus. (Provérbios 3:5)"
+    "categorySlugs": [
+      "coragem"
+    ],
+    "explanation": "<strong>Salmos 27:1</strong>"
   },
   {
     "month": "05",
     "day": "09",
-    "text": "Vinde a mim todos os que estais cansados e sobrecarregados, e eu vos aliviarei.",
-    "reference": "Mateus 11:28",
+    "text": "Entrega o teu caminho ao Senhor; confia nele, e o mais ele fará.",
+    "reference": "Salmos 37:5",
     "categories": [
-      "Consolação"
+      "Confiança"
     ],
-    "explanation": "Este versículo traz consolo e alívio vindos do Senhor nos momentos de dor. (Mateus 11:28)"
+    "categorySlugs": [
+      "confianca"
+    ],
+    "explanation": "<strong>Salmos 37:5</strong>"
   },
   {
     "month": "05",
     "day": "10",
-    "text": "Não temas, porque eu sou contigo; não te assombres, porque eu sou teu Deus.",
-    "reference": "Isaías 41:10",
+    "text": "Bem-aventurados os que choram, porque serão consolados.",
+    "reference": "Mateus 5:4",
     "categories": [
-      "Coragem"
+      "Consolação"
     ],
-    "explanation": "Este versículo convida a ter coragem e firmeza diante das provações. (Isaías 41:10)"
+    "categorySlugs": [
+      "consolacao"
+    ],
+    "explanation": "<strong>Mateus 5:4</strong>"
   },
   {
     "month": "05",
     "day": "11",
-    "text": "Lâmpada para os meus pés é a tua palavra e luz para o meu caminho.",
-    "reference": "Salmos 119:105",
+    "text": "Clama a mim, e responder-te-ei; anunciar-te-ei coisas grandes e ocultas.",
+    "reference": "Jeremias 33:3",
     "categories": [
       "Sabedoria"
     ],
-    "explanation": "Este versículo traz o convite à sabedoria que vem da Palavra de Deus. (Salmos 119:105)"
+    "categorySlugs": [
+      "sabedoria"
+    ],
+    "explanation": "<strong>Jeremias 33:3</strong>"
   },
   {
     "month": "05",
     "day": "12",
-    "text": "Buscai primeiro o Reino de Deus e a sua justiça, e todas essas coisas serão acrescentadas.",
-    "reference": "Mateus 6:33",
+    "text": "Se Deus é por nós, quem será contra nós?",
+    "reference": "Romanos 8:31",
     "categories": [
-      "Obediência"
+      "Confiança"
     ],
-    "explanation": "Este versículo convida a viver em obediência à vontade do Senhor. (Mateus 6:33)"
+    "categorySlugs": [
+      "confianca"
+    ],
+    "explanation": "<strong>Romanos 8:31</strong>"
   },
   {
     "month": "05",
     "day": "13",
-    "text": "No princípio, Deus criou os céus e a terra.",
-    "reference": "Gênesis 1:1",
+    "text": "Crê no Senhor Jesus e serás salvo, tu e tua casa.",
+    "reference": "Atos 16:31",
     "categories": [
       "Fé"
     ],
-    "explanation": "Este versículo reforça a fé e a confiança em Deus como base da caminhada espiritual. (Gênesis 1:1)"
+    "categorySlugs": [
+      "fe"
+    ],
+    "explanation": "<strong>Atos 16:31</strong>"
   },
   {
     "month": "05",
     "day": "14",
-    "text": "O Senhor é meu pastor; nada me faltará.",
-    "reference": "Salmos 23:1",
+    "text": "Sede fortes e corajosos; o Senhor vai convosco.",
+    "reference": "Deuteronômio 31:6",
     "categories": [
-      "Confiança"
+      "Coragem"
     ],
-    "explanation": "Este versículo ensina a confiar em Deus em todas as situações. (Salmos 23:1)"
+    "categorySlugs": [
+      "coragem"
+    ],
+    "explanation": "<strong>Deuteronômio 31:6</strong>"
   },
   {
     "month": "05",
     "day": "15",
-    "text": "Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito.",
-    "reference": "João 3:16",
+    "text": "O Senhor pelejará por vós, e vós vos calareis.",
+    "reference": "Êxodo 14:14",
     "categories": [
-      "Amor"
+      "Confiança"
     ],
-    "explanation": "Este versículo fala do amor divino que transforma a vida e ensina a amar ao próximo. (João 3:16)"
+    "categorySlugs": [
+      "confianca"
+    ],
+    "explanation": "<strong>Êxodo 14:14</strong>"
   },
   {
     "month": "05",
     "day": "16",
-    "text": "Posso todas as coisas naquele que me fortalece.",
-    "reference": "Filipenses 4:13",
+    "text": "Alegrai-vos sempre no Senhor; outra vez digo: alegrai-vos.",
+    "reference": "Filipenses 4:4",
     "categories": [
-      "Coragem"
+      "Louvor"
     ],
-    "explanation": "Este versículo convida a ter coragem e firmeza diante das provações. (Filipenses 4:13)"
+    "categorySlugs": [
+      "louvor"
+    ],
+    "explanation": "<strong>Filipenses 4:4</strong>"
   },
   {
     "month": "05",
     "day": "17",
-    "text": "Eu é que sei os planos que tenho para vocês, diz o Senhor: planos de paz e não de mal.",
-    "reference": "Jeremias 29:11",
+    "text": "A fé é a certeza das coisas que se esperam e a convicção de fatos que não se veem.",
+    "reference": "Hebreus 11:1",
     "categories": [
-      "Esperança"
+      "Fé"
     ],
-    "explanation": "Este versículo mostra que a esperança em Deus renova forças mesmo em tempos difíceis. (Jeremias 29:11)"
+    "categorySlugs": [
+      "fe"
+    ],
+    "explanation": "<strong>Hebreus 11:1</strong>"
   },
   {
     "month": "05",
     "day": "18",
-    "text": "Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia.",
-    "reference": "Salmos 46:1",
+    "text": "Cria em mim, ó Deus, um coração puro e renova em mim um espírito reto.",
+    "reference": "Salmos 51:10",
     "categories": [
-      "Paz"
+      "Santidade"
     ],
-    "explanation": "Este versículo aponta para a paz que só Deus pode oferecer em meio às tribulações. (Salmos 46:1)"
+    "categorySlugs": [
+      "santidade"
+    ],
+    "explanation": "<strong>Salmos 51:10</strong>"
   },
   {
     "month": "05",
     "day": "19",
-    "text": "Sabemos que todas as coisas cooperam para o bem dos que amam a Deus.",
-    "reference": "Romanos 8:28",
+    "text": "A resposta branda desvia o furor.",
+    "reference": "Provérbios 15:1",
     "categories": [
-      "Confiança"
+      "Sabedoria"
     ],
-    "explanation": "Este versículo ensina a confiar em Deus em todas as situações. (Romanos 8:28)"
+    "categorySlugs": [
+      "sabedoria"
+    ],
+    "explanation": "<strong>Provérbios 15:1</strong>"
   },
   {
     "month": "05",
     "day": "20",
-    "text": "Confia no Senhor de todo o teu coração e não te apoies em teu próprio entendimento.",
-    "reference": "Provérbios 3:5",
+    "text": "O Senhor dos Exércitos está conosco; o Deus de Jacó é o nosso refúgio.",
+    "reference": "Salmos 46:7",
     "categories": [
-      "Sabedoria"
+      "Paz"
     ],
-    "explanation": "Este versículo traz o convite à sabedoria que vem da Palavra de Deus. (Provérbios 3:5)"
+    "categorySlugs": [
+      "paz"
+    ],
+    "explanation": "<strong>Salmos 46:7</strong>"
   },
   {
     "month": "05",
     "day": "21",
-    "text": "Vinde a mim todos os que estais cansados e sobrecarregados, e eu vos aliviarei.",
-    "reference": "Mateus 11:28",
+    "text": "O Senhor é bom, e a sua misericórdia dura para sempre.",
+    "reference": "Salmos 100:5",
     "categories": [
-      "Consolação"
+      "Gratidao"
     ],
-    "explanation": "Este versículo traz consolo e alívio vindos do Senhor nos momentos de dor. (Mateus 11:28)"
+    "categorySlugs": [
+      "gratidao"
+    ],
+    "explanation": "<strong>Salmos 100:5</strong>"
   },
   {
     "month": "05",
     "day": "22",
-    "text": "Não temas, porque eu sou contigo; não te assombres, porque eu sou teu Deus.",
-    "reference": "Isaías 41:10",
+    "text": "Perdoai, e sereis perdoados.",
+    "reference": "Lucas 6:37",
     "categories": [
-      "Coragem"
+      "Perdão"
     ],
-    "explanation": "Este versículo convida a ter coragem e firmeza diante das provações. (Isaías 41:10)"
+    "categorySlugs": [
+      "perdao"
+    ],
+    "explanation": "<strong>Lucas 6:37</strong>"
   },
   {
     "month": "05",
     "day": "23",
-    "text": "Lâmpada para os meus pés é a tua palavra e luz para o meu caminho.",
-    "reference": "Salmos 119:105",
+    "text": "Aquietai-vos e sabei que eu sou Deus.",
+    "reference": "Salmos 46:10",
     "categories": [
-      "Sabedoria"
+      "Paz"
     ],
-    "explanation": "Este versículo traz o convite à sabedoria que vem da Palavra de Deus. (Salmos 119:105)"
+    "categorySlugs": [
+      "paz"
+    ],
+    "explanation": "<strong>Salmos 46:10</strong>"
   },
   {
     "month": "05",
     "day": "24",
-    "text": "Buscai primeiro o Reino de Deus e a sua justiça, e todas essas coisas serão acrescentadas.",
-    "reference": "Mateus 6:33",
+    "text": "Ensina-nos a contar os nossos dias, para que alcancemos coração sábio.",
+    "reference": "Salmos 90:12",
     "categories": [
-      "Obediência"
+      "Sabedoria"
     ],
-    "explanation": "Este versículo convida a viver em obediência à vontade do Senhor. (Mateus 6:33)"
+    "categorySlugs": [
+      "sabedoria"
+    ],
+    "explanation": "<strong>Salmos 90:12</strong>"
   },
   {
     "month": "05",
     "day": "25",
-    "text": "No princípio, Deus criou os céus e a terra.",
-    "reference": "Gênesis 1:1",
+    "text": "O temor do Senhor é o princípio da sabedoria.",
+    "reference": "Provérbios 9:10",
     "categories": [
-      "Fé"
+      "Sabedoria"
     ],
-    "explanation": "Este versículo reforça a fé e a confiança em Deus como base da caminhada espiritual. (Gênesis 1:1)"
+    "categorySlugs": [
+      "sabedoria"
+    ],
+    "explanation": "<strong>Provérbios 9:10</strong>"
   },
   {
     "month": "05",
     "day": "26",
-    "text": "O Senhor é meu pastor; nada me faltará.",
-    "reference": "Salmos 23:1",
+    "text": "Sede prontos para ouvir, tardios para falar e tardios para se irar.",
+    "reference": "Tiago 1:19",
     "categories": [
-      "Confiança"
+      "Sabedoria"
     ],
-    "explanation": "Este versículo ensina a confiar em Deus em todas as situações. (Salmos 23:1)"
+    "categorySlugs": [
+      "sabedoria"
+    ],
+    "explanation": "<strong>Tiago 1:19</strong>"
   },
   {
     "month": "05",
     "day": "27",
-    "text": "Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito.",
-    "reference": "João 3:16",
+    "text": "Sobre tudo o que se deve guardar, guarda o coração.",
+    "reference": "Provérbios 4:23",
     "categories": [
-      "Amor"
+      "Sabedoria"
     ],
-    "explanation": "Este versículo fala do amor divino que transforma a vida e ensina a amar ao próximo. (João 3:16)"
+    "categorySlugs": [
+      "sabedoria"
+    ],
+    "explanation": "<strong>Provérbios 4:23</strong>"
   },
   {
     "month": "05",
     "day": "28",
-    "text": "Posso todas as coisas naquele que me fortalece.",
-    "reference": "Filipenses 4:13",
+    "text": "Bem-aventurados os pacificadores, porque serão chamados filhos de Deus.",
+    "reference": "Mateus 5:9",
     "categories": [
-      "Coragem"
+      "Paz"
     ],
-    "explanation": "Este versículo convida a ter coragem e firmeza diante das provações. (Filipenses 4:13)"
+    "categorySlugs": [
+      "paz"
+    ],
+    "explanation": "<strong>Mateus 5:9</strong>"
   },
   {
     "month": "05",
     "day": "29",
-    "text": "Eu é que sei os planos que tenho para vocês, diz o Senhor: planos de paz e não de mal.",
-    "reference": "Jeremias 29:11",
+    "text": "Lançai sobre ele toda a vossa ansiedade, porque ele tem cuidado de vós.",
+    "reference": "1 Pedro 5:7",
     "categories": [
-      "Esperança"
+      "Confiança"
     ],
-    "explanation": "Este versículo mostra que a esperança em Deus renova forças mesmo em tempos difíceis. (Jeremias 29:11)"
+    "categorySlugs": [
+      "confianca"
+    ],
+    "explanation": "<strong>1 Pedro 5:7</strong>"
   },
   {
     "month": "05",
     "day": "30",
-    "text": "Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia.",
-    "reference": "Salmos 46:1",
+    "text": "Se confessarmos os nossos pecados, ele é fiel e justo para nos perdoar.",
+    "reference": "1 João 1:9",
     "categories": [
-      "Paz"
+      "Perdão"
     ],
-    "explanation": "Este versículo aponta para a paz que só Deus pode oferecer em meio às tribulações. (Salmos 46:1)"
+    "categorySlugs": [
+      "perdao"
+    ],
+    "explanation": "<strong>1 João 1:9</strong>"
   },
   {
     "month": "05",
     "day": "31",
-    "text": "Sabemos que todas as coisas cooperam para o bem dos que amam a Deus.",
-    "reference": "Romanos 8:28",
+    "text": "A graça do Senhor Jesus seja com todos.",
+    "reference": "Apocalipse 22:21",
     "categories": [
-      "Confiança"
+      "Graça"
     ],
-    "explanation": "Este versículo ensina a confiar em Deus em todas as situações. (Romanos 8:28)"
+    "categorySlugs": [
+      "graça"
+    ],
+    "explanation": "<strong>Apocalipse 22:21</strong>"
   },
   {
     "month": "06",
     "day": "01",
-    "text": "Confia no Senhor de todo o teu coração e não te apoies em teu próprio entendimento.",
-    "reference": "Provérbios 3:5",
+    "text": "Sede fortes no Senhor e na força do seu poder.",
+    "reference": "Efésios 6:10",
     "categories": [
-      "Sabedoria"
+      "Coragem"
     ],
-    "explanation": "Este versículo traz o convite à sabedoria que vem da Palavra de Deus. (Provérbios 3:5)"
+    "categorySlugs": [
+      "coragem"
+    ],
+    "explanation": "<strong>Efésios 6:10</strong>"
   },
   {
     "month": "06",
     "day": "02",
-    "text": "Vinde a mim todos os que estais cansados e sobrecarregados, e eu vos aliviarei.",
-    "reference": "Mateus 11:28",
+    "text": "Deus é amor, e quem permanece no amor permanece em Deus.",
+    "reference": "1 João 4:16",
     "categories": [
-      "Consolação"
+      "Amor"
     ],
-    "explanation": "Este versículo traz consolo e alívio vindos do Senhor nos momentos de dor. (Mateus 11:28)"
+    "categorySlugs": [
+      "amor"
+    ],
+    "explanation": "<strong>1 João 4:16</strong>"
   },
   {
     "month": "06",
     "day": "03",
-    "text": "Não temas, porque eu sou contigo; não te assombres, porque eu sou teu Deus.",
-    "reference": "Isaías 41:10",
+    "text": "O justo viverá pela fé.",
+    "reference": "Habacuque 2:4",
     "categories": [
-      "Coragem"
+      "Fé"
     ],
-    "explanation": "Este versículo convida a ter coragem e firmeza diante das provações. (Isaías 41:10)"
+    "categorySlugs": [
+      "fe"
+    ],
+    "explanation": "<strong>Habacuque 2:4</strong>"
   },
   {
     "month": "06",
     "day": "04",
-    "text": "Lâmpada para os meus pés é a tua palavra e luz para o meu caminho.",
-    "reference": "Salmos 119:105",
+    "text": "O Senhor te abençoe e te guarde; o Senhor faça resplandecer o rosto sobre ti.",
+    "reference": "Números 6:24-26",
     "categories": [
-      "Sabedoria"
+      "Bênção"
     ],
-    "explanation": "Este versículo traz o convite à sabedoria que vem da Palavra de Deus. (Salmos 119:105)"
+    "categorySlugs": [
+      "bencao"
+    ],
+    "explanation": "<strong>Números 6:24-26</strong>"
   },
   {
     "month": "06",
     "day": "05",
-    "text": "Buscai primeiro o Reino de Deus e a sua justiça, e todas essas coisas serão acrescentadas.",
-    "reference": "Mateus 6:33",
+    "text": "Tudo o que fizerdes, fazei-o de coração, como para o Senhor.",
+    "reference": "Colossenses 3:23",
     "categories": [
       "Obediência"
     ],
-    "explanation": "Este versículo convida a viver em obediência à vontade do Senhor. (Mateus 6:33)"
+    "categorySlugs": [
+      "obediencia"
+    ],
+    "explanation": "<strong>Colossenses 3:23</strong>"
   },
   {
     "month": "06",
     "day": "06",
-    "text": "No princípio, Deus criou os céus e a terra.",
-    "reference": "Gênesis 1:1",
+    "text": "Sede bondosos e compassivos, perdoando-vos uns aos outros.",
+    "reference": "Efésios 4:32",
     "categories": [
-      "Fé"
+      "Perdão"
     ],
-    "explanation": "Este versículo reforça a fé e a confiança em Deus como base da caminhada espiritual. (Gênesis 1:1)"
+    "categorySlugs": [
+      "perdao"
+    ],
+    "explanation": "<strong>Efésios 4:32</strong>"
   },
   {
     "month": "06",
     "day": "07",
-    "text": "O Senhor é meu pastor; nada me faltará.",
-    "reference": "Salmos 23:1",
+    "text": "A tua graça me basta, porque o poder se aperfeiçoa na fraqueza.",
+    "reference": "2 Coríntios 12:9",
     "categories": [
-      "Confiança"
+      "Consolação"
     ],
-    "explanation": "Este versículo ensina a confiar em Deus em todas as situações. (Salmos 23:1)"
+    "categorySlugs": [
+      "consolacao"
+    ],
+    "explanation": "<strong>2 Coríntios 12:9</strong>"
   },
   {
     "month": "06",
     "day": "08",
-    "text": "Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito.",
-    "reference": "João 3:16",
+    "text": "Bem-aventurado o homem que confia no Senhor.",
+    "reference": "Provérbios 16:20",
     "categories": [
-      "Amor"
+      "Confiança"
     ],
-    "explanation": "Este versículo fala do amor divino que transforma a vida e ensina a amar ao próximo. (João 3:16)"
+    "categorySlugs": [
+      "confianca"
+    ],
+    "explanation": "<strong>Provérbios 16:20</strong>"
   },
   {
     "month": "06",
     "day": "09",
-    "text": "Posso todas as coisas naquele que me fortalece.",
-    "reference": "Filipenses 4:13",
+    "text": "Jesus Cristo é o mesmo ontem, hoje e eternamente.",
+    "reference": "Hebreus 13:8",
     "categories": [
-      "Coragem"
+      "Fé"
     ],
-    "explanation": "Este versículo convida a ter coragem e firmeza diante das provações. (Filipenses 4:13)"
+    "categorySlugs": [
+      "fe"
+    ],
+    "explanation": "<strong>Hebreus 13:8</strong>"
   },
   {
     "month": "06",
     "day": "10",
-    "text": "Eu é que sei os planos que tenho para vocês, diz o Senhor: planos de paz e não de mal.",
-    "reference": "Jeremias 29:11",
+    "text": "Fé sem obras é morta.",
+    "reference": "Tiago 2:17",
     "categories": [
-      "Esperança"
+      "Obediência"
     ],
-    "explanation": "Este versículo mostra que a esperança em Deus renova forças mesmo em tempos difíceis. (Jeremias 29:11)"
+    "categorySlugs": [
+      "obediencia"
+    ],
+    "explanation": "<strong>Tiago 2:17</strong>"
   },
   {
     "month": "06",
     "day": "11",
-    "text": "Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia.",
-    "reference": "Salmos 46:1",
-    "categories": [
-      "Paz"
-    ],
-    "explanation": "Este versículo aponta para a paz que só Deus pode oferecer em meio às tribulações. (Salmos 46:1)"
-  },
-  {
-    "month": "06",
-    "day": "12",
-    "text": "Sabemos que todas as coisas cooperam para o bem dos que amam a Deus.",
-    "reference": "Romanos 8:28",
-    "categories": [
-      "Confiança"
-    ],
-    "explanation": "Este versículo ensina a confiar em Deus em todas as situações. (Romanos 8:28)"
-  },
-  {
-    "month": "06",
-    "day": "13",
-    "text": "Confia no Senhor de todo o teu coração e não te apoies em teu próprio entendimento.",
-    "reference": "Provérbios 3:5",
+    "text": "Onde está o teu tesouro, aí estará também o teu coração.",
+    "reference": "Mateus 6:21",
     "categories": [
       "Sabedoria"
     ],
-    "explanation": "Este versículo traz o convite à sabedoria que vem da Palavra de Deus. (Provérbios 3:5)"
+    "categorySlugs": [
+      "sabedoria"
+    ],
+    "explanation": "<strong>Mateus 6:21</strong>"
   },
   {
     "month": "06",
-    "day": "14",
-    "text": "Vinde a mim todos os que estais cansados e sobrecarregados, e eu vos aliviarei.",
-    "reference": "Mateus 11:28",
-    "categories": [
-      "Consolação"
-    ],
-    "explanation": "Este versículo traz consolo e alívio vindos do Senhor nos momentos de dor. (Mateus 11:28)"
-  },
-  {
-    "month": "06",
-    "day": "15",
-    "text": "Não temas, porque eu sou contigo; não te assombres, porque eu sou teu Deus.",
-    "reference": "Isaías 41:10",
-    "categories": [
-      "Coragem"
-    ],
-    "explanation": "Este versículo convida a ter coragem e firmeza diante das provações. (Isaías 41:10)"
-  },
-  {
-    "month": "06",
-    "day": "16",
-    "text": "Lâmpada para os meus pés é a tua palavra e luz para o meu caminho.",
-    "reference": "Salmos 119:105",
-    "categories": [
-      "Sabedoria"
-    ],
-    "explanation": "Este versículo traz o convite à sabedoria que vem da Palavra de Deus. (Salmos 119:105)"
-  },
-  {
-    "month": "06",
-    "day": "17",
-    "text": "Buscai primeiro o Reino de Deus e a sua justiça, e todas essas coisas serão acrescentadas.",
-    "reference": "Mateus 6:33",
-    "categories": [
-      "Obediência"
-    ],
-    "explanation": "Este versículo convida a viver em obediência à vontade do Senhor. (Mateus 6:33)"
-  },
-  {
-    "month": "06",
-    "day": "18",
-    "text": "No princípio, Deus criou os céus e a terra.",
-    "reference": "Gênesis 1:1",
-    "categories": [
-      "Fé"
-    ],
-    "explanation": "Este versículo reforça a fé e a confiança em Deus como base da caminhada espiritual. (Gênesis 1:1)"
-  },
-  {
-    "month": "06",
-    "day": "19",
-    "text": "O Senhor é meu pastor; nada me faltará.",
-    "reference": "Salmos 23:1",
-    "categories": [
-      "Confiança"
-    ],
-    "explanation": "Este versículo ensina a confiar em Deus em todas as situações. (Salmos 23:1)"
-  },
-  {
-    "month": "06",
-    "day": "20",
-    "text": "Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito.",
-    "reference": "João 3:16",
-    "categories": [
-      "Amor"
-    ],
-    "explanation": "Este versículo fala do amor divino que transforma a vida e ensina a amar ao próximo. (João 3:16)"
-  },
-  {
-    "month": "06",
-    "day": "21",
-    "text": "Posso todas as coisas naquele que me fortalece.",
-    "reference": "Filipenses 4:13",
-    "categories": [
-      "Coragem"
-    ],
-    "explanation": "Este versículo convida a ter coragem e firmeza diante das provações. (Filipenses 4:13)"
-  },
-  {
-    "month": "06",
-    "day": "22",
-    "text": "Eu é que sei os planos que tenho para vocês, diz o Senhor: planos de paz e não de mal.",
-    "reference": "Jeremias 29:11",
-    "categories": [
-      "Esperança"
-    ],
-    "explanation": "Este versículo mostra que a esperança em Deus renova forças mesmo em tempos difíceis. (Jeremias 29:11)"
-  },
-  {
-    "month": "06",
-    "day": "23",
-    "text": "Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia.",
-    "reference": "Salmos 46:1",
-    "categories": [
-      "Paz"
-    ],
-    "explanation": "Este versículo aponta para a paz que só Deus pode oferecer em meio às tribulações. (Salmos 46:1)"
-  },
-  {
-    "month": "06",
-    "day": "24",
-    "text": "Sabemos que todas as coisas cooperam para o bem dos que amam a Deus.",
-    "reference": "Romanos 8:28",
-    "categories": [
-      "Confiança"
-    ],
-    "explanation": "Este versículo ensina a confiar em Deus em todas as situações. (Romanos 8:28)"
-  },
-  {
-    "month": "06",
-    "day": "25",
-    "text": "Confia no Senhor de todo o teu coração e não te apoies em teu próprio entendimento.",
-    "reference": "Provérbios 3:5",
-    "categories": [
-      "Sabedoria"
-    ],
-    "explanation": "Este versículo traz o convite à sabedoria que vem da Palavra de Deus. (Provérbios 3:5)"
-  },
-  {
-    "month": "06",
-    "day": "26",
-    "text": "Vinde a mim todos os que estais cansados e sobrecarregados, e eu vos aliviarei.",
-    "reference": "Mateus 11:28",
-    "categories": [
-      "Consolação"
-    ],
-    "explanation": "Este versículo traz consolo e alívio vindos do Senhor nos momentos de dor. (Mateus 11:28)"
-  },
-  {
-    "month": "06",
-    "day": "27",
-    "text": "Não temas, porque eu sou contigo; não te assombres, porque eu sou teu Deus.",
-    "reference": "Isaías 41:10",
-    "categories": [
-      "Coragem"
-    ],
-    "explanation": "Este versículo convida a ter coragem e firmeza diante das provações. (Isaías 41:10)"
-  },
-  {
-    "month": "06",
-    "day": "28",
-    "text": "Lâmpada para os meus pés é a tua palavra e luz para o meu caminho.",
-    "reference": "Salmos 119:105",
-    "categories": [
-      "Sabedoria"
-    ],
-    "explanation": "Este versículo traz o convite à sabedoria que vem da Palavra de Deus. (Salmos 119:105)"
-  },
-  {
-    "month": "06",
-    "day": "29",
-    "text": "Buscai primeiro o Reino de Deus e a sua justiça, e todas essas coisas serão acrescentadas.",
-    "reference": "Mateus 6:33",
-    "categories": [
-      "Obediência"
-    ],
-    "explanation": "Este versículo convida a viver em obediência à vontade do Senhor. (Mateus 6:33)"
-  },
-  {
-    "month": "06",
-    "day": "30",
-    "text": "No princípio, Deus criou os céus e a terra.",
-    "reference": "Gênesis 1:1",
-    "categories": [
-      "Fé"
-    ],
-    "explanation": "Este versículo reforça a fé e a confiança em Deus como base da caminhada espiritual. (Gênesis 1:1)"
-  },
-  {
-    "month": "07",
-    "day": "01",
-    "text": "O Senhor é meu pastor; nada me faltará.",
-    "reference": "Salmos 23:1",
-    "categories": [
-      "Confiança"
-    ],
-    "explanation": "Este versículo ensina a confiar em Deus em todas as situações. (Salmos 23:1)"
-  },
-  {
-    "month": "07",
-    "day": "02",
-    "text": "Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito.",
-    "reference": "João 3:16",
-    "categories": [
-      "Amor"
-    ],
-    "explanation": "Este versículo fala do amor divino que transforma a vida e ensina a amar ao próximo. (João 3:16)"
-  },
-  {
-    "month": "07",
-    "day": "03",
-    "text": "Posso todas as coisas naquele que me fortalece.",
-    "reference": "Filipenses 4:13",
-    "categories": [
-      "Coragem"
-    ],
-    "explanation": "Este versículo convida a ter coragem e firmeza diante das provações. (Filipenses 4:13)"
-  },
-  {
-    "month": "07",
-    "day": "04",
-    "text": "Eu é que sei os planos que tenho para vocês, diz o Senhor: planos de paz e não de mal.",
-    "reference": "Jeremias 29:11",
-    "categories": [
-      "Esperança"
-    ],
-    "explanation": "Este versículo mostra que a esperança em Deus renova forças mesmo em tempos difíceis. (Jeremias 29:11)"
-  },
-  {
-    "month": "07",
-    "day": "05",
-    "text": "Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia.",
-    "reference": "Salmos 46:1",
-    "categories": [
-      "Paz"
-    ],
-    "explanation": "Este versículo aponta para a paz que só Deus pode oferecer em meio às tribulações. (Salmos 46:1)"
-  },
-  {
-    "month": "07",
-    "day": "06",
-    "text": "Sabemos que todas as coisas cooperam para o bem dos que amam a Deus.",
-    "reference": "Romanos 8:28",
-    "categories": [
-      "Confiança"
-    ],
-    "explanation": "Este versículo ensina a confiar em Deus em todas as situações. (Romanos 8:28)"
-  },
-  {
-    "month": "07",
-    "day": "07",
-    "text": "Confia no Senhor de todo o teu coração e não te apoies em teu próprio entendimento.",
-    "reference": "Provérbios 3:5",
-    "categories": [
-      "Sabedoria"
-    ],
-    "explanation": "Este versículo traz o convite à sabedoria que vem da Palavra de Deus. (Provérbios 3:5)"
-  },
-  {
-    "month": "07",
-    "day": "08",
-    "text": "Vinde a mim todos os que estais cansados e sobrecarregados, e eu vos aliviarei.",
-    "reference": "Mateus 11:28",
-    "categories": [
-      "Consolação"
-    ],
-    "explanation": "Este versículo traz consolo e alívio vindos do Senhor nos momentos de dor. (Mateus 11:28)"
-  },
-  {
-    "month": "07",
-    "day": "09",
-    "text": "Não temas, porque eu sou contigo; não te assombres, porque eu sou teu Deus.",
-    "reference": "Isaías 41:10",
-    "categories": [
-      "Coragem"
-    ],
-    "explanation": "Este versículo convida a ter coragem e firmeza diante das provações. (Isaías 41:10)"
-  },
-  {
-    "month": "07",
-    "day": "10",
-    "text": "Lâmpada para os meus pés é a tua palavra e luz para o meu caminho.",
-    "reference": "Salmos 119:105",
-    "categories": [
-      "Sabedoria"
-    ],
-    "explanation": "Este versículo traz o convite à sabedoria que vem da Palavra de Deus. (Salmos 119:105)"
-  },
-  {
-    "month": "07",
-    "day": "11",
-    "text": "Buscai primeiro o Reino de Deus e a sua justiça, e todas essas coisas serão acrescentadas.",
-    "reference": "Mateus 6:33",
-    "categories": [
-      "Obediência"
-    ],
-    "explanation": "Este versículo convida a viver em obediência à vontade do Senhor. (Mateus 6:33)"
-  },
-  {
-    "month": "07",
     "day": "12",
     "text": "No princípio, Deus criou os céus e a terra.",
     "reference": "Gênesis 1:1",
     "categories": [
       "Fé"
     ],
-    "explanation": "Este versículo reforça a fé e a confiança em Deus como base da caminhada espiritual. (Gênesis 1:1)"
+    "categorySlugs": [
+      "fe"
+    ],
+    "explanation": "<strong>Gênesis 1:1</strong>"
   },
   {
-    "month": "07",
+    "month": "06",
     "day": "13",
     "text": "O Senhor é meu pastor; nada me faltará.",
     "reference": "Salmos 23:1",
     "categories": [
       "Confiança"
     ],
-    "explanation": "Este versículo ensina a confiar em Deus em todas as situações. (Salmos 23:1)"
+    "categorySlugs": [
+      "confianca"
+    ],
+    "explanation": "<strong>Salmos 23:1</strong>"
   },
   {
-    "month": "07",
+    "month": "06",
     "day": "14",
     "text": "Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito.",
     "reference": "João 3:16",
     "categories": [
       "Amor"
     ],
-    "explanation": "Este versículo fala do amor divino que transforma a vida e ensina a amar ao próximo. (João 3:16)"
+    "categorySlugs": [
+      "amor"
+    ],
+    "explanation": "<strong>João 3:16</strong>"
   },
   {
-    "month": "07",
+    "month": "06",
     "day": "15",
     "text": "Posso todas as coisas naquele que me fortalece.",
     "reference": "Filipenses 4:13",
     "categories": [
       "Coragem"
     ],
-    "explanation": "Este versículo convida a ter coragem e firmeza diante das provações. (Filipenses 4:13)"
+    "categorySlugs": [
+      "coragem"
+    ],
+    "explanation": "<strong>Filipenses 4:13</strong>"
   },
   {
-    "month": "07",
+    "month": "06",
     "day": "16",
     "text": "Eu é que sei os planos que tenho para vocês, diz o Senhor: planos de paz e não de mal.",
     "reference": "Jeremias 29:11",
     "categories": [
       "Esperança"
     ],
-    "explanation": "Este versículo mostra que a esperança em Deus renova forças mesmo em tempos difíceis. (Jeremias 29:11)"
+    "categorySlugs": [
+      "esperanca"
+    ],
+    "explanation": "<strong>Jeremias 29:11</strong>"
   },
   {
-    "month": "07",
+    "month": "06",
     "day": "17",
     "text": "Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia.",
     "reference": "Salmos 46:1",
     "categories": [
       "Paz"
     ],
-    "explanation": "Este versículo aponta para a paz que só Deus pode oferecer em meio às tribulações. (Salmos 46:1)"
+    "categorySlugs": [
+      "paz"
+    ],
+    "explanation": "<strong>Salmos 46:1</strong>"
   },
   {
-    "month": "07",
+    "month": "06",
     "day": "18",
     "text": "Sabemos que todas as coisas cooperam para o bem dos que amam a Deus.",
     "reference": "Romanos 8:28",
     "categories": [
       "Confiança"
     ],
-    "explanation": "Este versículo ensina a confiar em Deus em todas as situações. (Romanos 8:28)"
+    "categorySlugs": [
+      "confianca"
+    ],
+    "explanation": "<strong>Romanos 8:28</strong>"
   },
   {
-    "month": "07",
+    "month": "06",
     "day": "19",
     "text": "Confia no Senhor de todo o teu coração e não te apoies em teu próprio entendimento.",
     "reference": "Provérbios 3:5",
     "categories": [
       "Sabedoria"
     ],
-    "explanation": "Este versículo traz o convite à sabedoria que vem da Palavra de Deus. (Provérbios 3:5)"
+    "categorySlugs": [
+      "sabedoria"
+    ],
+    "explanation": "<strong>Provérbios 3:5</strong>"
   },
   {
-    "month": "07",
+    "month": "06",
     "day": "20",
     "text": "Vinde a mim todos os que estais cansados e sobrecarregados, e eu vos aliviarei.",
     "reference": "Mateus 11:28",
     "categories": [
       "Consolação"
     ],
-    "explanation": "Este versículo traz consolo e alívio vindos do Senhor nos momentos de dor. (Mateus 11:28)"
+    "categorySlugs": [
+      "consolacao"
+    ],
+    "explanation": "<strong>Mateus 11:28</strong>"
   },
   {
-    "month": "07",
+    "month": "06",
     "day": "21",
     "text": "Não temas, porque eu sou contigo; não te assombres, porque eu sou teu Deus.",
     "reference": "Isaías 41:10",
     "categories": [
       "Coragem"
     ],
-    "explanation": "Este versículo convida a ter coragem e firmeza diante das provações. (Isaías 41:10)"
+    "categorySlugs": [
+      "coragem"
+    ],
+    "explanation": "<strong>Isaías 41:10</strong>"
   },
   {
-    "month": "07",
+    "month": "06",
     "day": "22",
     "text": "Lâmpada para os meus pés é a tua palavra e luz para o meu caminho.",
     "reference": "Salmos 119:105",
     "categories": [
       "Sabedoria"
     ],
-    "explanation": "Este versículo traz o convite à sabedoria que vem da Palavra de Deus. (Salmos 119:105)"
+    "categorySlugs": [
+      "sabedoria"
+    ],
+    "explanation": "<strong>Salmos 119:105</strong>"
   },
   {
-    "month": "07",
+    "month": "06",
     "day": "23",
     "text": "Buscai primeiro o Reino de Deus e a sua justiça, e todas essas coisas serão acrescentadas.",
     "reference": "Mateus 6:33",
     "categories": [
       "Obediência"
     ],
-    "explanation": "Este versículo convida a viver em obediência à vontade do Senhor. (Mateus 6:33)"
+    "categorySlugs": [
+      "obediencia"
+    ],
+    "explanation": "<strong>Mateus 6:33</strong>"
+  },
+  {
+    "month": "06",
+    "day": "24",
+    "text": "Provai e vede que o Senhor é bom; bem-aventurado o que nele se refugia.",
+    "reference": "Salmos 34:8",
+    "categories": [
+      "Gratidao"
+    ],
+    "categorySlugs": [
+      "gratidao"
+    ],
+    "explanation": "<strong>Salmos 34:8</strong>"
+  },
+  {
+    "month": "06",
+    "day": "25",
+    "text": "Não vos conformeis com este mundo, mas transformai-vos pela renovação da mente.",
+    "reference": "Romanos 12:2",
+    "categories": [
+      "Santidade"
+    ],
+    "categorySlugs": [
+      "santidade"
+    ],
+    "explanation": "<strong>Romanos 12:2</strong>"
+  },
+  {
+    "month": "06",
+    "day": "26",
+    "text": "O amor é paciente, é benigno; o amor tudo sofre, tudo crê, tudo espera, tudo suporta.",
+    "reference": "1 Coríntios 13:4-7",
+    "categories": [
+      "Amor"
+    ],
+    "categorySlugs": [
+      "amor"
+    ],
+    "explanation": "<strong>1 Coríntios 13:4-7</strong>"
+  },
+  {
+    "month": "06",
+    "day": "27",
+    "text": "Aquele que habita no esconderijo do Altíssimo, à sombra do Onipotente descansará.",
+    "reference": "Salmos 91:1",
+    "categories": [
+      "Paz"
+    ],
+    "categorySlugs": [
+      "paz"
+    ],
+    "explanation": "<strong>Salmos 91:1</strong>"
+  },
+  {
+    "month": "06",
+    "day": "28",
+    "text": "Não te mandei eu? Sê forte e corajoso; não temas nem te espantes.",
+    "reference": "Josué 1:9",
+    "categories": [
+      "Coragem"
+    ],
+    "categorySlugs": [
+      "coragem"
+    ],
+    "explanation": "<strong>Josué 1:9</strong>"
+  },
+  {
+    "month": "06",
+    "day": "29",
+    "text": "Disse-lhe Jesus: Eu sou o caminho, a verdade e a vida.",
+    "reference": "João 14:6",
+    "categories": [
+      "Fé"
+    ],
+    "categorySlugs": [
+      "fe"
+    ],
+    "explanation": "<strong>João 14:6</strong>"
+  },
+  {
+    "month": "06",
+    "day": "30",
+    "text": "No princípio era o Verbo, e o Verbo estava com Deus, e o Verbo era Deus.",
+    "reference": "João 1:1",
+    "categories": [
+      "Fé"
+    ],
+    "categorySlugs": [
+      "fe"
+    ],
+    "explanation": "<strong>João 1:1</strong>"
+  },
+  {
+    "month": "07",
+    "day": "01",
+    "text": "O Senhor é a minha luz e a minha salvação; a quem temerei?",
+    "reference": "Salmos 27:1",
+    "categories": [
+      "Coragem"
+    ],
+    "categorySlugs": [
+      "coragem"
+    ],
+    "explanation": "<strong>Salmos 27:1</strong>"
+  },
+  {
+    "month": "07",
+    "day": "02",
+    "text": "Entrega o teu caminho ao Senhor; confia nele, e o mais ele fará.",
+    "reference": "Salmos 37:5",
+    "categories": [
+      "Confiança"
+    ],
+    "categorySlugs": [
+      "confianca"
+    ],
+    "explanation": "<strong>Salmos 37:5</strong>"
+  },
+  {
+    "month": "07",
+    "day": "03",
+    "text": "Bem-aventurados os que choram, porque serão consolados.",
+    "reference": "Mateus 5:4",
+    "categories": [
+      "Consolação"
+    ],
+    "categorySlugs": [
+      "consolacao"
+    ],
+    "explanation": "<strong>Mateus 5:4</strong>"
+  },
+  {
+    "month": "07",
+    "day": "04",
+    "text": "Clama a mim, e responder-te-ei; anunciar-te-ei coisas grandes e ocultas.",
+    "reference": "Jeremias 33:3",
+    "categories": [
+      "Sabedoria"
+    ],
+    "categorySlugs": [
+      "sabedoria"
+    ],
+    "explanation": "<strong>Jeremias 33:3</strong>"
+  },
+  {
+    "month": "07",
+    "day": "05",
+    "text": "Se Deus é por nós, quem será contra nós?",
+    "reference": "Romanos 8:31",
+    "categories": [
+      "Confiança"
+    ],
+    "categorySlugs": [
+      "confianca"
+    ],
+    "explanation": "<strong>Romanos 8:31</strong>"
+  },
+  {
+    "month": "07",
+    "day": "06",
+    "text": "Crê no Senhor Jesus e serás salvo, tu e tua casa.",
+    "reference": "Atos 16:31",
+    "categories": [
+      "Fé"
+    ],
+    "categorySlugs": [
+      "fe"
+    ],
+    "explanation": "<strong>Atos 16:31</strong>"
+  },
+  {
+    "month": "07",
+    "day": "07",
+    "text": "Sede fortes e corajosos; o Senhor vai convosco.",
+    "reference": "Deuteronômio 31:6",
+    "categories": [
+      "Coragem"
+    ],
+    "categorySlugs": [
+      "coragem"
+    ],
+    "explanation": "<strong>Deuteronômio 31:6</strong>"
+  },
+  {
+    "month": "07",
+    "day": "08",
+    "text": "O Senhor pelejará por vós, e vós vos calareis.",
+    "reference": "Êxodo 14:14",
+    "categories": [
+      "Confiança"
+    ],
+    "categorySlugs": [
+      "confianca"
+    ],
+    "explanation": "<strong>Êxodo 14:14</strong>"
+  },
+  {
+    "month": "07",
+    "day": "09",
+    "text": "Alegrai-vos sempre no Senhor; outra vez digo: alegrai-vos.",
+    "reference": "Filipenses 4:4",
+    "categories": [
+      "Louvor"
+    ],
+    "categorySlugs": [
+      "louvor"
+    ],
+    "explanation": "<strong>Filipenses 4:4</strong>"
+  },
+  {
+    "month": "07",
+    "day": "10",
+    "text": "A fé é a certeza das coisas que se esperam e a convicção de fatos que não se veem.",
+    "reference": "Hebreus 11:1",
+    "categories": [
+      "Fé"
+    ],
+    "categorySlugs": [
+      "fe"
+    ],
+    "explanation": "<strong>Hebreus 11:1</strong>"
+  },
+  {
+    "month": "07",
+    "day": "11",
+    "text": "Cria em mim, ó Deus, um coração puro e renova em mim um espírito reto.",
+    "reference": "Salmos 51:10",
+    "categories": [
+      "Santidade"
+    ],
+    "categorySlugs": [
+      "santidade"
+    ],
+    "explanation": "<strong>Salmos 51:10</strong>"
+  },
+  {
+    "month": "07",
+    "day": "12",
+    "text": "A resposta branda desvia o furor.",
+    "reference": "Provérbios 15:1",
+    "categories": [
+      "Sabedoria"
+    ],
+    "categorySlugs": [
+      "sabedoria"
+    ],
+    "explanation": "<strong>Provérbios 15:1</strong>"
+  },
+  {
+    "month": "07",
+    "day": "13",
+    "text": "O Senhor dos Exércitos está conosco; o Deus de Jacó é o nosso refúgio.",
+    "reference": "Salmos 46:7",
+    "categories": [
+      "Paz"
+    ],
+    "categorySlugs": [
+      "paz"
+    ],
+    "explanation": "<strong>Salmos 46:7</strong>"
+  },
+  {
+    "month": "07",
+    "day": "14",
+    "text": "O Senhor é bom, e a sua misericórdia dura para sempre.",
+    "reference": "Salmos 100:5",
+    "categories": [
+      "Gratidao"
+    ],
+    "categorySlugs": [
+      "gratidao"
+    ],
+    "explanation": "<strong>Salmos 100:5</strong>"
+  },
+  {
+    "month": "07",
+    "day": "15",
+    "text": "Perdoai, e sereis perdoados.",
+    "reference": "Lucas 6:37",
+    "categories": [
+      "Perdão"
+    ],
+    "categorySlugs": [
+      "perdao"
+    ],
+    "explanation": "<strong>Lucas 6:37</strong>"
+  },
+  {
+    "month": "07",
+    "day": "16",
+    "text": "Aquietai-vos e sabei que eu sou Deus.",
+    "reference": "Salmos 46:10",
+    "categories": [
+      "Paz"
+    ],
+    "categorySlugs": [
+      "paz"
+    ],
+    "explanation": "<strong>Salmos 46:10</strong>"
+  },
+  {
+    "month": "07",
+    "day": "17",
+    "text": "Ensina-nos a contar os nossos dias, para que alcancemos coração sábio.",
+    "reference": "Salmos 90:12",
+    "categories": [
+      "Sabedoria"
+    ],
+    "categorySlugs": [
+      "sabedoria"
+    ],
+    "explanation": "<strong>Salmos 90:12</strong>"
+  },
+  {
+    "month": "07",
+    "day": "18",
+    "text": "O temor do Senhor é o princípio da sabedoria.",
+    "reference": "Provérbios 9:10",
+    "categories": [
+      "Sabedoria"
+    ],
+    "categorySlugs": [
+      "sabedoria"
+    ],
+    "explanation": "<strong>Provérbios 9:10</strong>"
+  },
+  {
+    "month": "07",
+    "day": "19",
+    "text": "Sede prontos para ouvir, tardios para falar e tardios para se irar.",
+    "reference": "Tiago 1:19",
+    "categories": [
+      "Sabedoria"
+    ],
+    "categorySlugs": [
+      "sabedoria"
+    ],
+    "explanation": "<strong>Tiago 1:19</strong>"
+  },
+  {
+    "month": "07",
+    "day": "20",
+    "text": "Sobre tudo o que se deve guardar, guarda o coração.",
+    "reference": "Provérbios 4:23",
+    "categories": [
+      "Sabedoria"
+    ],
+    "categorySlugs": [
+      "sabedoria"
+    ],
+    "explanation": "<strong>Provérbios 4:23</strong>"
+  },
+  {
+    "month": "07",
+    "day": "21",
+    "text": "Bem-aventurados os pacificadores, porque serão chamados filhos de Deus.",
+    "reference": "Mateus 5:9",
+    "categories": [
+      "Paz"
+    ],
+    "categorySlugs": [
+      "paz"
+    ],
+    "explanation": "<strong>Mateus 5:9</strong>"
+  },
+  {
+    "month": "07",
+    "day": "22",
+    "text": "Lançai sobre ele toda a vossa ansiedade, porque ele tem cuidado de vós.",
+    "reference": "1 Pedro 5:7",
+    "categories": [
+      "Confiança"
+    ],
+    "categorySlugs": [
+      "confianca"
+    ],
+    "explanation": "<strong>1 Pedro 5:7</strong>"
+  },
+  {
+    "month": "07",
+    "day": "23",
+    "text": "Se confessarmos os nossos pecados, ele é fiel e justo para nos perdoar.",
+    "reference": "1 João 1:9",
+    "categories": [
+      "Perdão"
+    ],
+    "categorySlugs": [
+      "perdao"
+    ],
+    "explanation": "<strong>1 João 1:9</strong>"
   },
   {
     "month": "07",
     "day": "24",
-    "text": "No princípio, Deus criou os céus e a terra.",
-    "reference": "Gênesis 1:1",
+    "text": "A graça do Senhor Jesus seja com todos.",
+    "reference": "Apocalipse 22:21",
     "categories": [
-      "Fé"
+      "Graça"
     ],
-    "explanation": "Este versículo reforça a fé e a confiança em Deus como base da caminhada espiritual. (Gênesis 1:1)"
+    "categorySlugs": [
+      "graça"
+    ],
+    "explanation": "<strong>Apocalipse 22:21</strong>"
   },
   {
     "month": "07",
     "day": "25",
-    "text": "O Senhor é meu pastor; nada me faltará.",
-    "reference": "Salmos 23:1",
+    "text": "Sede fortes no Senhor e na força do seu poder.",
+    "reference": "Efésios 6:10",
     "categories": [
-      "Confiança"
+      "Coragem"
     ],
-    "explanation": "Este versículo ensina a confiar em Deus em todas as situações. (Salmos 23:1)"
+    "categorySlugs": [
+      "coragem"
+    ],
+    "explanation": "<strong>Efésios 6:10</strong>"
   },
   {
     "month": "07",
     "day": "26",
-    "text": "Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito.",
-    "reference": "João 3:16",
+    "text": "Deus é amor, e quem permanece no amor permanece em Deus.",
+    "reference": "1 João 4:16",
     "categories": [
       "Amor"
     ],
-    "explanation": "Este versículo fala do amor divino que transforma a vida e ensina a amar ao próximo. (João 3:16)"
+    "categorySlugs": [
+      "amor"
+    ],
+    "explanation": "<strong>1 João 4:16</strong>"
   },
   {
     "month": "07",
     "day": "27",
-    "text": "Posso todas as coisas naquele que me fortalece.",
-    "reference": "Filipenses 4:13",
+    "text": "O justo viverá pela fé.",
+    "reference": "Habacuque 2:4",
     "categories": [
-      "Coragem"
+      "Fé"
     ],
-    "explanation": "Este versículo convida a ter coragem e firmeza diante das provações. (Filipenses 4:13)"
+    "categorySlugs": [
+      "fe"
+    ],
+    "explanation": "<strong>Habacuque 2:4</strong>"
   },
   {
     "month": "07",
     "day": "28",
-    "text": "Eu é que sei os planos que tenho para vocês, diz o Senhor: planos de paz e não de mal.",
-    "reference": "Jeremias 29:11",
+    "text": "O Senhor te abençoe e te guarde; o Senhor faça resplandecer o rosto sobre ti.",
+    "reference": "Números 6:24-26",
     "categories": [
-      "Esperança"
+      "Bênção"
     ],
-    "explanation": "Este versículo mostra que a esperança em Deus renova forças mesmo em tempos difíceis. (Jeremias 29:11)"
+    "categorySlugs": [
+      "bencao"
+    ],
+    "explanation": "<strong>Números 6:24-26</strong>"
   },
   {
     "month": "07",
     "day": "29",
-    "text": "Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia.",
-    "reference": "Salmos 46:1",
+    "text": "Tudo o que fizerdes, fazei-o de coração, como para o Senhor.",
+    "reference": "Colossenses 3:23",
     "categories": [
-      "Paz"
+      "Obediência"
     ],
-    "explanation": "Este versículo aponta para a paz que só Deus pode oferecer em meio às tribulações. (Salmos 46:1)"
+    "categorySlugs": [
+      "obediencia"
+    ],
+    "explanation": "<strong>Colossenses 3:23</strong>"
   },
   {
     "month": "07",
     "day": "30",
-    "text": "Sabemos que todas as coisas cooperam para o bem dos que amam a Deus.",
-    "reference": "Romanos 8:28",
+    "text": "Sede bondosos e compassivos, perdoando-vos uns aos outros.",
+    "reference": "Efésios 4:32",
     "categories": [
-      "Confiança"
+      "Perdão"
     ],
-    "explanation": "Este versículo ensina a confiar em Deus em todas as situações. (Romanos 8:28)"
+    "categorySlugs": [
+      "perdao"
+    ],
+    "explanation": "<strong>Efésios 4:32</strong>"
   },
   {
     "month": "07",
     "day": "31",
-    "text": "Confia no Senhor de todo o teu coração e não te apoies em teu próprio entendimento.",
-    "reference": "Provérbios 3:5",
+    "text": "A tua graça me basta, porque o poder se aperfeiçoa na fraqueza.",
+    "reference": "2 Coríntios 12:9",
     "categories": [
-      "Sabedoria"
+      "Consolação"
     ],
-    "explanation": "Este versículo traz o convite à sabedoria que vem da Palavra de Deus. (Provérbios 3:5)"
+    "categorySlugs": [
+      "consolacao"
+    ],
+    "explanation": "<strong>2 Coríntios 12:9</strong>"
   },
   {
     "month": "08",
     "day": "01",
-    "text": "Vinde a mim todos os que estais cansados e sobrecarregados, e eu vos aliviarei.",
-    "reference": "Mateus 11:28",
+    "text": "Bem-aventurado o homem que confia no Senhor.",
+    "reference": "Provérbios 16:20",
     "categories": [
-      "Consolação"
+      "Confiança"
     ],
-    "explanation": "Este versículo traz consolo e alívio vindos do Senhor nos momentos de dor. (Mateus 11:28)"
+    "categorySlugs": [
+      "confianca"
+    ],
+    "explanation": "<strong>Provérbios 16:20</strong>"
   },
   {
     "month": "08",
     "day": "02",
-    "text": "Não temas, porque eu sou contigo; não te assombres, porque eu sou teu Deus.",
-    "reference": "Isaías 41:10",
+    "text": "Jesus Cristo é o mesmo ontem, hoje e eternamente.",
+    "reference": "Hebreus 13:8",
     "categories": [
-      "Coragem"
+      "Fé"
     ],
-    "explanation": "Este versículo convida a ter coragem e firmeza diante das provações. (Isaías 41:10)"
+    "categorySlugs": [
+      "fe"
+    ],
+    "explanation": "<strong>Hebreus 13:8</strong>"
   },
   {
     "month": "08",
     "day": "03",
-    "text": "Lâmpada para os meus pés é a tua palavra e luz para o meu caminho.",
-    "reference": "Salmos 119:105",
+    "text": "Fé sem obras é morta.",
+    "reference": "Tiago 2:17",
     "categories": [
-      "Sabedoria"
+      "Obediência"
     ],
-    "explanation": "Este versículo traz o convite à sabedoria que vem da Palavra de Deus. (Salmos 119:105)"
+    "categorySlugs": [
+      "obediencia"
+    ],
+    "explanation": "<strong>Tiago 2:17</strong>"
   },
   {
     "month": "08",
     "day": "04",
-    "text": "Buscai primeiro o Reino de Deus e a sua justiça, e todas essas coisas serão acrescentadas.",
-    "reference": "Mateus 6:33",
+    "text": "Onde está o teu tesouro, aí estará também o teu coração.",
+    "reference": "Mateus 6:21",
     "categories": [
-      "Obediência"
+      "Sabedoria"
     ],
-    "explanation": "Este versículo convida a viver em obediência à vontade do Senhor. (Mateus 6:33)"
+    "categorySlugs": [
+      "sabedoria"
+    ],
+    "explanation": "<strong>Mateus 6:21</strong>"
   },
   {
     "month": "08",
@@ -2167,7 +2815,10 @@
     "categories": [
       "Fé"
     ],
-    "explanation": "Este versículo reforça a fé e a confiança em Deus como base da caminhada espiritual. (Gênesis 1:1)"
+    "categorySlugs": [
+      "fe"
+    ],
+    "explanation": "<strong>Gênesis 1:1</strong>"
   },
   {
     "month": "08",
@@ -2177,7 +2828,10 @@
     "categories": [
       "Confiança"
     ],
-    "explanation": "Este versículo ensina a confiar em Deus em todas as situações. (Salmos 23:1)"
+    "categorySlugs": [
+      "confianca"
+    ],
+    "explanation": "<strong>Salmos 23:1</strong>"
   },
   {
     "month": "08",
@@ -2187,7 +2841,10 @@
     "categories": [
       "Amor"
     ],
-    "explanation": "Este versículo fala do amor divino que transforma a vida e ensina a amar ao próximo. (João 3:16)"
+    "categorySlugs": [
+      "amor"
+    ],
+    "explanation": "<strong>João 3:16</strong>"
   },
   {
     "month": "08",
@@ -2197,7 +2854,10 @@
     "categories": [
       "Coragem"
     ],
-    "explanation": "Este versículo convida a ter coragem e firmeza diante das provações. (Filipenses 4:13)"
+    "categorySlugs": [
+      "coragem"
+    ],
+    "explanation": "<strong>Filipenses 4:13</strong>"
   },
   {
     "month": "08",
@@ -2207,7 +2867,10 @@
     "categories": [
       "Esperança"
     ],
-    "explanation": "Este versículo mostra que a esperança em Deus renova forças mesmo em tempos difíceis. (Jeremias 29:11)"
+    "categorySlugs": [
+      "esperanca"
+    ],
+    "explanation": "<strong>Jeremias 29:11</strong>"
   },
   {
     "month": "08",
@@ -2217,7 +2880,10 @@
     "categories": [
       "Paz"
     ],
-    "explanation": "Este versículo aponta para a paz que só Deus pode oferecer em meio às tribulações. (Salmos 46:1)"
+    "categorySlugs": [
+      "paz"
+    ],
+    "explanation": "<strong>Salmos 46:1</strong>"
   },
   {
     "month": "08",
@@ -2227,7 +2893,10 @@
     "categories": [
       "Confiança"
     ],
-    "explanation": "Este versículo ensina a confiar em Deus em todas as situações. (Romanos 8:28)"
+    "categorySlugs": [
+      "confianca"
+    ],
+    "explanation": "<strong>Romanos 8:28</strong>"
   },
   {
     "month": "08",
@@ -2237,7 +2906,10 @@
     "categories": [
       "Sabedoria"
     ],
-    "explanation": "Este versículo traz o convite à sabedoria que vem da Palavra de Deus. (Provérbios 3:5)"
+    "categorySlugs": [
+      "sabedoria"
+    ],
+    "explanation": "<strong>Provérbios 3:5</strong>"
   },
   {
     "month": "08",
@@ -2247,7 +2919,10 @@
     "categories": [
       "Consolação"
     ],
-    "explanation": "Este versículo traz consolo e alívio vindos do Senhor nos momentos de dor. (Mateus 11:28)"
+    "categorySlugs": [
+      "consolacao"
+    ],
+    "explanation": "<strong>Mateus 11:28</strong>"
   },
   {
     "month": "08",
@@ -2257,7 +2932,10 @@
     "categories": [
       "Coragem"
     ],
-    "explanation": "Este versículo convida a ter coragem e firmeza diante das provações. (Isaías 41:10)"
+    "categorySlugs": [
+      "coragem"
+    ],
+    "explanation": "<strong>Isaías 41:10</strong>"
   },
   {
     "month": "08",
@@ -2267,7 +2945,10 @@
     "categories": [
       "Sabedoria"
     ],
-    "explanation": "Este versículo traz o convite à sabedoria que vem da Palavra de Deus. (Salmos 119:105)"
+    "categorySlugs": [
+      "sabedoria"
+    ],
+    "explanation": "<strong>Salmos 119:105</strong>"
   },
   {
     "month": "08",
@@ -2277,967 +2958,1258 @@
     "categories": [
       "Obediência"
     ],
-    "explanation": "Este versículo convida a viver em obediência à vontade do Senhor. (Mateus 6:33)"
+    "categorySlugs": [
+      "obediencia"
+    ],
+    "explanation": "<strong>Mateus 6:33</strong>"
   },
   {
     "month": "08",
     "day": "17",
-    "text": "No princípio, Deus criou os céus e a terra.",
-    "reference": "Gênesis 1:1",
+    "text": "Provai e vede que o Senhor é bom; bem-aventurado o que nele se refugia.",
+    "reference": "Salmos 34:8",
     "categories": [
-      "Fé"
+      "Gratidao"
     ],
-    "explanation": "Este versículo reforça a fé e a confiança em Deus como base da caminhada espiritual. (Gênesis 1:1)"
+    "categorySlugs": [
+      "gratidao"
+    ],
+    "explanation": "<strong>Salmos 34:8</strong>"
   },
   {
     "month": "08",
     "day": "18",
-    "text": "O Senhor é meu pastor; nada me faltará.",
-    "reference": "Salmos 23:1",
+    "text": "Não vos conformeis com este mundo, mas transformai-vos pela renovação da mente.",
+    "reference": "Romanos 12:2",
     "categories": [
-      "Confiança"
+      "Santidade"
     ],
-    "explanation": "Este versículo ensina a confiar em Deus em todas as situações. (Salmos 23:1)"
+    "categorySlugs": [
+      "santidade"
+    ],
+    "explanation": "<strong>Romanos 12:2</strong>"
   },
   {
     "month": "08",
     "day": "19",
-    "text": "Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito.",
-    "reference": "João 3:16",
+    "text": "O amor é paciente, é benigno; o amor tudo sofre, tudo crê, tudo espera, tudo suporta.",
+    "reference": "1 Coríntios 13:4-7",
     "categories": [
       "Amor"
     ],
-    "explanation": "Este versículo fala do amor divino que transforma a vida e ensina a amar ao próximo. (João 3:16)"
+    "categorySlugs": [
+      "amor"
+    ],
+    "explanation": "<strong>1 Coríntios 13:4-7</strong>"
   },
   {
     "month": "08",
     "day": "20",
-    "text": "Posso todas as coisas naquele que me fortalece.",
-    "reference": "Filipenses 4:13",
+    "text": "Aquele que habita no esconderijo do Altíssimo, à sombra do Onipotente descansará.",
+    "reference": "Salmos 91:1",
     "categories": [
-      "Coragem"
+      "Paz"
     ],
-    "explanation": "Este versículo convida a ter coragem e firmeza diante das provações. (Filipenses 4:13)"
+    "categorySlugs": [
+      "paz"
+    ],
+    "explanation": "<strong>Salmos 91:1</strong>"
   },
   {
     "month": "08",
     "day": "21",
-    "text": "Eu é que sei os planos que tenho para vocês, diz o Senhor: planos de paz e não de mal.",
-    "reference": "Jeremias 29:11",
+    "text": "Não te mandei eu? Sê forte e corajoso; não temas nem te espantes.",
+    "reference": "Josué 1:9",
     "categories": [
-      "Esperança"
+      "Coragem"
     ],
-    "explanation": "Este versículo mostra que a esperança em Deus renova forças mesmo em tempos difíceis. (Jeremias 29:11)"
+    "categorySlugs": [
+      "coragem"
+    ],
+    "explanation": "<strong>Josué 1:9</strong>"
   },
   {
     "month": "08",
     "day": "22",
-    "text": "Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia.",
-    "reference": "Salmos 46:1",
+    "text": "Disse-lhe Jesus: Eu sou o caminho, a verdade e a vida.",
+    "reference": "João 14:6",
     "categories": [
-      "Paz"
+      "Fé"
     ],
-    "explanation": "Este versículo aponta para a paz que só Deus pode oferecer em meio às tribulações. (Salmos 46:1)"
+    "categorySlugs": [
+      "fe"
+    ],
+    "explanation": "<strong>João 14:6</strong>"
   },
   {
     "month": "08",
     "day": "23",
-    "text": "Sabemos que todas as coisas cooperam para o bem dos que amam a Deus.",
-    "reference": "Romanos 8:28",
+    "text": "No princípio era o Verbo, e o Verbo estava com Deus, e o Verbo era Deus.",
+    "reference": "João 1:1",
     "categories": [
-      "Confiança"
+      "Fé"
     ],
-    "explanation": "Este versículo ensina a confiar em Deus em todas as situações. (Romanos 8:28)"
+    "categorySlugs": [
+      "fe"
+    ],
+    "explanation": "<strong>João 1:1</strong>"
   },
   {
     "month": "08",
     "day": "24",
-    "text": "Confia no Senhor de todo o teu coração e não te apoies em teu próprio entendimento.",
-    "reference": "Provérbios 3:5",
+    "text": "O Senhor é a minha luz e a minha salvação; a quem temerei?",
+    "reference": "Salmos 27:1",
     "categories": [
-      "Sabedoria"
+      "Coragem"
     ],
-    "explanation": "Este versículo traz o convite à sabedoria que vem da Palavra de Deus. (Provérbios 3:5)"
+    "categorySlugs": [
+      "coragem"
+    ],
+    "explanation": "<strong>Salmos 27:1</strong>"
   },
   {
     "month": "08",
     "day": "25",
-    "text": "Vinde a mim todos os que estais cansados e sobrecarregados, e eu vos aliviarei.",
-    "reference": "Mateus 11:28",
+    "text": "Entrega o teu caminho ao Senhor; confia nele, e o mais ele fará.",
+    "reference": "Salmos 37:5",
     "categories": [
-      "Consolação"
+      "Confiança"
     ],
-    "explanation": "Este versículo traz consolo e alívio vindos do Senhor nos momentos de dor. (Mateus 11:28)"
+    "categorySlugs": [
+      "confianca"
+    ],
+    "explanation": "<strong>Salmos 37:5</strong>"
   },
   {
     "month": "08",
     "day": "26",
-    "text": "Não temas, porque eu sou contigo; não te assombres, porque eu sou teu Deus.",
-    "reference": "Isaías 41:10",
+    "text": "Bem-aventurados os que choram, porque serão consolados.",
+    "reference": "Mateus 5:4",
     "categories": [
-      "Coragem"
+      "Consolação"
     ],
-    "explanation": "Este versículo convida a ter coragem e firmeza diante das provações. (Isaías 41:10)"
+    "categorySlugs": [
+      "consolacao"
+    ],
+    "explanation": "<strong>Mateus 5:4</strong>"
   },
   {
     "month": "08",
     "day": "27",
-    "text": "Lâmpada para os meus pés é a tua palavra e luz para o meu caminho.",
-    "reference": "Salmos 119:105",
+    "text": "Clama a mim, e responder-te-ei; anunciar-te-ei coisas grandes e ocultas.",
+    "reference": "Jeremias 33:3",
     "categories": [
       "Sabedoria"
     ],
-    "explanation": "Este versículo traz o convite à sabedoria que vem da Palavra de Deus. (Salmos 119:105)"
+    "categorySlugs": [
+      "sabedoria"
+    ],
+    "explanation": "<strong>Jeremias 33:3</strong>"
   },
   {
     "month": "08",
     "day": "28",
-    "text": "Buscai primeiro o Reino de Deus e a sua justiça, e todas essas coisas serão acrescentadas.",
-    "reference": "Mateus 6:33",
+    "text": "Se Deus é por nós, quem será contra nós?",
+    "reference": "Romanos 8:31",
     "categories": [
-      "Obediência"
+      "Confiança"
     ],
-    "explanation": "Este versículo convida a viver em obediência à vontade do Senhor. (Mateus 6:33)"
+    "categorySlugs": [
+      "confianca"
+    ],
+    "explanation": "<strong>Romanos 8:31</strong>"
   },
   {
     "month": "08",
     "day": "29",
-    "text": "No princípio, Deus criou os céus e a terra.",
-    "reference": "Gênesis 1:1",
+    "text": "Crê no Senhor Jesus e serás salvo, tu e tua casa.",
+    "reference": "Atos 16:31",
     "categories": [
       "Fé"
     ],
-    "explanation": "Este versículo reforça a fé e a confiança em Deus como base da caminhada espiritual. (Gênesis 1:1)"
+    "categorySlugs": [
+      "fe"
+    ],
+    "explanation": "<strong>Atos 16:31</strong>"
   },
   {
     "month": "08",
     "day": "30",
-    "text": "O Senhor é meu pastor; nada me faltará.",
-    "reference": "Salmos 23:1",
+    "text": "Sede fortes e corajosos; o Senhor vai convosco.",
+    "reference": "Deuteronômio 31:6",
     "categories": [
-      "Confiança"
+      "Coragem"
     ],
-    "explanation": "Este versículo ensina a confiar em Deus em todas as situações. (Salmos 23:1)"
+    "categorySlugs": [
+      "coragem"
+    ],
+    "explanation": "<strong>Deuteronômio 31:6</strong>"
   },
   {
     "month": "08",
     "day": "31",
-    "text": "Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito.",
-    "reference": "João 3:16",
+    "text": "O Senhor pelejará por vós, e vós vos calareis.",
+    "reference": "Êxodo 14:14",
     "categories": [
-      "Amor"
+      "Confiança"
     ],
-    "explanation": "Este versículo fala do amor divino que transforma a vida e ensina a amar ao próximo. (João 3:16)"
+    "categorySlugs": [
+      "confianca"
+    ],
+    "explanation": "<strong>Êxodo 14:14</strong>"
   },
   {
     "month": "09",
     "day": "01",
-    "text": "Posso todas as coisas naquele que me fortalece.",
-    "reference": "Filipenses 4:13",
+    "text": "Alegrai-vos sempre no Senhor; outra vez digo: alegrai-vos.",
+    "reference": "Filipenses 4:4",
     "categories": [
-      "Coragem"
+      "Louvor"
     ],
-    "explanation": "Este versículo convida a ter coragem e firmeza diante das provações. (Filipenses 4:13)"
+    "categorySlugs": [
+      "louvor"
+    ],
+    "explanation": "<strong>Filipenses 4:4</strong>"
   },
   {
     "month": "09",
     "day": "02",
-    "text": "Eu é que sei os planos que tenho para vocês, diz o Senhor: planos de paz e não de mal.",
-    "reference": "Jeremias 29:11",
+    "text": "A fé é a certeza das coisas que se esperam e a convicção de fatos que não se veem.",
+    "reference": "Hebreus 11:1",
     "categories": [
-      "Esperança"
+      "Fé"
     ],
-    "explanation": "Este versículo mostra que a esperança em Deus renova forças mesmo em tempos difíceis. (Jeremias 29:11)"
+    "categorySlugs": [
+      "fe"
+    ],
+    "explanation": "<strong>Hebreus 11:1</strong>"
   },
   {
     "month": "09",
     "day": "03",
-    "text": "Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia.",
-    "reference": "Salmos 46:1",
+    "text": "Cria em mim, ó Deus, um coração puro e renova em mim um espírito reto.",
+    "reference": "Salmos 51:10",
     "categories": [
-      "Paz"
+      "Santidade"
     ],
-    "explanation": "Este versículo aponta para a paz que só Deus pode oferecer em meio às tribulações. (Salmos 46:1)"
+    "categorySlugs": [
+      "santidade"
+    ],
+    "explanation": "<strong>Salmos 51:10</strong>"
   },
   {
     "month": "09",
     "day": "04",
-    "text": "Sabemos que todas as coisas cooperam para o bem dos que amam a Deus.",
-    "reference": "Romanos 8:28",
+    "text": "A resposta branda desvia o furor.",
+    "reference": "Provérbios 15:1",
     "categories": [
-      "Confiança"
+      "Sabedoria"
     ],
-    "explanation": "Este versículo ensina a confiar em Deus em todas as situações. (Romanos 8:28)"
+    "categorySlugs": [
+      "sabedoria"
+    ],
+    "explanation": "<strong>Provérbios 15:1</strong>"
   },
   {
     "month": "09",
     "day": "05",
-    "text": "Confia no Senhor de todo o teu coração e não te apoies em teu próprio entendimento.",
-    "reference": "Provérbios 3:5",
+    "text": "O Senhor dos Exércitos está conosco; o Deus de Jacó é o nosso refúgio.",
+    "reference": "Salmos 46:7",
     "categories": [
-      "Sabedoria"
+      "Paz"
     ],
-    "explanation": "Este versículo traz o convite à sabedoria que vem da Palavra de Deus. (Provérbios 3:5)"
+    "categorySlugs": [
+      "paz"
+    ],
+    "explanation": "<strong>Salmos 46:7</strong>"
   },
   {
     "month": "09",
     "day": "06",
-    "text": "Vinde a mim todos os que estais cansados e sobrecarregados, e eu vos aliviarei.",
-    "reference": "Mateus 11:28",
+    "text": "O Senhor é bom, e a sua misericórdia dura para sempre.",
+    "reference": "Salmos 100:5",
     "categories": [
-      "Consolação"
+      "Gratidao"
     ],
-    "explanation": "Este versículo traz consolo e alívio vindos do Senhor nos momentos de dor. (Mateus 11:28)"
+    "categorySlugs": [
+      "gratidao"
+    ],
+    "explanation": "<strong>Salmos 100:5</strong>"
   },
   {
     "month": "09",
     "day": "07",
-    "text": "Não temas, porque eu sou contigo; não te assombres, porque eu sou teu Deus.",
-    "reference": "Isaías 41:10",
+    "text": "Perdoai, e sereis perdoados.",
+    "reference": "Lucas 6:37",
     "categories": [
-      "Coragem"
+      "Perdão"
     ],
-    "explanation": "Este versículo convida a ter coragem e firmeza diante das provações. (Isaías 41:10)"
+    "categorySlugs": [
+      "perdao"
+    ],
+    "explanation": "<strong>Lucas 6:37</strong>"
   },
   {
     "month": "09",
     "day": "08",
-    "text": "Lâmpada para os meus pés é a tua palavra e luz para o meu caminho.",
-    "reference": "Salmos 119:105",
+    "text": "Aquietai-vos e sabei que eu sou Deus.",
+    "reference": "Salmos 46:10",
     "categories": [
-      "Sabedoria"
+      "Paz"
     ],
-    "explanation": "Este versículo traz o convite à sabedoria que vem da Palavra de Deus. (Salmos 119:105)"
+    "categorySlugs": [
+      "paz"
+    ],
+    "explanation": "<strong>Salmos 46:10</strong>"
   },
   {
     "month": "09",
     "day": "09",
-    "text": "Buscai primeiro o Reino de Deus e a sua justiça, e todas essas coisas serão acrescentadas.",
-    "reference": "Mateus 6:33",
+    "text": "Ensina-nos a contar os nossos dias, para que alcancemos coração sábio.",
+    "reference": "Salmos 90:12",
     "categories": [
-      "Obediência"
+      "Sabedoria"
     ],
-    "explanation": "Este versículo convida a viver em obediência à vontade do Senhor. (Mateus 6:33)"
+    "categorySlugs": [
+      "sabedoria"
+    ],
+    "explanation": "<strong>Salmos 90:12</strong>"
   },
   {
     "month": "09",
     "day": "10",
-    "text": "No princípio, Deus criou os céus e a terra.",
-    "reference": "Gênesis 1:1",
+    "text": "O temor do Senhor é o princípio da sabedoria.",
+    "reference": "Provérbios 9:10",
     "categories": [
-      "Fé"
+      "Sabedoria"
     ],
-    "explanation": "Este versículo reforça a fé e a confiança em Deus como base da caminhada espiritual. (Gênesis 1:1)"
+    "categorySlugs": [
+      "sabedoria"
+    ],
+    "explanation": "<strong>Provérbios 9:10</strong>"
   },
   {
     "month": "09",
     "day": "11",
-    "text": "O Senhor é meu pastor; nada me faltará.",
-    "reference": "Salmos 23:1",
+    "text": "Sede prontos para ouvir, tardios para falar e tardios para se irar.",
+    "reference": "Tiago 1:19",
     "categories": [
-      "Confiança"
+      "Sabedoria"
     ],
-    "explanation": "Este versículo ensina a confiar em Deus em todas as situações. (Salmos 23:1)"
+    "categorySlugs": [
+      "sabedoria"
+    ],
+    "explanation": "<strong>Tiago 1:19</strong>"
   },
   {
     "month": "09",
     "day": "12",
-    "text": "Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito.",
-    "reference": "João 3:16",
+    "text": "Sobre tudo o que se deve guardar, guarda o coração.",
+    "reference": "Provérbios 4:23",
     "categories": [
-      "Amor"
+      "Sabedoria"
     ],
-    "explanation": "Este versículo fala do amor divino que transforma a vida e ensina a amar ao próximo. (João 3:16)"
+    "categorySlugs": [
+      "sabedoria"
+    ],
+    "explanation": "<strong>Provérbios 4:23</strong>"
   },
   {
     "month": "09",
     "day": "13",
-    "text": "Posso todas as coisas naquele que me fortalece.",
-    "reference": "Filipenses 4:13",
+    "text": "Bem-aventurados os pacificadores, porque serão chamados filhos de Deus.",
+    "reference": "Mateus 5:9",
     "categories": [
-      "Coragem"
+      "Paz"
     ],
-    "explanation": "Este versículo convida a ter coragem e firmeza diante das provações. (Filipenses 4:13)"
+    "categorySlugs": [
+      "paz"
+    ],
+    "explanation": "<strong>Mateus 5:9</strong>"
   },
   {
     "month": "09",
     "day": "14",
-    "text": "Eu é que sei os planos que tenho para vocês, diz o Senhor: planos de paz e não de mal.",
-    "reference": "Jeremias 29:11",
+    "text": "Lançai sobre ele toda a vossa ansiedade, porque ele tem cuidado de vós.",
+    "reference": "1 Pedro 5:7",
     "categories": [
-      "Esperança"
+      "Confiança"
     ],
-    "explanation": "Este versículo mostra que a esperança em Deus renova forças mesmo em tempos difíceis. (Jeremias 29:11)"
+    "categorySlugs": [
+      "confianca"
+    ],
+    "explanation": "<strong>1 Pedro 5:7</strong>"
   },
   {
     "month": "09",
     "day": "15",
-    "text": "Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia.",
-    "reference": "Salmos 46:1",
+    "text": "Se confessarmos os nossos pecados, ele é fiel e justo para nos perdoar.",
+    "reference": "1 João 1:9",
     "categories": [
-      "Paz"
+      "Perdão"
     ],
-    "explanation": "Este versículo aponta para a paz que só Deus pode oferecer em meio às tribulações. (Salmos 46:1)"
+    "categorySlugs": [
+      "perdao"
+    ],
+    "explanation": "<strong>1 João 1:9</strong>"
   },
   {
     "month": "09",
     "day": "16",
-    "text": "Sabemos que todas as coisas cooperam para o bem dos que amam a Deus.",
-    "reference": "Romanos 8:28",
+    "text": "A graça do Senhor Jesus seja com todos.",
+    "reference": "Apocalipse 22:21",
     "categories": [
-      "Confiança"
+      "Graça"
     ],
-    "explanation": "Este versículo ensina a confiar em Deus em todas as situações. (Romanos 8:28)"
+    "categorySlugs": [
+      "graça"
+    ],
+    "explanation": "<strong>Apocalipse 22:21</strong>"
   },
   {
     "month": "09",
     "day": "17",
-    "text": "Confia no Senhor de todo o teu coração e não te apoies em teu próprio entendimento.",
-    "reference": "Provérbios 3:5",
+    "text": "Sede fortes no Senhor e na força do seu poder.",
+    "reference": "Efésios 6:10",
     "categories": [
-      "Sabedoria"
+      "Coragem"
     ],
-    "explanation": "Este versículo traz o convite à sabedoria que vem da Palavra de Deus. (Provérbios 3:5)"
+    "categorySlugs": [
+      "coragem"
+    ],
+    "explanation": "<strong>Efésios 6:10</strong>"
   },
   {
     "month": "09",
     "day": "18",
-    "text": "Vinde a mim todos os que estais cansados e sobrecarregados, e eu vos aliviarei.",
-    "reference": "Mateus 11:28",
+    "text": "Deus é amor, e quem permanece no amor permanece em Deus.",
+    "reference": "1 João 4:16",
     "categories": [
-      "Consolação"
+      "Amor"
     ],
-    "explanation": "Este versículo traz consolo e alívio vindos do Senhor nos momentos de dor. (Mateus 11:28)"
+    "categorySlugs": [
+      "amor"
+    ],
+    "explanation": "<strong>1 João 4:16</strong>"
   },
   {
     "month": "09",
     "day": "19",
-    "text": "Não temas, porque eu sou contigo; não te assombres, porque eu sou teu Deus.",
-    "reference": "Isaías 41:10",
+    "text": "O justo viverá pela fé.",
+    "reference": "Habacuque 2:4",
     "categories": [
-      "Coragem"
+      "Fé"
     ],
-    "explanation": "Este versículo convida a ter coragem e firmeza diante das provações. (Isaías 41:10)"
+    "categorySlugs": [
+      "fe"
+    ],
+    "explanation": "<strong>Habacuque 2:4</strong>"
   },
   {
     "month": "09",
     "day": "20",
-    "text": "Lâmpada para os meus pés é a tua palavra e luz para o meu caminho.",
-    "reference": "Salmos 119:105",
+    "text": "O Senhor te abençoe e te guarde; o Senhor faça resplandecer o rosto sobre ti.",
+    "reference": "Números 6:24-26",
     "categories": [
-      "Sabedoria"
+      "Bênção"
     ],
-    "explanation": "Este versículo traz o convite à sabedoria que vem da Palavra de Deus. (Salmos 119:105)"
+    "categorySlugs": [
+      "bencao"
+    ],
+    "explanation": "<strong>Números 6:24-26</strong>"
   },
   {
     "month": "09",
     "day": "21",
-    "text": "Buscai primeiro o Reino de Deus e a sua justiça, e todas essas coisas serão acrescentadas.",
-    "reference": "Mateus 6:33",
+    "text": "Tudo o que fizerdes, fazei-o de coração, como para o Senhor.",
+    "reference": "Colossenses 3:23",
     "categories": [
       "Obediência"
     ],
-    "explanation": "Este versículo convida a viver em obediência à vontade do Senhor. (Mateus 6:33)"
+    "categorySlugs": [
+      "obediencia"
+    ],
+    "explanation": "<strong>Colossenses 3:23</strong>"
   },
   {
     "month": "09",
     "day": "22",
-    "text": "No princípio, Deus criou os céus e a terra.",
-    "reference": "Gênesis 1:1",
+    "text": "Sede bondosos e compassivos, perdoando-vos uns aos outros.",
+    "reference": "Efésios 4:32",
     "categories": [
-      "Fé"
+      "Perdão"
     ],
-    "explanation": "Este versículo reforça a fé e a confiança em Deus como base da caminhada espiritual. (Gênesis 1:1)"
+    "categorySlugs": [
+      "perdao"
+    ],
+    "explanation": "<strong>Efésios 4:32</strong>"
   },
   {
     "month": "09",
     "day": "23",
-    "text": "O Senhor é meu pastor; nada me faltará.",
-    "reference": "Salmos 23:1",
+    "text": "A tua graça me basta, porque o poder se aperfeiçoa na fraqueza.",
+    "reference": "2 Coríntios 12:9",
     "categories": [
-      "Confiança"
+      "Consolação"
     ],
-    "explanation": "Este versículo ensina a confiar em Deus em todas as situações. (Salmos 23:1)"
+    "categorySlugs": [
+      "consolacao"
+    ],
+    "explanation": "<strong>2 Coríntios 12:9</strong>"
   },
   {
     "month": "09",
     "day": "24",
-    "text": "Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito.",
-    "reference": "João 3:16",
+    "text": "Bem-aventurado o homem que confia no Senhor.",
+    "reference": "Provérbios 16:20",
     "categories": [
-      "Amor"
+      "Confiança"
     ],
-    "explanation": "Este versículo fala do amor divino que transforma a vida e ensina a amar ao próximo. (João 3:16)"
+    "categorySlugs": [
+      "confianca"
+    ],
+    "explanation": "<strong>Provérbios 16:20</strong>"
   },
   {
     "month": "09",
     "day": "25",
-    "text": "Posso todas as coisas naquele que me fortalece.",
-    "reference": "Filipenses 4:13",
+    "text": "Jesus Cristo é o mesmo ontem, hoje e eternamente.",
+    "reference": "Hebreus 13:8",
     "categories": [
-      "Coragem"
+      "Fé"
     ],
-    "explanation": "Este versículo convida a ter coragem e firmeza diante das provações. (Filipenses 4:13)"
+    "categorySlugs": [
+      "fe"
+    ],
+    "explanation": "<strong>Hebreus 13:8</strong>"
   },
   {
     "month": "09",
     "day": "26",
-    "text": "Eu é que sei os planos que tenho para vocês, diz o Senhor: planos de paz e não de mal.",
-    "reference": "Jeremias 29:11",
+    "text": "Fé sem obras é morta.",
+    "reference": "Tiago 2:17",
     "categories": [
-      "Esperança"
+      "Obediência"
     ],
-    "explanation": "Este versículo mostra que a esperança em Deus renova forças mesmo em tempos difíceis. (Jeremias 29:11)"
+    "categorySlugs": [
+      "obediencia"
+    ],
+    "explanation": "<strong>Tiago 2:17</strong>"
   },
   {
     "month": "09",
     "day": "27",
-    "text": "Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia.",
-    "reference": "Salmos 46:1",
+    "text": "Onde está o teu tesouro, aí estará também o teu coração.",
+    "reference": "Mateus 6:21",
     "categories": [
-      "Paz"
+      "Sabedoria"
     ],
-    "explanation": "Este versículo aponta para a paz que só Deus pode oferecer em meio às tribulações. (Salmos 46:1)"
+    "categorySlugs": [
+      "sabedoria"
+    ],
+    "explanation": "<strong>Mateus 6:21</strong>"
   },
   {
     "month": "09",
-    "day": "28",
-    "text": "Sabemos que todas as coisas cooperam para o bem dos que amam a Deus.",
-    "reference": "Romanos 8:28",
-    "categories": [
-      "Confiança"
-    ],
-    "explanation": "Este versículo ensina a confiar em Deus em todas as situações. (Romanos 8:28)"
-  },
-  {
-    "month": "09",
-    "day": "29",
-    "text": "Confia no Senhor de todo o teu coração e não te apoies em teu próprio entendimento.",
-    "reference": "Provérbios 3:5",
-    "categories": [
-      "Sabedoria"
-    ],
-    "explanation": "Este versículo traz o convite à sabedoria que vem da Palavra de Deus. (Provérbios 3:5)"
-  },
-  {
-    "month": "09",
-    "day": "30",
-    "text": "Vinde a mim todos os que estais cansados e sobrecarregados, e eu vos aliviarei.",
-    "reference": "Mateus 11:28",
-    "categories": [
-      "Consolação"
-    ],
-    "explanation": "Este versículo traz consolo e alívio vindos do Senhor nos momentos de dor. (Mateus 11:28)"
-  },
-  {
-    "month": "10",
-    "day": "01",
-    "text": "Não temas, porque eu sou contigo; não te assombres, porque eu sou teu Deus.",
-    "reference": "Isaías 41:10",
-    "categories": [
-      "Coragem"
-    ],
-    "explanation": "Este versículo convida a ter coragem e firmeza diante das provações. (Isaías 41:10)"
-  },
-  {
-    "month": "10",
-    "day": "02",
-    "text": "Lâmpada para os meus pés é a tua palavra e luz para o meu caminho.",
-    "reference": "Salmos 119:105",
-    "categories": [
-      "Sabedoria"
-    ],
-    "explanation": "Este versículo traz o convite à sabedoria que vem da Palavra de Deus. (Salmos 119:105)"
-  },
-  {
-    "month": "10",
-    "day": "03",
-    "text": "Buscai primeiro o Reino de Deus e a sua justiça, e todas essas coisas serão acrescentadas.",
-    "reference": "Mateus 6:33",
-    "categories": [
-      "Obediência"
-    ],
-    "explanation": "Este versículo convida a viver em obediência à vontade do Senhor. (Mateus 6:33)"
-  },
-  {
-    "month": "10",
-    "day": "04",
-    "text": "No princípio, Deus criou os céus e a terra.",
-    "reference": "Gênesis 1:1",
-    "categories": [
-      "Fé"
-    ],
-    "explanation": "Este versículo reforça a fé e a confiança em Deus como base da caminhada espiritual. (Gênesis 1:1)"
-  },
-  {
-    "month": "10",
-    "day": "05",
-    "text": "O Senhor é meu pastor; nada me faltará.",
-    "reference": "Salmos 23:1",
-    "categories": [
-      "Confiança"
-    ],
-    "explanation": "Este versículo ensina a confiar em Deus em todas as situações. (Salmos 23:1)"
-  },
-  {
-    "month": "10",
-    "day": "06",
-    "text": "Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito.",
-    "reference": "João 3:16",
-    "categories": [
-      "Amor"
-    ],
-    "explanation": "Este versículo fala do amor divino que transforma a vida e ensina a amar ao próximo. (João 3:16)"
-  },
-  {
-    "month": "10",
-    "day": "07",
-    "text": "Posso todas as coisas naquele que me fortalece.",
-    "reference": "Filipenses 4:13",
-    "categories": [
-      "Coragem"
-    ],
-    "explanation": "Este versículo convida a ter coragem e firmeza diante das provações. (Filipenses 4:13)"
-  },
-  {
-    "month": "10",
-    "day": "08",
-    "text": "Eu é que sei os planos que tenho para vocês, diz o Senhor: planos de paz e não de mal.",
-    "reference": "Jeremias 29:11",
-    "categories": [
-      "Esperança"
-    ],
-    "explanation": "Este versículo mostra que a esperança em Deus renova forças mesmo em tempos difíceis. (Jeremias 29:11)"
-  },
-  {
-    "month": "10",
-    "day": "09",
-    "text": "Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia.",
-    "reference": "Salmos 46:1",
-    "categories": [
-      "Paz"
-    ],
-    "explanation": "Este versículo aponta para a paz que só Deus pode oferecer em meio às tribulações. (Salmos 46:1)"
-  },
-  {
-    "month": "10",
-    "day": "10",
-    "text": "Sabemos que todas as coisas cooperam para o bem dos que amam a Deus.",
-    "reference": "Romanos 8:28",
-    "categories": [
-      "Confiança"
-    ],
-    "explanation": "Este versículo ensina a confiar em Deus em todas as situações. (Romanos 8:28)"
-  },
-  {
-    "month": "10",
-    "day": "11",
-    "text": "Confia no Senhor de todo o teu coração e não te apoies em teu próprio entendimento.",
-    "reference": "Provérbios 3:5",
-    "categories": [
-      "Sabedoria"
-    ],
-    "explanation": "Este versículo traz o convite à sabedoria que vem da Palavra de Deus. (Provérbios 3:5)"
-  },
-  {
-    "month": "10",
-    "day": "12",
-    "text": "Vinde a mim todos os que estais cansados e sobrecarregados, e eu vos aliviarei.",
-    "reference": "Mateus 11:28",
-    "categories": [
-      "Consolação"
-    ],
-    "explanation": "Este versículo traz consolo e alívio vindos do Senhor nos momentos de dor. (Mateus 11:28)"
-  },
-  {
-    "month": "10",
-    "day": "13",
-    "text": "Não temas, porque eu sou contigo; não te assombres, porque eu sou teu Deus.",
-    "reference": "Isaías 41:10",
-    "categories": [
-      "Coragem"
-    ],
-    "explanation": "Este versículo convida a ter coragem e firmeza diante das provações. (Isaías 41:10)"
-  },
-  {
-    "month": "10",
-    "day": "14",
-    "text": "Lâmpada para os meus pés é a tua palavra e luz para o meu caminho.",
-    "reference": "Salmos 119:105",
-    "categories": [
-      "Sabedoria"
-    ],
-    "explanation": "Este versículo traz o convite à sabedoria que vem da Palavra de Deus. (Salmos 119:105)"
-  },
-  {
-    "month": "10",
-    "day": "15",
-    "text": "Buscai primeiro o Reino de Deus e a sua justiça, e todas essas coisas serão acrescentadas.",
-    "reference": "Mateus 6:33",
-    "categories": [
-      "Obediência"
-    ],
-    "explanation": "Este versículo convida a viver em obediência à vontade do Senhor. (Mateus 6:33)"
-  },
-  {
-    "month": "10",
-    "day": "16",
-    "text": "No princípio, Deus criou os céus e a terra.",
-    "reference": "Gênesis 1:1",
-    "categories": [
-      "Fé"
-    ],
-    "explanation": "Este versículo reforça a fé e a confiança em Deus como base da caminhada espiritual. (Gênesis 1:1)"
-  },
-  {
-    "month": "10",
-    "day": "17",
-    "text": "O Senhor é meu pastor; nada me faltará.",
-    "reference": "Salmos 23:1",
-    "categories": [
-      "Confiança"
-    ],
-    "explanation": "Este versículo ensina a confiar em Deus em todas as situações. (Salmos 23:1)"
-  },
-  {
-    "month": "10",
-    "day": "18",
-    "text": "Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito.",
-    "reference": "João 3:16",
-    "categories": [
-      "Amor"
-    ],
-    "explanation": "Este versículo fala do amor divino que transforma a vida e ensina a amar ao próximo. (João 3:16)"
-  },
-  {
-    "month": "10",
-    "day": "19",
-    "text": "Posso todas as coisas naquele que me fortalece.",
-    "reference": "Filipenses 4:13",
-    "categories": [
-      "Coragem"
-    ],
-    "explanation": "Este versículo convida a ter coragem e firmeza diante das provações. (Filipenses 4:13)"
-  },
-  {
-    "month": "10",
-    "day": "20",
-    "text": "Eu é que sei os planos que tenho para vocês, diz o Senhor: planos de paz e não de mal.",
-    "reference": "Jeremias 29:11",
-    "categories": [
-      "Esperança"
-    ],
-    "explanation": "Este versículo mostra que a esperança em Deus renova forças mesmo em tempos difíceis. (Jeremias 29:11)"
-  },
-  {
-    "month": "10",
-    "day": "21",
-    "text": "Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia.",
-    "reference": "Salmos 46:1",
-    "categories": [
-      "Paz"
-    ],
-    "explanation": "Este versículo aponta para a paz que só Deus pode oferecer em meio às tribulações. (Salmos 46:1)"
-  },
-  {
-    "month": "10",
-    "day": "22",
-    "text": "Sabemos que todas as coisas cooperam para o bem dos que amam a Deus.",
-    "reference": "Romanos 8:28",
-    "categories": [
-      "Confiança"
-    ],
-    "explanation": "Este versículo ensina a confiar em Deus em todas as situações. (Romanos 8:28)"
-  },
-  {
-    "month": "10",
-    "day": "23",
-    "text": "Confia no Senhor de todo o teu coração e não te apoies em teu próprio entendimento.",
-    "reference": "Provérbios 3:5",
-    "categories": [
-      "Sabedoria"
-    ],
-    "explanation": "Este versículo traz o convite à sabedoria que vem da Palavra de Deus. (Provérbios 3:5)"
-  },
-  {
-    "month": "10",
-    "day": "24",
-    "text": "Vinde a mim todos os que estais cansados e sobrecarregados, e eu vos aliviarei.",
-    "reference": "Mateus 11:28",
-    "categories": [
-      "Consolação"
-    ],
-    "explanation": "Este versículo traz consolo e alívio vindos do Senhor nos momentos de dor. (Mateus 11:28)"
-  },
-  {
-    "month": "10",
-    "day": "25",
-    "text": "Não temas, porque eu sou contigo; não te assombres, porque eu sou teu Deus.",
-    "reference": "Isaías 41:10",
-    "categories": [
-      "Coragem"
-    ],
-    "explanation": "Este versículo convida a ter coragem e firmeza diante das provações. (Isaías 41:10)"
-  },
-  {
-    "month": "10",
-    "day": "26",
-    "text": "Lâmpada para os meus pés é a tua palavra e luz para o meu caminho.",
-    "reference": "Salmos 119:105",
-    "categories": [
-      "Sabedoria"
-    ],
-    "explanation": "Este versículo traz o convite à sabedoria que vem da Palavra de Deus. (Salmos 119:105)"
-  },
-  {
-    "month": "10",
-    "day": "27",
-    "text": "Buscai primeiro o Reino de Deus e a sua justiça, e todas essas coisas serão acrescentadas.",
-    "reference": "Mateus 6:33",
-    "categories": [
-      "Obediência"
-    ],
-    "explanation": "Este versículo convida a viver em obediência à vontade do Senhor. (Mateus 6:33)"
-  },
-  {
-    "month": "10",
     "day": "28",
     "text": "No princípio, Deus criou os céus e a terra.",
     "reference": "Gênesis 1:1",
     "categories": [
       "Fé"
     ],
-    "explanation": "Este versículo reforça a fé e a confiança em Deus como base da caminhada espiritual. (Gênesis 1:1)"
+    "categorySlugs": [
+      "fe"
+    ],
+    "explanation": "<strong>Gênesis 1:1</strong>"
   },
   {
-    "month": "10",
+    "month": "09",
     "day": "29",
     "text": "O Senhor é meu pastor; nada me faltará.",
     "reference": "Salmos 23:1",
     "categories": [
       "Confiança"
     ],
-    "explanation": "Este versículo ensina a confiar em Deus em todas as situações. (Salmos 23:1)"
+    "categorySlugs": [
+      "confianca"
+    ],
+    "explanation": "<strong>Salmos 23:1</strong>"
   },
   {
-    "month": "10",
+    "month": "09",
     "day": "30",
     "text": "Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito.",
     "reference": "João 3:16",
     "categories": [
       "Amor"
     ],
-    "explanation": "Este versículo fala do amor divino que transforma a vida e ensina a amar ao próximo. (João 3:16)"
+    "categorySlugs": [
+      "amor"
+    ],
+    "explanation": "<strong>João 3:16</strong>"
+  },
+  {
+    "month": "10",
+    "day": "01",
+    "text": "Posso todas as coisas naquele que me fortalece.",
+    "reference": "Filipenses 4:13",
+    "categories": [
+      "Coragem"
+    ],
+    "categorySlugs": [
+      "coragem"
+    ],
+    "explanation": "<strong>Filipenses 4:13</strong>"
+  },
+  {
+    "month": "10",
+    "day": "02",
+    "text": "Eu é que sei os planos que tenho para vocês, diz o Senhor: planos de paz e não de mal.",
+    "reference": "Jeremias 29:11",
+    "categories": [
+      "Esperança"
+    ],
+    "categorySlugs": [
+      "esperanca"
+    ],
+    "explanation": "<strong>Jeremias 29:11</strong>"
+  },
+  {
+    "month": "10",
+    "day": "03",
+    "text": "Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia.",
+    "reference": "Salmos 46:1",
+    "categories": [
+      "Paz"
+    ],
+    "categorySlugs": [
+      "paz"
+    ],
+    "explanation": "<strong>Salmos 46:1</strong>"
+  },
+  {
+    "month": "10",
+    "day": "04",
+    "text": "Sabemos que todas as coisas cooperam para o bem dos que amam a Deus.",
+    "reference": "Romanos 8:28",
+    "categories": [
+      "Confiança"
+    ],
+    "categorySlugs": [
+      "confianca"
+    ],
+    "explanation": "<strong>Romanos 8:28</strong>"
+  },
+  {
+    "month": "10",
+    "day": "05",
+    "text": "Confia no Senhor de todo o teu coração e não te apoies em teu próprio entendimento.",
+    "reference": "Provérbios 3:5",
+    "categories": [
+      "Sabedoria"
+    ],
+    "categorySlugs": [
+      "sabedoria"
+    ],
+    "explanation": "<strong>Provérbios 3:5</strong>"
+  },
+  {
+    "month": "10",
+    "day": "06",
+    "text": "Vinde a mim todos os que estais cansados e sobrecarregados, e eu vos aliviarei.",
+    "reference": "Mateus 11:28",
+    "categories": [
+      "Consolação"
+    ],
+    "categorySlugs": [
+      "consolacao"
+    ],
+    "explanation": "<strong>Mateus 11:28</strong>"
+  },
+  {
+    "month": "10",
+    "day": "07",
+    "text": "Não temas, porque eu sou contigo; não te assombres, porque eu sou teu Deus.",
+    "reference": "Isaías 41:10",
+    "categories": [
+      "Coragem"
+    ],
+    "categorySlugs": [
+      "coragem"
+    ],
+    "explanation": "<strong>Isaías 41:10</strong>"
+  },
+  {
+    "month": "10",
+    "day": "08",
+    "text": "Lâmpada para os meus pés é a tua palavra e luz para o meu caminho.",
+    "reference": "Salmos 119:105",
+    "categories": [
+      "Sabedoria"
+    ],
+    "categorySlugs": [
+      "sabedoria"
+    ],
+    "explanation": "<strong>Salmos 119:105</strong>"
+  },
+  {
+    "month": "10",
+    "day": "09",
+    "text": "Buscai primeiro o Reino de Deus e a sua justiça, e todas essas coisas serão acrescentadas.",
+    "reference": "Mateus 6:33",
+    "categories": [
+      "Obediência"
+    ],
+    "categorySlugs": [
+      "obediencia"
+    ],
+    "explanation": "<strong>Mateus 6:33</strong>"
+  },
+  {
+    "month": "10",
+    "day": "10",
+    "text": "Provai e vede que o Senhor é bom; bem-aventurado o que nele se refugia.",
+    "reference": "Salmos 34:8",
+    "categories": [
+      "Gratidao"
+    ],
+    "categorySlugs": [
+      "gratidao"
+    ],
+    "explanation": "<strong>Salmos 34:8</strong>"
+  },
+  {
+    "month": "10",
+    "day": "11",
+    "text": "Não vos conformeis com este mundo, mas transformai-vos pela renovação da mente.",
+    "reference": "Romanos 12:2",
+    "categories": [
+      "Santidade"
+    ],
+    "categorySlugs": [
+      "santidade"
+    ],
+    "explanation": "<strong>Romanos 12:2</strong>"
+  },
+  {
+    "month": "10",
+    "day": "12",
+    "text": "O amor é paciente, é benigno; o amor tudo sofre, tudo crê, tudo espera, tudo suporta.",
+    "reference": "1 Coríntios 13:4-7",
+    "categories": [
+      "Amor"
+    ],
+    "categorySlugs": [
+      "amor"
+    ],
+    "explanation": "<strong>1 Coríntios 13:4-7</strong>"
+  },
+  {
+    "month": "10",
+    "day": "13",
+    "text": "Aquele que habita no esconderijo do Altíssimo, à sombra do Onipotente descansará.",
+    "reference": "Salmos 91:1",
+    "categories": [
+      "Paz"
+    ],
+    "categorySlugs": [
+      "paz"
+    ],
+    "explanation": "<strong>Salmos 91:1</strong>"
+  },
+  {
+    "month": "10",
+    "day": "14",
+    "text": "Não te mandei eu? Sê forte e corajoso; não temas nem te espantes.",
+    "reference": "Josué 1:9",
+    "categories": [
+      "Coragem"
+    ],
+    "categorySlugs": [
+      "coragem"
+    ],
+    "explanation": "<strong>Josué 1:9</strong>"
+  },
+  {
+    "month": "10",
+    "day": "15",
+    "text": "Disse-lhe Jesus: Eu sou o caminho, a verdade e a vida.",
+    "reference": "João 14:6",
+    "categories": [
+      "Fé"
+    ],
+    "categorySlugs": [
+      "fe"
+    ],
+    "explanation": "<strong>João 14:6</strong>"
+  },
+  {
+    "month": "10",
+    "day": "16",
+    "text": "No princípio era o Verbo, e o Verbo estava com Deus, e o Verbo era Deus.",
+    "reference": "João 1:1",
+    "categories": [
+      "Fé"
+    ],
+    "categorySlugs": [
+      "fe"
+    ],
+    "explanation": "<strong>João 1:1</strong>"
+  },
+  {
+    "month": "10",
+    "day": "17",
+    "text": "O Senhor é a minha luz e a minha salvação; a quem temerei?",
+    "reference": "Salmos 27:1",
+    "categories": [
+      "Coragem"
+    ],
+    "categorySlugs": [
+      "coragem"
+    ],
+    "explanation": "<strong>Salmos 27:1</strong>"
+  },
+  {
+    "month": "10",
+    "day": "18",
+    "text": "Entrega o teu caminho ao Senhor; confia nele, e o mais ele fará.",
+    "reference": "Salmos 37:5",
+    "categories": [
+      "Confiança"
+    ],
+    "categorySlugs": [
+      "confianca"
+    ],
+    "explanation": "<strong>Salmos 37:5</strong>"
+  },
+  {
+    "month": "10",
+    "day": "19",
+    "text": "Bem-aventurados os que choram, porque serão consolados.",
+    "reference": "Mateus 5:4",
+    "categories": [
+      "Consolação"
+    ],
+    "categorySlugs": [
+      "consolacao"
+    ],
+    "explanation": "<strong>Mateus 5:4</strong>"
+  },
+  {
+    "month": "10",
+    "day": "20",
+    "text": "Clama a mim, e responder-te-ei; anunciar-te-ei coisas grandes e ocultas.",
+    "reference": "Jeremias 33:3",
+    "categories": [
+      "Sabedoria"
+    ],
+    "categorySlugs": [
+      "sabedoria"
+    ],
+    "explanation": "<strong>Jeremias 33:3</strong>"
+  },
+  {
+    "month": "10",
+    "day": "21",
+    "text": "Se Deus é por nós, quem será contra nós?",
+    "reference": "Romanos 8:31",
+    "categories": [
+      "Confiança"
+    ],
+    "categorySlugs": [
+      "confianca"
+    ],
+    "explanation": "<strong>Romanos 8:31</strong>"
+  },
+  {
+    "month": "10",
+    "day": "22",
+    "text": "Crê no Senhor Jesus e serás salvo, tu e tua casa.",
+    "reference": "Atos 16:31",
+    "categories": [
+      "Fé"
+    ],
+    "categorySlugs": [
+      "fe"
+    ],
+    "explanation": "<strong>Atos 16:31</strong>"
+  },
+  {
+    "month": "10",
+    "day": "23",
+    "text": "Sede fortes e corajosos; o Senhor vai convosco.",
+    "reference": "Deuteronômio 31:6",
+    "categories": [
+      "Coragem"
+    ],
+    "categorySlugs": [
+      "coragem"
+    ],
+    "explanation": "<strong>Deuteronômio 31:6</strong>"
+  },
+  {
+    "month": "10",
+    "day": "24",
+    "text": "O Senhor pelejará por vós, e vós vos calareis.",
+    "reference": "Êxodo 14:14",
+    "categories": [
+      "Confiança"
+    ],
+    "categorySlugs": [
+      "confianca"
+    ],
+    "explanation": "<strong>Êxodo 14:14</strong>"
+  },
+  {
+    "month": "10",
+    "day": "25",
+    "text": "Alegrai-vos sempre no Senhor; outra vez digo: alegrai-vos.",
+    "reference": "Filipenses 4:4",
+    "categories": [
+      "Louvor"
+    ],
+    "categorySlugs": [
+      "louvor"
+    ],
+    "explanation": "<strong>Filipenses 4:4</strong>"
+  },
+  {
+    "month": "10",
+    "day": "26",
+    "text": "A fé é a certeza das coisas que se esperam e a convicção de fatos que não se veem.",
+    "reference": "Hebreus 11:1",
+    "categories": [
+      "Fé"
+    ],
+    "categorySlugs": [
+      "fe"
+    ],
+    "explanation": "<strong>Hebreus 11:1</strong>"
+  },
+  {
+    "month": "10",
+    "day": "27",
+    "text": "Cria em mim, ó Deus, um coração puro e renova em mim um espírito reto.",
+    "reference": "Salmos 51:10",
+    "categories": [
+      "Santidade"
+    ],
+    "categorySlugs": [
+      "santidade"
+    ],
+    "explanation": "<strong>Salmos 51:10</strong>"
+  },
+  {
+    "month": "10",
+    "day": "28",
+    "text": "A resposta branda desvia o furor.",
+    "reference": "Provérbios 15:1",
+    "categories": [
+      "Sabedoria"
+    ],
+    "categorySlugs": [
+      "sabedoria"
+    ],
+    "explanation": "<strong>Provérbios 15:1</strong>"
+  },
+  {
+    "month": "10",
+    "day": "29",
+    "text": "O Senhor dos Exércitos está conosco; o Deus de Jacó é o nosso refúgio.",
+    "reference": "Salmos 46:7",
+    "categories": [
+      "Paz"
+    ],
+    "categorySlugs": [
+      "paz"
+    ],
+    "explanation": "<strong>Salmos 46:7</strong>"
+  },
+  {
+    "month": "10",
+    "day": "30",
+    "text": "O Senhor é bom, e a sua misericórdia dura para sempre.",
+    "reference": "Salmos 100:5",
+    "categories": [
+      "Gratidao"
+    ],
+    "categorySlugs": [
+      "gratidao"
+    ],
+    "explanation": "<strong>Salmos 100:5</strong>"
   },
   {
     "month": "10",
     "day": "31",
-    "text": "Posso todas as coisas naquele que me fortalece.",
-    "reference": "Filipenses 4:13",
+    "text": "Perdoai, e sereis perdoados.",
+    "reference": "Lucas 6:37",
     "categories": [
-      "Coragem"
+      "Perdão"
     ],
-    "explanation": "Este versículo convida a ter coragem e firmeza diante das provações. (Filipenses 4:13)"
+    "categorySlugs": [
+      "perdao"
+    ],
+    "explanation": "<strong>Lucas 6:37</strong>"
   },
   {
     "month": "11",
     "day": "01",
-    "text": "Eu é que sei os planos que tenho para vocês, diz o Senhor: planos de paz e não de mal.",
-    "reference": "Jeremias 29:11",
+    "text": "Aquietai-vos e sabei que eu sou Deus.",
+    "reference": "Salmos 46:10",
     "categories": [
-      "Esperança"
+      "Paz"
     ],
-    "explanation": "Este versículo mostra que a esperança em Deus renova forças mesmo em tempos difíceis. (Jeremias 29:11)"
+    "categorySlugs": [
+      "paz"
+    ],
+    "explanation": "<strong>Salmos 46:10</strong>"
   },
   {
     "month": "11",
     "day": "02",
-    "text": "Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia.",
-    "reference": "Salmos 46:1",
+    "text": "Ensina-nos a contar os nossos dias, para que alcancemos coração sábio.",
+    "reference": "Salmos 90:12",
     "categories": [
-      "Paz"
+      "Sabedoria"
     ],
-    "explanation": "Este versículo aponta para a paz que só Deus pode oferecer em meio às tribulações. (Salmos 46:1)"
+    "categorySlugs": [
+      "sabedoria"
+    ],
+    "explanation": "<strong>Salmos 90:12</strong>"
   },
   {
     "month": "11",
     "day": "03",
-    "text": "Sabemos que todas as coisas cooperam para o bem dos que amam a Deus.",
-    "reference": "Romanos 8:28",
+    "text": "O temor do Senhor é o princípio da sabedoria.",
+    "reference": "Provérbios 9:10",
     "categories": [
-      "Confiança"
+      "Sabedoria"
     ],
-    "explanation": "Este versículo ensina a confiar em Deus em todas as situações. (Romanos 8:28)"
+    "categorySlugs": [
+      "sabedoria"
+    ],
+    "explanation": "<strong>Provérbios 9:10</strong>"
   },
   {
     "month": "11",
     "day": "04",
-    "text": "Confia no Senhor de todo o teu coração e não te apoies em teu próprio entendimento.",
-    "reference": "Provérbios 3:5",
+    "text": "Sede prontos para ouvir, tardios para falar e tardios para se irar.",
+    "reference": "Tiago 1:19",
     "categories": [
       "Sabedoria"
     ],
-    "explanation": "Este versículo traz o convite à sabedoria que vem da Palavra de Deus. (Provérbios 3:5)"
+    "categorySlugs": [
+      "sabedoria"
+    ],
+    "explanation": "<strong>Tiago 1:19</strong>"
   },
   {
     "month": "11",
     "day": "05",
-    "text": "Vinde a mim todos os que estais cansados e sobrecarregados, e eu vos aliviarei.",
-    "reference": "Mateus 11:28",
+    "text": "Sobre tudo o que se deve guardar, guarda o coração.",
+    "reference": "Provérbios 4:23",
     "categories": [
-      "Consolação"
+      "Sabedoria"
     ],
-    "explanation": "Este versículo traz consolo e alívio vindos do Senhor nos momentos de dor. (Mateus 11:28)"
+    "categorySlugs": [
+      "sabedoria"
+    ],
+    "explanation": "<strong>Provérbios 4:23</strong>"
   },
   {
     "month": "11",
     "day": "06",
-    "text": "Não temas, porque eu sou contigo; não te assombres, porque eu sou teu Deus.",
-    "reference": "Isaías 41:10",
+    "text": "Bem-aventurados os pacificadores, porque serão chamados filhos de Deus.",
+    "reference": "Mateus 5:9",
     "categories": [
-      "Coragem"
+      "Paz"
     ],
-    "explanation": "Este versículo convida a ter coragem e firmeza diante das provações. (Isaías 41:10)"
+    "categorySlugs": [
+      "paz"
+    ],
+    "explanation": "<strong>Mateus 5:9</strong>"
   },
   {
     "month": "11",
     "day": "07",
-    "text": "Lâmpada para os meus pés é a tua palavra e luz para o meu caminho.",
-    "reference": "Salmos 119:105",
+    "text": "Lançai sobre ele toda a vossa ansiedade, porque ele tem cuidado de vós.",
+    "reference": "1 Pedro 5:7",
     "categories": [
-      "Sabedoria"
+      "Confiança"
     ],
-    "explanation": "Este versículo traz o convite à sabedoria que vem da Palavra de Deus. (Salmos 119:105)"
+    "categorySlugs": [
+      "confianca"
+    ],
+    "explanation": "<strong>1 Pedro 5:7</strong>"
   },
   {
     "month": "11",
     "day": "08",
-    "text": "Buscai primeiro o Reino de Deus e a sua justiça, e todas essas coisas serão acrescentadas.",
-    "reference": "Mateus 6:33",
+    "text": "Se confessarmos os nossos pecados, ele é fiel e justo para nos perdoar.",
+    "reference": "1 João 1:9",
     "categories": [
-      "Obediência"
+      "Perdão"
     ],
-    "explanation": "Este versículo convida a viver em obediência à vontade do Senhor. (Mateus 6:33)"
+    "categorySlugs": [
+      "perdao"
+    ],
+    "explanation": "<strong>1 João 1:9</strong>"
   },
   {
     "month": "11",
     "day": "09",
-    "text": "No princípio, Deus criou os céus e a terra.",
-    "reference": "Gênesis 1:1",
+    "text": "A graça do Senhor Jesus seja com todos.",
+    "reference": "Apocalipse 22:21",
     "categories": [
-      "Fé"
+      "Graça"
     ],
-    "explanation": "Este versículo reforça a fé e a confiança em Deus como base da caminhada espiritual. (Gênesis 1:1)"
+    "categorySlugs": [
+      "graça"
+    ],
+    "explanation": "<strong>Apocalipse 22:21</strong>"
   },
   {
     "month": "11",
     "day": "10",
-    "text": "O Senhor é meu pastor; nada me faltará.",
-    "reference": "Salmos 23:1",
+    "text": "Sede fortes no Senhor e na força do seu poder.",
+    "reference": "Efésios 6:10",
     "categories": [
-      "Confiança"
+      "Coragem"
     ],
-    "explanation": "Este versículo ensina a confiar em Deus em todas as situações. (Salmos 23:1)"
+    "categorySlugs": [
+      "coragem"
+    ],
+    "explanation": "<strong>Efésios 6:10</strong>"
   },
   {
     "month": "11",
     "day": "11",
-    "text": "Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito.",
-    "reference": "João 3:16",
+    "text": "Deus é amor, e quem permanece no amor permanece em Deus.",
+    "reference": "1 João 4:16",
     "categories": [
       "Amor"
     ],
-    "explanation": "Este versículo fala do amor divino que transforma a vida e ensina a amar ao próximo. (João 3:16)"
+    "categorySlugs": [
+      "amor"
+    ],
+    "explanation": "<strong>1 João 4:16</strong>"
   },
   {
     "month": "11",
     "day": "12",
-    "text": "Posso todas as coisas naquele que me fortalece.",
-    "reference": "Filipenses 4:13",
+    "text": "O justo viverá pela fé.",
+    "reference": "Habacuque 2:4",
     "categories": [
-      "Coragem"
+      "Fé"
     ],
-    "explanation": "Este versículo convida a ter coragem e firmeza diante das provações. (Filipenses 4:13)"
+    "categorySlugs": [
+      "fe"
+    ],
+    "explanation": "<strong>Habacuque 2:4</strong>"
   },
   {
     "month": "11",
     "day": "13",
-    "text": "Eu é que sei os planos que tenho para vocês, diz o Senhor: planos de paz e não de mal.",
-    "reference": "Jeremias 29:11",
+    "text": "O Senhor te abençoe e te guarde; o Senhor faça resplandecer o rosto sobre ti.",
+    "reference": "Números 6:24-26",
     "categories": [
-      "Esperança"
+      "Bênção"
     ],
-    "explanation": "Este versículo mostra que a esperança em Deus renova forças mesmo em tempos difíceis. (Jeremias 29:11)"
+    "categorySlugs": [
+      "bencao"
+    ],
+    "explanation": "<strong>Números 6:24-26</strong>"
   },
   {
     "month": "11",
     "day": "14",
-    "text": "Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia.",
-    "reference": "Salmos 46:1",
+    "text": "Tudo o que fizerdes, fazei-o de coração, como para o Senhor.",
+    "reference": "Colossenses 3:23",
     "categories": [
-      "Paz"
+      "Obediência"
     ],
-    "explanation": "Este versículo aponta para a paz que só Deus pode oferecer em meio às tribulações. (Salmos 46:1)"
+    "categorySlugs": [
+      "obediencia"
+    ],
+    "explanation": "<strong>Colossenses 3:23</strong>"
   },
   {
     "month": "11",
     "day": "15",
-    "text": "Sabemos que todas as coisas cooperam para o bem dos que amam a Deus.",
-    "reference": "Romanos 8:28",
+    "text": "Sede bondosos e compassivos, perdoando-vos uns aos outros.",
+    "reference": "Efésios 4:32",
     "categories": [
-      "Confiança"
+      "Perdão"
     ],
-    "explanation": "Este versículo ensina a confiar em Deus em todas as situações. (Romanos 8:28)"
+    "categorySlugs": [
+      "perdao"
+    ],
+    "explanation": "<strong>Efésios 4:32</strong>"
   },
   {
     "month": "11",
     "day": "16",
-    "text": "Confia no Senhor de todo o teu coração e não te apoies em teu próprio entendimento.",
-    "reference": "Provérbios 3:5",
+    "text": "A tua graça me basta, porque o poder se aperfeiçoa na fraqueza.",
+    "reference": "2 Coríntios 12:9",
     "categories": [
-      "Sabedoria"
+      "Consolação"
     ],
-    "explanation": "Este versículo traz o convite à sabedoria que vem da Palavra de Deus. (Provérbios 3:5)"
+    "categorySlugs": [
+      "consolacao"
+    ],
+    "explanation": "<strong>2 Coríntios 12:9</strong>"
   },
   {
     "month": "11",
     "day": "17",
-    "text": "Vinde a mim todos os que estais cansados e sobrecarregados, e eu vos aliviarei.",
-    "reference": "Mateus 11:28",
+    "text": "Bem-aventurado o homem que confia no Senhor.",
+    "reference": "Provérbios 16:20",
     "categories": [
-      "Consolação"
+      "Confiança"
     ],
-    "explanation": "Este versículo traz consolo e alívio vindos do Senhor nos momentos de dor. (Mateus 11:28)"
+    "categorySlugs": [
+      "confianca"
+    ],
+    "explanation": "<strong>Provérbios 16:20</strong>"
   },
   {
     "month": "11",
     "day": "18",
-    "text": "Não temas, porque eu sou contigo; não te assombres, porque eu sou teu Deus.",
-    "reference": "Isaías 41:10",
+    "text": "Jesus Cristo é o mesmo ontem, hoje e eternamente.",
+    "reference": "Hebreus 13:8",
     "categories": [
-      "Coragem"
+      "Fé"
     ],
-    "explanation": "Este versículo convida a ter coragem e firmeza diante das provações. (Isaías 41:10)"
+    "categorySlugs": [
+      "fe"
+    ],
+    "explanation": "<strong>Hebreus 13:8</strong>"
   },
   {
     "month": "11",
     "day": "19",
-    "text": "Lâmpada para os meus pés é a tua palavra e luz para o meu caminho.",
-    "reference": "Salmos 119:105",
+    "text": "Fé sem obras é morta.",
+    "reference": "Tiago 2:17",
     "categories": [
-      "Sabedoria"
+      "Obediência"
     ],
-    "explanation": "Este versículo traz o convite à sabedoria que vem da Palavra de Deus. (Salmos 119:105)"
+    "categorySlugs": [
+      "obediencia"
+    ],
+    "explanation": "<strong>Tiago 2:17</strong>"
   },
   {
     "month": "11",
     "day": "20",
-    "text": "Buscai primeiro o Reino de Deus e a sua justiça, e todas essas coisas serão acrescentadas.",
-    "reference": "Mateus 6:33",
+    "text": "Onde está o teu tesouro, aí estará também o teu coração.",
+    "reference": "Mateus 6:21",
     "categories": [
-      "Obediência"
+      "Sabedoria"
     ],
-    "explanation": "Este versículo convida a viver em obediência à vontade do Senhor. (Mateus 6:33)"
+    "categorySlugs": [
+      "sabedoria"
+    ],
+    "explanation": "<strong>Mateus 6:21</strong>"
   },
   {
     "month": "11",
@@ -3247,7 +4219,10 @@
     "categories": [
       "Fé"
     ],
-    "explanation": "Este versículo reforça a fé e a confiança em Deus como base da caminhada espiritual. (Gênesis 1:1)"
+    "categorySlugs": [
+      "fe"
+    ],
+    "explanation": "<strong>Gênesis 1:1</strong>"
   },
   {
     "month": "11",
@@ -3257,7 +4232,10 @@
     "categories": [
       "Confiança"
     ],
-    "explanation": "Este versículo ensina a confiar em Deus em todas as situações. (Salmos 23:1)"
+    "categorySlugs": [
+      "confianca"
+    ],
+    "explanation": "<strong>Salmos 23:1</strong>"
   },
   {
     "month": "11",
@@ -3267,7 +4245,10 @@
     "categories": [
       "Amor"
     ],
-    "explanation": "Este versículo fala do amor divino que transforma a vida e ensina a amar ao próximo. (João 3:16)"
+    "categorySlugs": [
+      "amor"
+    ],
+    "explanation": "<strong>João 3:16</strong>"
   },
   {
     "month": "11",
@@ -3277,7 +4258,10 @@
     "categories": [
       "Coragem"
     ],
-    "explanation": "Este versículo convida a ter coragem e firmeza diante das provações. (Filipenses 4:13)"
+    "categorySlugs": [
+      "coragem"
+    ],
+    "explanation": "<strong>Filipenses 4:13</strong>"
   },
   {
     "month": "11",
@@ -3287,7 +4271,10 @@
     "categories": [
       "Esperança"
     ],
-    "explanation": "Este versículo mostra que a esperança em Deus renova forças mesmo em tempos difíceis. (Jeremias 29:11)"
+    "categorySlugs": [
+      "esperanca"
+    ],
+    "explanation": "<strong>Jeremias 29:11</strong>"
   },
   {
     "month": "11",
@@ -3297,7 +4284,10 @@
     "categories": [
       "Paz"
     ],
-    "explanation": "Este versículo aponta para a paz que só Deus pode oferecer em meio às tribulações. (Salmos 46:1)"
+    "categorySlugs": [
+      "paz"
+    ],
+    "explanation": "<strong>Salmos 46:1</strong>"
   },
   {
     "month": "11",
@@ -3307,7 +4297,10 @@
     "categories": [
       "Confiança"
     ],
-    "explanation": "Este versículo ensina a confiar em Deus em todas as situações. (Romanos 8:28)"
+    "categorySlugs": [
+      "confianca"
+    ],
+    "explanation": "<strong>Romanos 8:28</strong>"
   },
   {
     "month": "11",
@@ -3317,7 +4310,10 @@
     "categories": [
       "Sabedoria"
     ],
-    "explanation": "Este versículo traz o convite à sabedoria que vem da Palavra de Deus. (Provérbios 3:5)"
+    "categorySlugs": [
+      "sabedoria"
+    ],
+    "explanation": "<strong>Provérbios 3:5</strong>"
   },
   {
     "month": "11",
@@ -3327,7 +4323,10 @@
     "categories": [
       "Consolação"
     ],
-    "explanation": "Este versículo traz consolo e alívio vindos do Senhor nos momentos de dor. (Mateus 11:28)"
+    "categorySlugs": [
+      "consolacao"
+    ],
+    "explanation": "<strong>Mateus 11:28</strong>"
   },
   {
     "month": "11",
@@ -3337,7 +4336,10 @@
     "categories": [
       "Coragem"
     ],
-    "explanation": "Este versículo convida a ter coragem e firmeza diante das provações. (Isaías 41:10)"
+    "categorySlugs": [
+      "coragem"
+    ],
+    "explanation": "<strong>Isaías 41:10</strong>"
   },
   {
     "month": "12",
@@ -3347,7 +4349,10 @@
     "categories": [
       "Sabedoria"
     ],
-    "explanation": "Este versículo traz o convite à sabedoria que vem da Palavra de Deus. (Salmos 119:105)"
+    "categorySlugs": [
+      "sabedoria"
+    ],
+    "explanation": "<strong>Salmos 119:105</strong>"
   },
   {
     "month": "12",
@@ -3357,296 +4362,386 @@
     "categories": [
       "Obediência"
     ],
-    "explanation": "Este versículo convida a viver em obediência à vontade do Senhor. (Mateus 6:33)"
+    "categorySlugs": [
+      "obediencia"
+    ],
+    "explanation": "<strong>Mateus 6:33</strong>"
   },
   {
     "month": "12",
     "day": "03",
-    "text": "No princípio, Deus criou os céus e a terra.",
-    "reference": "Gênesis 1:1",
+    "text": "Provai e vede que o Senhor é bom; bem-aventurado o que nele se refugia.",
+    "reference": "Salmos 34:8",
     "categories": [
-      "Fé"
+      "Gratidao"
     ],
-    "explanation": "Este versículo reforça a fé e a confiança em Deus como base da caminhada espiritual. (Gênesis 1:1)"
+    "categorySlugs": [
+      "gratidao"
+    ],
+    "explanation": "<strong>Salmos 34:8</strong>"
   },
   {
     "month": "12",
     "day": "04",
-    "text": "O Senhor é meu pastor; nada me faltará.",
-    "reference": "Salmos 23:1",
+    "text": "Não vos conformeis com este mundo, mas transformai-vos pela renovação da mente.",
+    "reference": "Romanos 12:2",
     "categories": [
-      "Confiança"
+      "Santidade"
     ],
-    "explanation": "Este versículo ensina a confiar em Deus em todas as situações. (Salmos 23:1)"
+    "categorySlugs": [
+      "santidade"
+    ],
+    "explanation": "<strong>Romanos 12:2</strong>"
   },
   {
     "month": "12",
     "day": "05",
-    "text": "Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito.",
-    "reference": "João 3:16",
+    "text": "O amor é paciente, é benigno; o amor tudo sofre, tudo crê, tudo espera, tudo suporta.",
+    "reference": "1 Coríntios 13:4-7",
     "categories": [
       "Amor"
     ],
-    "explanation": "Este versículo fala do amor divino que transforma a vida e ensina a amar ao próximo. (João 3:16)"
+    "categorySlugs": [
+      "amor"
+    ],
+    "explanation": "<strong>1 Coríntios 13:4-7</strong>"
   },
   {
     "month": "12",
     "day": "06",
-    "text": "Posso todas as coisas naquele que me fortalece.",
-    "reference": "Filipenses 4:13",
+    "text": "Aquele que habita no esconderijo do Altíssimo, à sombra do Onipotente descansará.",
+    "reference": "Salmos 91:1",
     "categories": [
-      "Coragem"
+      "Paz"
     ],
-    "explanation": "Este versículo convida a ter coragem e firmeza diante das provações. (Filipenses 4:13)"
+    "categorySlugs": [
+      "paz"
+    ],
+    "explanation": "<strong>Salmos 91:1</strong>"
   },
   {
     "month": "12",
     "day": "07",
-    "text": "Eu é que sei os planos que tenho para vocês, diz o Senhor: planos de paz e não de mal.",
-    "reference": "Jeremias 29:11",
+    "text": "Não te mandei eu? Sê forte e corajoso; não temas nem te espantes.",
+    "reference": "Josué 1:9",
     "categories": [
-      "Esperança"
+      "Coragem"
     ],
-    "explanation": "Este versículo mostra que a esperança em Deus renova forças mesmo em tempos difíceis. (Jeremias 29:11)"
+    "categorySlugs": [
+      "coragem"
+    ],
+    "explanation": "<strong>Josué 1:9</strong>"
   },
   {
     "month": "12",
     "day": "08",
-    "text": "Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia.",
-    "reference": "Salmos 46:1",
+    "text": "Disse-lhe Jesus: Eu sou o caminho, a verdade e a vida.",
+    "reference": "João 14:6",
     "categories": [
-      "Paz"
+      "Fé"
     ],
-    "explanation": "Este versículo aponta para a paz que só Deus pode oferecer em meio às tribulações. (Salmos 46:1)"
+    "categorySlugs": [
+      "fe"
+    ],
+    "explanation": "<strong>João 14:6</strong>"
   },
   {
     "month": "12",
     "day": "09",
-    "text": "Sabemos que todas as coisas cooperam para o bem dos que amam a Deus.",
-    "reference": "Romanos 8:28",
+    "text": "No princípio era o Verbo, e o Verbo estava com Deus, e o Verbo era Deus.",
+    "reference": "João 1:1",
     "categories": [
-      "Confiança"
+      "Fé"
     ],
-    "explanation": "Este versículo ensina a confiar em Deus em todas as situações. (Romanos 8:28)"
+    "categorySlugs": [
+      "fe"
+    ],
+    "explanation": "<strong>João 1:1</strong>"
   },
   {
     "month": "12",
     "day": "10",
-    "text": "Confia no Senhor de todo o teu coração e não te apoies em teu próprio entendimento.",
-    "reference": "Provérbios 3:5",
+    "text": "O Senhor é a minha luz e a minha salvação; a quem temerei?",
+    "reference": "Salmos 27:1",
     "categories": [
-      "Sabedoria"
+      "Coragem"
     ],
-    "explanation": "Este versículo traz o convite à sabedoria que vem da Palavra de Deus. (Provérbios 3:5)"
+    "categorySlugs": [
+      "coragem"
+    ],
+    "explanation": "<strong>Salmos 27:1</strong>"
   },
   {
     "month": "12",
     "day": "11",
-    "text": "Vinde a mim todos os que estais cansados e sobrecarregados, e eu vos aliviarei.",
-    "reference": "Mateus 11:28",
+    "text": "Entrega o teu caminho ao Senhor; confia nele, e o mais ele fará.",
+    "reference": "Salmos 37:5",
     "categories": [
-      "Consolação"
+      "Confiança"
     ],
-    "explanation": "Este versículo traz consolo e alívio vindos do Senhor nos momentos de dor. (Mateus 11:28)"
+    "categorySlugs": [
+      "confianca"
+    ],
+    "explanation": "<strong>Salmos 37:5</strong>"
   },
   {
     "month": "12",
     "day": "12",
-    "text": "Não temas, porque eu sou contigo; não te assombres, porque eu sou teu Deus.",
-    "reference": "Isaías 41:10",
+    "text": "Bem-aventurados os que choram, porque serão consolados.",
+    "reference": "Mateus 5:4",
     "categories": [
-      "Coragem"
+      "Consolação"
     ],
-    "explanation": "Este versículo convida a ter coragem e firmeza diante das provações. (Isaías 41:10)"
+    "categorySlugs": [
+      "consolacao"
+    ],
+    "explanation": "<strong>Mateus 5:4</strong>"
   },
   {
     "month": "12",
     "day": "13",
-    "text": "Lâmpada para os meus pés é a tua palavra e luz para o meu caminho.",
-    "reference": "Salmos 119:105",
+    "text": "Clama a mim, e responder-te-ei; anunciar-te-ei coisas grandes e ocultas.",
+    "reference": "Jeremias 33:3",
     "categories": [
       "Sabedoria"
     ],
-    "explanation": "Este versículo traz o convite à sabedoria que vem da Palavra de Deus. (Salmos 119:105)"
+    "categorySlugs": [
+      "sabedoria"
+    ],
+    "explanation": "<strong>Jeremias 33:3</strong>"
   },
   {
     "month": "12",
     "day": "14",
-    "text": "Buscai primeiro o Reino de Deus e a sua justiça, e todas essas coisas serão acrescentadas.",
-    "reference": "Mateus 6:33",
+    "text": "Se Deus é por nós, quem será contra nós?",
+    "reference": "Romanos 8:31",
     "categories": [
-      "Obediência"
+      "Confiança"
     ],
-    "explanation": "Este versículo convida a viver em obediência à vontade do Senhor. (Mateus 6:33)"
+    "categorySlugs": [
+      "confianca"
+    ],
+    "explanation": "<strong>Romanos 8:31</strong>"
   },
   {
     "month": "12",
     "day": "15",
-    "text": "No princípio, Deus criou os céus e a terra.",
-    "reference": "Gênesis 1:1",
+    "text": "Crê no Senhor Jesus e serás salvo, tu e tua casa.",
+    "reference": "Atos 16:31",
     "categories": [
       "Fé"
     ],
-    "explanation": "Este versículo reforça a fé e a confiança em Deus como base da caminhada espiritual. (Gênesis 1:1)"
+    "categorySlugs": [
+      "fe"
+    ],
+    "explanation": "<strong>Atos 16:31</strong>"
   },
   {
     "month": "12",
     "day": "16",
-    "text": "O Senhor é meu pastor; nada me faltará.",
-    "reference": "Salmos 23:1",
+    "text": "Sede fortes e corajosos; o Senhor vai convosco.",
+    "reference": "Deuteronômio 31:6",
     "categories": [
-      "Confiança"
+      "Coragem"
     ],
-    "explanation": "Este versículo ensina a confiar em Deus em todas as situações. (Salmos 23:1)"
+    "categorySlugs": [
+      "coragem"
+    ],
+    "explanation": "<strong>Deuteronômio 31:6</strong>"
   },
   {
     "month": "12",
     "day": "17",
-    "text": "Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito.",
-    "reference": "João 3:16",
+    "text": "O Senhor pelejará por vós, e vós vos calareis.",
+    "reference": "Êxodo 14:14",
     "categories": [
-      "Amor"
+      "Confiança"
     ],
-    "explanation": "Este versículo fala do amor divino que transforma a vida e ensina a amar ao próximo. (João 3:16)"
+    "categorySlugs": [
+      "confianca"
+    ],
+    "explanation": "<strong>Êxodo 14:14</strong>"
   },
   {
     "month": "12",
     "day": "18",
-    "text": "Posso todas as coisas naquele que me fortalece.",
-    "reference": "Filipenses 4:13",
+    "text": "Alegrai-vos sempre no Senhor; outra vez digo: alegrai-vos.",
+    "reference": "Filipenses 4:4",
     "categories": [
-      "Coragem"
+      "Louvor"
     ],
-    "explanation": "Este versículo convida a ter coragem e firmeza diante das provações. (Filipenses 4:13)"
+    "categorySlugs": [
+      "louvor"
+    ],
+    "explanation": "<strong>Filipenses 4:4</strong>"
   },
   {
     "month": "12",
     "day": "19",
-    "text": "Eu é que sei os planos que tenho para vocês, diz o Senhor: planos de paz e não de mal.",
-    "reference": "Jeremias 29:11",
+    "text": "A fé é a certeza das coisas que se esperam e a convicção de fatos que não se veem.",
+    "reference": "Hebreus 11:1",
     "categories": [
-      "Esperança"
+      "Fé"
     ],
-    "explanation": "Este versículo mostra que a esperança em Deus renova forças mesmo em tempos difíceis. (Jeremias 29:11)"
+    "categorySlugs": [
+      "fe"
+    ],
+    "explanation": "<strong>Hebreus 11:1</strong>"
   },
   {
     "month": "12",
     "day": "20",
-    "text": "Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia.",
-    "reference": "Salmos 46:1",
+    "text": "Cria em mim, ó Deus, um coração puro e renova em mim um espírito reto.",
+    "reference": "Salmos 51:10",
     "categories": [
-      "Paz"
+      "Santidade"
     ],
-    "explanation": "Este versículo aponta para a paz que só Deus pode oferecer em meio às tribulações. (Salmos 46:1)"
+    "categorySlugs": [
+      "santidade"
+    ],
+    "explanation": "<strong>Salmos 51:10</strong>"
   },
   {
     "month": "12",
     "day": "21",
-    "text": "Sabemos que todas as coisas cooperam para o bem dos que amam a Deus.",
-    "reference": "Romanos 8:28",
+    "text": "A resposta branda desvia o furor.",
+    "reference": "Provérbios 15:1",
     "categories": [
-      "Confiança"
+      "Sabedoria"
     ],
-    "explanation": "Este versículo ensina a confiar em Deus em todas as situações. (Romanos 8:28)"
+    "categorySlugs": [
+      "sabedoria"
+    ],
+    "explanation": "<strong>Provérbios 15:1</strong>"
   },
   {
     "month": "12",
     "day": "22",
-    "text": "Confia no Senhor de todo o teu coração e não te apoies em teu próprio entendimento.",
-    "reference": "Provérbios 3:5",
+    "text": "O Senhor dos Exércitos está conosco; o Deus de Jacó é o nosso refúgio.",
+    "reference": "Salmos 46:7",
     "categories": [
-      "Sabedoria"
+      "Paz"
     ],
-    "explanation": "Este versículo traz o convite à sabedoria que vem da Palavra de Deus. (Provérbios 3:5)"
+    "categorySlugs": [
+      "paz"
+    ],
+    "explanation": "<strong>Salmos 46:7</strong>"
   },
   {
     "month": "12",
     "day": "23",
-    "text": "Vinde a mim todos os que estais cansados e sobrecarregados, e eu vos aliviarei.",
-    "reference": "Mateus 11:28",
+    "text": "O Senhor é bom, e a sua misericórdia dura para sempre.",
+    "reference": "Salmos 100:5",
     "categories": [
-      "Consolação"
+      "Gratidao"
     ],
-    "explanation": "Este versículo traz consolo e alívio vindos do Senhor nos momentos de dor. (Mateus 11:28)"
+    "categorySlugs": [
+      "gratidao"
+    ],
+    "explanation": "<strong>Salmos 100:5</strong>"
   },
   {
     "month": "12",
     "day": "24",
-    "text": "Não temas, porque eu sou contigo; não te assombres, porque eu sou teu Deus.",
-    "reference": "Isaías 41:10",
+    "text": "Perdoai, e sereis perdoados.",
+    "reference": "Lucas 6:37",
     "categories": [
-      "Coragem"
+      "Perdão"
     ],
-    "explanation": "Este versículo convida a ter coragem e firmeza diante das provações. (Isaías 41:10)"
+    "categorySlugs": [
+      "perdao"
+    ],
+    "explanation": "<strong>Lucas 6:37</strong>"
   },
   {
     "month": "12",
     "day": "25",
-    "text": "Lâmpada para os meus pés é a tua palavra e luz para o meu caminho.",
-    "reference": "Salmos 119:105",
+    "text": "Aquietai-vos e sabei que eu sou Deus.",
+    "reference": "Salmos 46:10",
     "categories": [
-      "Sabedoria"
+      "Paz"
     ],
-    "explanation": "Este versículo traz o convite à sabedoria que vem da Palavra de Deus. (Salmos 119:105)"
+    "categorySlugs": [
+      "paz"
+    ],
+    "explanation": "<strong>Salmos 46:10</strong>"
   },
   {
     "month": "12",
     "day": "26",
-    "text": "Buscai primeiro o Reino de Deus e a sua justiça, e todas essas coisas serão acrescentadas.",
-    "reference": "Mateus 6:33",
+    "text": "Ensina-nos a contar os nossos dias, para que alcancemos coração sábio.",
+    "reference": "Salmos 90:12",
     "categories": [
-      "Obediência"
+      "Sabedoria"
     ],
-    "explanation": "Este versículo convida a viver em obediência à vontade do Senhor. (Mateus 6:33)"
+    "categorySlugs": [
+      "sabedoria"
+    ],
+    "explanation": "<strong>Salmos 90:12</strong>"
   },
   {
     "month": "12",
     "day": "27",
-    "text": "No princípio, Deus criou os céus e a terra.",
-    "reference": "Gênesis 1:1",
+    "text": "O temor do Senhor é o princípio da sabedoria.",
+    "reference": "Provérbios 9:10",
     "categories": [
-      "Fé"
+      "Sabedoria"
     ],
-    "explanation": "Este versículo reforça a fé e a confiança em Deus como base da caminhada espiritual. (Gênesis 1:1)"
+    "categorySlugs": [
+      "sabedoria"
+    ],
+    "explanation": "<strong>Provérbios 9:10</strong>"
   },
   {
     "month": "12",
     "day": "28",
-    "text": "O Senhor é meu pastor; nada me faltará.",
-    "reference": "Salmos 23:1",
+    "text": "Sede prontos para ouvir, tardios para falar e tardios para se irar.",
+    "reference": "Tiago 1:19",
     "categories": [
-      "Confiança"
+      "Sabedoria"
     ],
-    "explanation": "Este versículo ensina a confiar em Deus em todas as situações. (Salmos 23:1)"
+    "categorySlugs": [
+      "sabedoria"
+    ],
+    "explanation": "<strong>Tiago 1:19</strong>"
   },
   {
     "month": "12",
     "day": "29",
-    "text": "Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito.",
-    "reference": "João 3:16",
+    "text": "Sobre tudo o que se deve guardar, guarda o coração.",
+    "reference": "Provérbios 4:23",
     "categories": [
-      "Amor"
+      "Sabedoria"
     ],
-    "explanation": "Este versículo fala do amor divino que transforma a vida e ensina a amar ao próximo. (João 3:16)"
+    "categorySlugs": [
+      "sabedoria"
+    ],
+    "explanation": "<strong>Provérbios 4:23</strong>"
   },
   {
     "month": "12",
     "day": "30",
-    "text": "Posso todas as coisas naquele que me fortalece.",
-    "reference": "Filipenses 4:13",
+    "text": "Bem-aventurados os pacificadores, porque serão chamados filhos de Deus.",
+    "reference": "Mateus 5:9",
     "categories": [
-      "Coragem"
+      "Paz"
     ],
-    "explanation": "Este versículo convida a ter coragem e firmeza diante das provações. (Filipenses 4:13)"
+    "categorySlugs": [
+      "paz"
+    ],
+    "explanation": "<strong>Mateus 5:9</strong>"
   },
   {
     "month": "12",
     "day": "31",
-    "text": "Eu é que sei os planos que tenho para vocês, diz o Senhor: planos de paz e não de mal.",
-    "reference": "Jeremias 29:11",
+    "text": "Lançai sobre ele toda a vossa ansiedade, porque ele tem cuidado de vós.",
+    "reference": "1 Pedro 5:7",
     "categories": [
-      "Esperança"
+      "Confiança"
     ],
-    "explanation": "Este versículo mostra que a esperança em Deus renova forças mesmo em tempos difíceis. (Jeremias 29:11)"
+    "categorySlugs": [
+      "confianca"
+    ],
+    "explanation": "<strong>1 Pedro 5:7</strong>"
   }
 ]
