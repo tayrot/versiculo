@@ -78,7 +78,7 @@
 <script>
 async function loadCategory(category) {
   try {
-    const resp = await fetch('/data/verses_365.json'); // ajuste caminho se necessário
+    const resp = await fetch('/data/verses.json'); // ajuste caminho se necessário
     const verses = await resp.json();
     const container = document.getElementById('verses-list');
     container.innerHTML = '';
