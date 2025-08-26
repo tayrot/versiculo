@@ -1,8 +1,118 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-<head><meta charset="UTF-8"><title>Categoria Confiança</title></head>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Categoria: Confiança</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    body {
+      background: linear-gradient(180deg, #e0f7fa, #bbdefb);
+      color: #0d47a1;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    .navbar {
+      background: linear-gradient(90deg, #2196f3, #64b5f6);
+    }
+    .navbar-brand, .navbar-nav .nav-link {
+      color: white !important;
+      font-weight: 600;
+    }
+    .navbar-nav .nav-link:hover {
+      color: #bbdefb !important;
+    }
+    .verse-box {
+      background: white;
+      padding: 20px;
+      border-radius: 12px;
+      margin: 15px auto;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+      text-align: center;
+      max-width: 800px;
+    }
+  </style>
+</head>
 <body>
-  <h1>Categoria: Confiança</h1>
-  <ul>
-<li>“Não temas, porque eu sou contigo; não te assombres, porque eu sou o teu Deus; eu te fortaleço, e te ajudo, e te sustento com a destra da minha justiça.” — Isaías 41:10</li>
-</ul></body></html>
+
+<!-- Navbar igual ao index -->
+<nav class="navbar navbar-expand-lg">
+  <div class="container">
+    <a class="navbar-brand" href="/">Versículo do Dia</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+      aria-controls="navbarNav" aria-expanded="false" aria-label="Alternar navegação">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav ms-auto">
+        <li class="nav-item"><a class="nav-link" href="/">Início</a></li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="categoriasDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Categorias
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="categoriasDropdown">
+            <li><a class="dropdown-item" href="/categorias/confianca.html">Confiança</a></li>
+            <li><a class="dropdown-item" href="/categorias/coragem.html">Coragem</a></li>
+            <li><a class="dropdown-item" href="/categorias/esperanca.html">Esperança</a></li>
+            <li><a class="dropdown-item" href="/categorias/amor.html">Amor</a></li>
+            <li><a class="dropdown-item" href="/categorias/gratidao.html">Gratidão</a></li>
+            <li><a class="dropdown-item" href="/categorias/paz.html">Paz</a></li>
+          </ul>
+        </li>
+        <li class="nav-item"><a class="nav-link" href="/sobre.html">Sobre</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<!-- Conteúdo da categoria -->
+<main class="container my-4">
+  <h1 class="text-center mb-4">Categoria: Confiança</h1>
+  <div id="verses-list"></div>
+</main>
+
+<footer class="text-center p-3" style="background:#2196f3; color:white;">
+  © 2025 versiculododia.net
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+<script>
+async function loadCategory(category) {
+  try {
+    const resp = await fetch('/data/verses.json'); // caminho do JSON
+    const verses = await resp.json();
+    const container = document.getElementById('verses-list');
+    container.innerHTML = '';
+
+    const filtered = verses.filter(v => v.categories.some(c => c.toLowerCase() === category.toLowerCase()));
+    
+    if (filtered.length === 0) {
+      container.innerHTML = '<p>Nenhum versículo encontrado nesta categoria.</p>';
+    } else {
+      filtered.forEach(v => {
+        const div = document.createElement('div');
+        div.className = "verse-box";
+        div.innerHTML = `
+          <p style="font-size:1.2rem">“${v.text}”</p>
+          <p><strong>${v.reference}</strong></p>
+          <button class="btn btn-primary mt-2" type="button" data-bs-toggle="collapse" data-bs-target="#exp-${v.month}${v.day}" aria-expanded="false">
+            Explicação
+          </button>
+          <div class="collapse mt-2" id="exp-${v.month}${v.day}">
+            <div class="card card-body text-start" style="color:#0d47a1;">
+              ${v.explanation}
+            </div>
+          </div>
+        `;
+        container.appendChild(div);
+      });
+    }
+  } catch (e) {
+    document.getElementById('verses-list').innerHTML = '<p>Erro ao carregar versículos.</p>';
+  }
+}
+
+loadCategory('Confiança');
+</script>
+
+</body>
+</html>
